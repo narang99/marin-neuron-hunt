@@ -1,0 +1,57 @@
+# Round 7: person and number of the subject, same four predicates.
+groups:
+  I:
+  - I arrive by bus every[[ week]].
+  - I visit the old castle every[[ week]].
+  - I come to the market every[[ week]].
+  - I pray at the shrine every[[ week]].
+  He:
+  - He arrives by bus every[[ week]].
+  - He visits the old castle every[[ week]].
+  - He comes to the market every[[ week]].
+  - He prays at the shrine every[[ week]].
+  My_brother:
+  - My brother arrives by bus every[[ week]].
+  - My brother visits the old castle every[[ week]].
+  - My brother comes to the market every[[ week]].
+  - My brother prays at the shrine every[[ week]].
+  A_pilgrim:
+  - A pilgrim arrives by bus every[[ week]].
+  - A pilgrim visits the old castle every[[ week]].
+  - A pilgrim comes to the market every[[ week]].
+  - A pilgrim prays at the shrine every[[ week]].
+  The_pilgrim:
+  - The pilgrim arrives by bus every[[ week]].
+  - The pilgrim visits the old castle every[[ week]].
+  - The pilgrim comes to the market every[[ week]].
+  - The pilgrim prays at the shrine every[[ week]].
+  One_pilgrim:
+  - One pilgrim arrives by bus every[[ week]].
+  - One pilgrim visits the old castle every[[ week]].
+  - One pilgrim comes to the market every[[ week]].
+  - One pilgrim prays at the shrine every[[ week]].
+  Two_pilgrims:
+  - Two pilgrims arrive by bus every[[ week]].
+  - Two pilgrims visit the old castle every[[ week]].
+  - Two pilgrims come to the market every[[ week]].
+  - Two pilgrims pray at the shrine every[[ week]].
+  The_pilgrims:
+  - The pilgrims arrive by bus every[[ week]].
+  - The pilgrims visit the old castle every[[ week]].
+  - The pilgrims come to the market every[[ week]].
+  - The pilgrims pray at the shrine every[[ week]].
+  Pilgrims:
+  - Pilgrims arrive by bus every[[ week]].
+  - Pilgrims visit the old castle every[[ week]].
+  - Pilgrims come to the market every[[ week]].
+  - Pilgrims pray at the shrine every[[ week]].
+  Many_pilgrims:
+  - Many pilgrims arrive by bus every[[ week]].
+  - Many pilgrims visit the old castle every[[ week]].
+  - Many pilgrims come to the market every[[ week]].
+  - Many pilgrims pray at the shrine every[[ week]].
+  Hundreds_of_pilgrims:
+  - Hundreds of pilgrims arrive by bus every[[ week]].
+  - Hundreds of pilgrims visit the old castle every[[ week]].
+  - Hundreds of pilgrims come to the market every[[ week]].
+  - Hundreds of pilgrims pray at the shrine every[[ week]].
