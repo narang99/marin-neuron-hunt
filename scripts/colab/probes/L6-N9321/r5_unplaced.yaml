@@ -1,0 +1,58 @@
+# Same one-off sentences with the time word swapped: weekday vs week, with and without a dated event before it.
+groups:
+  last_Tuesday:
+  - I saw the doctor last[[ Tuesday]] about my knee.
+  - The parcel came last[[ Tuesday]], a day late.
+  - We met the new neighbours last[[ Tuesday]] at the park.
+  - The storm knocked out the power last[[ Tuesday]].
+  - My sister called me last[[ Tuesday]] to say she was moving.
+  - The museum reopened last[[ Tuesday]] after the flood.
+  on_Tuesday:
+  - I saw the doctor on[[ Tuesday]] about my knee.
+  - The parcel came on[[ Tuesday]], a day late.
+  - We met the new neighbours on[[ Tuesday]] at the park.
+  - The storm knocked out the power on[[ Tuesday]].
+  - My sister called me on[[ Tuesday]] to say she was moving.
+  - The museum reopened on[[ Tuesday]] after the flood.
+  that_Tuesday:
+  - I saw the doctor that[[ Tuesday]] about my knee.
+  - The parcel came that[[ Tuesday]], a day late.
+  - We met the new neighbours that[[ Tuesday]] at the park.
+  - The storm knocked out the power that[[ Tuesday]].
+  - My sister called me that[[ Tuesday]] to say she was moving.
+  - The museum reopened that[[ Tuesday]] after the flood.
+  on_a_Tuesday:
+  - I saw the doctor on a[[ Tuesday]] about my knee.
+  - The parcel came on a[[ Tuesday]], a day late.
+  - We met the new neighbours on a[[ Tuesday]] at the park.
+  - The storm knocked out the power on a[[ Tuesday]].
+  - My sister called me on a[[ Tuesday]] to say she was moving.
+  - The museum reopened on a[[ Tuesday]] after the flood.
+  last_week:
+  - I saw the doctor last[[ week]] about my knee.
+  - The parcel came last[[ week]], a day late.
+  - We met the new neighbours last[[ week]] at the park.
+  - The storm knocked out the power last[[ week]].
+  - My sister called me last[[ week]] to say she was moving.
+  - The museum reopened last[[ week]] after the flood.
+  that_week:
+  - I saw the doctor that[[ week]] about my knee.
+  - The parcel came that[[ week]], a day late.
+  - We met the new neighbours that[[ week]] at the park.
+  - The storm knocked out the power that[[ week]].
+  - My sister called me that[[ week]] to say she was moving.
+  - The museum reopened that[[ week]] after the flood.
+  this_week:
+  - I saw the doctor this[[ week]] about my knee.
+  - The parcel came this[[ week]], a day late.
+  - We met the new neighbours this[[ week]] at the park.
+  - The storm knocked out the power this[[ week]].
+  - My sister called me this[[ week]] to say she was moving.
+  - The museum reopened this[[ week]] after the flood.
+  dated_event_weekday:
+  - My daughter was born on a[[ Tuesday]].
+  - That year, Christmas fell on a[[ Tuesday]].
+  - Her birthday falls on a[[ Tuesday]] this year.
+  - The wedding was planned for months. It finally happened on[[ Tuesday]].
+  - That year, New Year's Day fell on a[[ Tuesday]].
+  - We were married on a[[ Tuesday]] in June.
