@@ -1,0 +1,79 @@
+# L10-N18895 round 1: exploratory probes. Thresholds (fineweb-10m-sparse): + q99 0.130 q999 0.372 q9999 0.982;
+# - q99 0.130 q999 0.343 q9999 0.770.
+groups:
+  # A: same "until", deferral vs countdown
+  A_defer:
+    - "The laundry can wait[[ until]] tomorrow."
+    - "We decided to put off the trip[[ until]] spring."
+    - "I saved the best part[[ until]] last."
+    - "Let's hold off on the decision[[ until]] Monday."
+    - "The committee postponed the vote[[ until]] next month."
+    - "She delayed telling her parents[[ until]] after the exam."
+  A_countdown:
+    - "Only three days left[[ until]] the exam."
+    - "With a month to go[[ until]] the election, the polls are tight."
+    - "We still have twenty miles[[ until]] the next town."
+    - "Just two more sleeps[[ until]] Christmas!"
+    - "There are six weeks remaining[[ until]] the deadline."
+    - "It's only a matter of time[[ until]] the roof leaks."
+  # B: deferral without "wait"/"save" (H1 vs H1')
+  B_defer_noword:
+    - "The council deferred payment[[ until]] the audit was done."
+    - "The launch was pushed back[[ until]] the autumn."
+    - "They held off[[ until]] the rain stopped."
+    - "He kept the news to himself[[ until]] the weekend."
+    - "The release has been delayed[[ until]] further notice."
+  B_wait_word:
+    - "That question will have to[[ wait]]."
+    - "Dinner can[[ wait]]; the guests are late."
+    - "The repairs will just have to[[ wait]] a few weeks."
+    - "I had to[[ wait]] in line for an hour."
+    - "Please[[ wait]] here while I get the doctor."
+  # C: anticipation without an amount (H2 vs H2')
+  C_anticip:
+    - "I can't wait[[ until]] Christmas!"
+    - "We are counting the days[[ until]] the wedding."
+    - "The kids kept asking how long[[ until]] we get there."
+    - "She was looking forward to the weeks[[ until]] summer break."
+    - "I can hardly[[ wait]] for the concert."
+  # D: plain end-time "until" (H4)
+  D_plain:
+    - "The shop is open[[ until]] nine in the evening."
+    - "She lived in Paris[[ until]] 1990."
+    - "Stir the sauce[[ until]] it thickens."
+    - "Toast the breadcrumbs[[ until]] golden."
+    - "He worked at the bank[[ until]] he retired."
+    - "Walk straight on[[ until]] you reach the church."
+  # E: both cues at once
+  E_both:
+    - "We had to wait two more weeks[[ until]] the parts arrived."
+    - "With three days to go, we decided to wait[[ until]] the last minute."
+    - "Only a week left, but the paperwork can wait[[ until]] Friday."
+  # F: "for": deferral vs other uses
+  F_for_defer:
+    - "We saved the cake[[ for]] later."
+    - "Keep the receipts[[ for]] next year's taxes."
+    - "I am saving this bottle[[ for]] a special occasion."
+  F_for_other:
+    - "The subscription costs eight dollars a month[[ for]] everything."
+    - "Walk briskly[[ for]] ten minutes."
+    - "This gift is[[ for]] my mother."
+  # G: purpose "get" vs plain "get" (- side lumped or not)
+  G_purpose:
+    - "Redeem this code to[[ get]] a free coffee."
+    - "Sign up today to[[ receive]] our newsletter."
+    - "Click the button to[[ obtain]] more information."
+    - "Subscribe to the channel and[[ get]] daily updates."
+  G_plain:
+    - "I always[[ get]] tired after lunch."
+    - "The fridge doesn't[[ get]] very cold anymore."
+    - "Allergies will[[ get]] me every spring."
+    - "He[[ got]] a cold last week."
+  # J: random everyday sentences
+  J_random:
+    - "The cat slept on the warm[[ windowsill]]."
+    - "She poured a glass of cold[[ water]]."
+    - "The children laughed at the[[ clown]]."
+    - "He fixed the leaking kitchen[[ tap]]."
+    - "The train was late again this[[ morning]]."
+    - "Please pass me the[[ salt]]."
