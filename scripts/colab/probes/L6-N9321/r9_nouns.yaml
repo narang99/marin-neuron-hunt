@@ -1,0 +1,306 @@
+# Round 9: is it travel? Trip nouns vs commute, local and routine-religious nouns; one vs hundreds; every week vs every Friday.
+groups:
+  trip|pilgrim|one|week:
+  - A pilgrim comes to the market every[[ week]].
+  - A pilgrim gathers in the square every[[ week]].
+  - A pilgrim visits the old castle every[[ week]].
+  trip|pilgrim|hundreds|week:
+  - Hundreds of pilgrims come to the market every[[ week]].
+  - Hundreds of pilgrims gather in the square every[[ week]].
+  - Hundreds of pilgrims visit the old castle every[[ week]].
+  trip|pilgrim|one|Friday:
+  - A pilgrim comes to the market every[[ Friday]].
+  - A pilgrim gathers in the square every[[ Friday]].
+  - A pilgrim visits the old castle every[[ Friday]].
+  trip|pilgrim|hundreds|Friday:
+  - Hundreds of pilgrims come to the market every[[ Friday]].
+  - Hundreds of pilgrims gather in the square every[[ Friday]].
+  - Hundreds of pilgrims visit the old castle every[[ Friday]].
+  trip|tourist|one|week:
+  - A tourist comes to the market every[[ week]].
+  - A tourist gathers in the square every[[ week]].
+  - A tourist visits the old castle every[[ week]].
+  trip|tourist|hundreds|week:
+  - Hundreds of tourists come to the market every[[ week]].
+  - Hundreds of tourists gather in the square every[[ week]].
+  - Hundreds of tourists visit the old castle every[[ week]].
+  trip|tourist|one|Friday:
+  - A tourist comes to the market every[[ Friday]].
+  - A tourist gathers in the square every[[ Friday]].
+  - A tourist visits the old castle every[[ Friday]].
+  trip|tourist|hundreds|Friday:
+  - Hundreds of tourists come to the market every[[ Friday]].
+  - Hundreds of tourists gather in the square every[[ Friday]].
+  - Hundreds of tourists visit the old castle every[[ Friday]].
+  trip|traveller|one|week:
+  - A traveller comes to the market every[[ week]].
+  - A traveller gathers in the square every[[ week]].
+  - A traveller visits the old castle every[[ week]].
+  trip|traveller|hundreds|week:
+  - Hundreds of travellers come to the market every[[ week]].
+  - Hundreds of travellers gather in the square every[[ week]].
+  - Hundreds of travellers visit the old castle every[[ week]].
+  trip|traveller|one|Friday:
+  - A traveller comes to the market every[[ Friday]].
+  - A traveller gathers in the square every[[ Friday]].
+  - A traveller visits the old castle every[[ Friday]].
+  trip|traveller|hundreds|Friday:
+  - Hundreds of travellers come to the market every[[ Friday]].
+  - Hundreds of travellers gather in the square every[[ Friday]].
+  - Hundreds of travellers visit the old castle every[[ Friday]].
+  trip|visitor|one|week:
+  - A visitor comes to the market every[[ week]].
+  - A visitor gathers in the square every[[ week]].
+  - A visitor visits the old castle every[[ week]].
+  trip|visitor|hundreds|week:
+  - Hundreds of visitors come to the market every[[ week]].
+  - Hundreds of visitors gather in the square every[[ week]].
+  - Hundreds of visitors visit the old castle every[[ week]].
+  trip|visitor|one|Friday:
+  - A visitor comes to the market every[[ Friday]].
+  - A visitor gathers in the square every[[ Friday]].
+  - A visitor visits the old castle every[[ Friday]].
+  trip|visitor|hundreds|Friday:
+  - Hundreds of visitors come to the market every[[ Friday]].
+  - Hundreds of visitors gather in the square every[[ Friday]].
+  - Hundreds of visitors visit the old castle every[[ Friday]].
+  trip|backpacker|one|week:
+  - A backpacker comes to the market every[[ week]].
+  - A backpacker gathers in the square every[[ week]].
+  - A backpacker visits the old castle every[[ week]].
+  trip|backpacker|hundreds|week:
+  - Hundreds of backpackers come to the market every[[ week]].
+  - Hundreds of backpackers gather in the square every[[ week]].
+  - Hundreds of backpackers visit the old castle every[[ week]].
+  trip|backpacker|one|Friday:
+  - A backpacker comes to the market every[[ Friday]].
+  - A backpacker gathers in the square every[[ Friday]].
+  - A backpacker visits the old castle every[[ Friday]].
+  trip|backpacker|hundreds|Friday:
+  - Hundreds of backpackers come to the market every[[ Friday]].
+  - Hundreds of backpackers gather in the square every[[ Friday]].
+  - Hundreds of backpackers visit the old castle every[[ Friday]].
+  trip|holidaymaker|one|week:
+  - A holidaymaker comes to the market every[[ week]].
+  - A holidaymaker gathers in the square every[[ week]].
+  - A holidaymaker visits the old castle every[[ week]].
+  trip|holidaymaker|hundreds|week:
+  - Hundreds of holidaymakers come to the market every[[ week]].
+  - Hundreds of holidaymakers gather in the square every[[ week]].
+  - Hundreds of holidaymakers visit the old castle every[[ week]].
+  trip|holidaymaker|one|Friday:
+  - A holidaymaker comes to the market every[[ Friday]].
+  - A holidaymaker gathers in the square every[[ Friday]].
+  - A holidaymaker visits the old castle every[[ Friday]].
+  trip|holidaymaker|hundreds|Friday:
+  - Hundreds of holidaymakers come to the market every[[ Friday]].
+  - Hundreds of holidaymakers gather in the square every[[ Friday]].
+  - Hundreds of holidaymakers visit the old castle every[[ Friday]].
+  trip|sightseer|one|week:
+  - A sightseer comes to the market every[[ week]].
+  - A sightseer gathers in the square every[[ week]].
+  - A sightseer visits the old castle every[[ week]].
+  trip|sightseer|hundreds|week:
+  - Hundreds of sightseers come to the market every[[ week]].
+  - Hundreds of sightseers gather in the square every[[ week]].
+  - Hundreds of sightseers visit the old castle every[[ week]].
+  trip|sightseer|one|Friday:
+  - A sightseer comes to the market every[[ Friday]].
+  - A sightseer gathers in the square every[[ Friday]].
+  - A sightseer visits the old castle every[[ Friday]].
+  trip|sightseer|hundreds|Friday:
+  - Hundreds of sightseers come to the market every[[ Friday]].
+  - Hundreds of sightseers gather in the square every[[ Friday]].
+  - Hundreds of sightseers visit the old castle every[[ Friday]].
+  commute|commuter|one|week:
+  - A commuter comes to the market every[[ week]].
+  - A commuter gathers in the square every[[ week]].
+  - A commuter visits the old castle every[[ week]].
+  commute|commuter|hundreds|week:
+  - Hundreds of commuters come to the market every[[ week]].
+  - Hundreds of commuters gather in the square every[[ week]].
+  - Hundreds of commuters visit the old castle every[[ week]].
+  commute|commuter|one|Friday:
+  - A commuter comes to the market every[[ Friday]].
+  - A commuter gathers in the square every[[ Friday]].
+  - A commuter visits the old castle every[[ Friday]].
+  commute|commuter|hundreds|Friday:
+  - Hundreds of commuters come to the market every[[ Friday]].
+  - Hundreds of commuters gather in the square every[[ Friday]].
+  - Hundreds of commuters visit the old castle every[[ Friday]].
+  commute|passenger|one|week:
+  - A passenger comes to the market every[[ week]].
+  - A passenger gathers in the square every[[ week]].
+  - A passenger visits the old castle every[[ week]].
+  commute|passenger|hundreds|week:
+  - Hundreds of passengers come to the market every[[ week]].
+  - Hundreds of passengers gather in the square every[[ week]].
+  - Hundreds of passengers visit the old castle every[[ week]].
+  commute|passenger|one|Friday:
+  - A passenger comes to the market every[[ Friday]].
+  - A passenger gathers in the square every[[ Friday]].
+  - A passenger visits the old castle every[[ Friday]].
+  commute|passenger|hundreds|Friday:
+  - Hundreds of passengers come to the market every[[ Friday]].
+  - Hundreds of passengers gather in the square every[[ Friday]].
+  - Hundreds of passengers visit the old castle every[[ Friday]].
+  local|customer|one|week:
+  - A customer comes to the market every[[ week]].
+  - A customer gathers in the square every[[ week]].
+  - A customer visits the old castle every[[ week]].
+  local|customer|hundreds|week:
+  - Hundreds of customers come to the market every[[ week]].
+  - Hundreds of customers gather in the square every[[ week]].
+  - Hundreds of customers visit the old castle every[[ week]].
+  local|customer|one|Friday:
+  - A customer comes to the market every[[ Friday]].
+  - A customer gathers in the square every[[ Friday]].
+  - A customer visits the old castle every[[ Friday]].
+  local|customer|hundreds|Friday:
+  - Hundreds of customers come to the market every[[ Friday]].
+  - Hundreds of customers gather in the square every[[ Friday]].
+  - Hundreds of customers visit the old castle every[[ Friday]].
+  local|shopper|one|week:
+  - A shopper comes to the market every[[ week]].
+  - A shopper gathers in the square every[[ week]].
+  - A shopper visits the old castle every[[ week]].
+  local|shopper|hundreds|week:
+  - Hundreds of shoppers come to the market every[[ week]].
+  - Hundreds of shoppers gather in the square every[[ week]].
+  - Hundreds of shoppers visit the old castle every[[ week]].
+  local|shopper|one|Friday:
+  - A shopper comes to the market every[[ Friday]].
+  - A shopper gathers in the square every[[ Friday]].
+  - A shopper visits the old castle every[[ Friday]].
+  local|shopper|hundreds|Friday:
+  - Hundreds of shoppers come to the market every[[ Friday]].
+  - Hundreds of shoppers gather in the square every[[ Friday]].
+  - Hundreds of shoppers visit the old castle every[[ Friday]].
+  local|resident|one|week:
+  - A resident comes to the market every[[ week]].
+  - A resident gathers in the square every[[ week]].
+  - A resident visits the old castle every[[ week]].
+  local|resident|hundreds|week:
+  - Hundreds of residents come to the market every[[ week]].
+  - Hundreds of residents gather in the square every[[ week]].
+  - Hundreds of residents visit the old castle every[[ week]].
+  local|resident|one|Friday:
+  - A resident comes to the market every[[ Friday]].
+  - A resident gathers in the square every[[ Friday]].
+  - A resident visits the old castle every[[ Friday]].
+  local|resident|hundreds|Friday:
+  - Hundreds of residents come to the market every[[ Friday]].
+  - Hundreds of residents gather in the square every[[ Friday]].
+  - Hundreds of residents visit the old castle every[[ Friday]].
+  local|regular|one|week:
+  - A regular comes to the market every[[ week]].
+  - A regular gathers in the square every[[ week]].
+  - A regular visits the old castle every[[ week]].
+  local|regular|hundreds|week:
+  - Hundreds of regulars come to the market every[[ week]].
+  - Hundreds of regulars gather in the square every[[ week]].
+  - Hundreds of regulars visit the old castle every[[ week]].
+  local|regular|one|Friday:
+  - A regular comes to the market every[[ Friday]].
+  - A regular gathers in the square every[[ Friday]].
+  - A regular visits the old castle every[[ Friday]].
+  local|regular|hundreds|Friday:
+  - Hundreds of regulars come to the market every[[ Friday]].
+  - Hundreds of regulars gather in the square every[[ Friday]].
+  - Hundreds of regulars visit the old castle every[[ Friday]].
+  local|student|one|week:
+  - A student comes to the market every[[ week]].
+  - A student gathers in the square every[[ week]].
+  - A student visits the old castle every[[ week]].
+  local|student|hundreds|week:
+  - Hundreds of students come to the market every[[ week]].
+  - Hundreds of students gather in the square every[[ week]].
+  - Hundreds of students visit the old castle every[[ week]].
+  local|student|one|Friday:
+  - A student comes to the market every[[ Friday]].
+  - A student gathers in the square every[[ Friday]].
+  - A student visits the old castle every[[ Friday]].
+  local|student|hundreds|Friday:
+  - Hundreds of students come to the market every[[ Friday]].
+  - Hundreds of students gather in the square every[[ Friday]].
+  - Hundreds of students visit the old castle every[[ Friday]].
+  local|worker|one|week:
+  - A worker comes to the market every[[ week]].
+  - A worker gathers in the square every[[ week]].
+  - A worker visits the old castle every[[ week]].
+  local|worker|hundreds|week:
+  - Hundreds of workers come to the market every[[ week]].
+  - Hundreds of workers gather in the square every[[ week]].
+  - Hundreds of workers visit the old castle every[[ week]].
+  local|worker|one|Friday:
+  - A worker comes to the market every[[ Friday]].
+  - A worker gathers in the square every[[ Friday]].
+  - A worker visits the old castle every[[ Friday]].
+  local|worker|hundreds|Friday:
+  - Hundreds of workers come to the market every[[ Friday]].
+  - Hundreds of workers gather in the square every[[ Friday]].
+  - Hundreds of workers visit the old castle every[[ Friday]].
+  local|neighbour|one|week:
+  - A neighbour comes to the market every[[ week]].
+  - A neighbour gathers in the square every[[ week]].
+  - A neighbour visits the old castle every[[ week]].
+  local|neighbour|hundreds|week:
+  - Hundreds of neighbours come to the market every[[ week]].
+  - Hundreds of neighbours gather in the square every[[ week]].
+  - Hundreds of neighbours visit the old castle every[[ week]].
+  local|neighbour|one|Friday:
+  - A neighbour comes to the market every[[ Friday]].
+  - A neighbour gathers in the square every[[ Friday]].
+  - A neighbour visits the old castle every[[ Friday]].
+  local|neighbour|hundreds|Friday:
+  - Hundreds of neighbours come to the market every[[ Friday]].
+  - Hundreds of neighbours gather in the square every[[ Friday]].
+  - Hundreds of neighbours visit the old castle every[[ Friday]].
+  local|local|one|week:
+  - A local comes to the market every[[ week]].
+  - A local gathers in the square every[[ week]].
+  - A local visits the old castle every[[ week]].
+  local|local|hundreds|week:
+  - Hundreds of locals come to the market every[[ week]].
+  - Hundreds of locals gather in the square every[[ week]].
+  - Hundreds of locals visit the old castle every[[ week]].
+  local|local|one|Friday:
+  - A local comes to the market every[[ Friday]].
+  - A local gathers in the square every[[ Friday]].
+  - A local visits the old castle every[[ Friday]].
+  local|local|hundreds|Friday:
+  - Hundreds of locals come to the market every[[ Friday]].
+  - Hundreds of locals gather in the square every[[ Friday]].
+  - Hundreds of locals visit the old castle every[[ Friday]].
+  religious_routine|worshipper|one|week:
+  - A worshipper comes to the market every[[ week]].
+  - A worshipper gathers in the square every[[ week]].
+  - A worshipper visits the old castle every[[ week]].
+  religious_routine|worshipper|hundreds|week:
+  - Hundreds of worshippers come to the market every[[ week]].
+  - Hundreds of worshippers gather in the square every[[ week]].
+  - Hundreds of worshippers visit the old castle every[[ week]].
+  religious_routine|worshipper|one|Friday:
+  - A worshipper comes to the market every[[ Friday]].
+  - A worshipper gathers in the square every[[ Friday]].
+  - A worshipper visits the old castle every[[ Friday]].
+  religious_routine|worshipper|hundreds|Friday:
+  - Hundreds of worshippers come to the market every[[ Friday]].
+  - Hundreds of worshippers gather in the square every[[ Friday]].
+  - Hundreds of worshippers visit the old castle every[[ Friday]].
+  religious_routine|churchgoer|one|week:
+  - A churchgoer comes to the market every[[ week]].
+  - A churchgoer gathers in the square every[[ week]].
+  - A churchgoer visits the old castle every[[ week]].
+  religious_routine|churchgoer|hundreds|week:
+  - Hundreds of churchgoers come to the market every[[ week]].
+  - Hundreds of churchgoers gather in the square every[[ week]].
+  - Hundreds of churchgoers visit the old castle every[[ week]].
+  religious_routine|churchgoer|one|Friday:
+  - A churchgoer comes to the market every[[ Friday]].
+  - A churchgoer gathers in the square every[[ Friday]].
+  - A churchgoer visits the old castle every[[ Friday]].
+  religious_routine|churchgoer|hundreds|Friday:
+  - Hundreds of churchgoers come to the market every[[ Friday]].
+  - Hundreds of churchgoers gather in the square every[[ Friday]].
+  - Hundreds of churchgoers visit the old castle every[[ Friday]].
