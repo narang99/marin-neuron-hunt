@@ -1,0 +1,142 @@
+# Round 8: every week vs every <weekday>, across subjects from one person to a counted crowd; three fixed predicates.
+groups:
+  week|My brother:
+  - My brother arrives by bus every[[ week]].
+  - My brother visits the old castle every[[ week]].
+  - My brother comes to the market every[[ week]].
+  week|A customer:
+  - A customer arrives by bus every[[ week]].
+  - A customer visits the old castle every[[ week]].
+  - A customer comes to the market every[[ week]].
+  week|Customers:
+  - Customers arrive by bus every[[ week]].
+  - Customers visit the old castle every[[ week]].
+  - Customers come to the market every[[ week]].
+  week|Many customers:
+  - Many customers arrive by bus every[[ week]].
+  - Many customers visit the old castle every[[ week]].
+  - Many customers come to the market every[[ week]].
+  week|Hundreds of customers:
+  - Hundreds of customers arrive by bus every[[ week]].
+  - Hundreds of customers visit the old castle every[[ week]].
+  - Hundreds of customers come to the market every[[ week]].
+  week|Hundreds of pilgrims:
+  - Hundreds of pilgrims arrive by bus every[[ week]].
+  - Hundreds of pilgrims visit the old castle every[[ week]].
+  - Hundreds of pilgrims come to the market every[[ week]].
+  week|Thousands of tourists:
+  - Thousands of tourists arrive by bus every[[ week]].
+  - Thousands of tourists visit the old castle every[[ week]].
+  - Thousands of tourists come to the market every[[ week]].
+  Monday|My brother:
+  - My brother arrives by bus every[[ Monday]].
+  - My brother visits the old castle every[[ Monday]].
+  - My brother comes to the market every[[ Monday]].
+  Monday|A customer:
+  - A customer arrives by bus every[[ Monday]].
+  - A customer visits the old castle every[[ Monday]].
+  - A customer comes to the market every[[ Monday]].
+  Monday|Customers:
+  - Customers arrive by bus every[[ Monday]].
+  - Customers visit the old castle every[[ Monday]].
+  - Customers come to the market every[[ Monday]].
+  Monday|Many customers:
+  - Many customers arrive by bus every[[ Monday]].
+  - Many customers visit the old castle every[[ Monday]].
+  - Many customers come to the market every[[ Monday]].
+  Monday|Hundreds of customers:
+  - Hundreds of customers arrive by bus every[[ Monday]].
+  - Hundreds of customers visit the old castle every[[ Monday]].
+  - Hundreds of customers come to the market every[[ Monday]].
+  Monday|Hundreds of pilgrims:
+  - Hundreds of pilgrims arrive by bus every[[ Monday]].
+  - Hundreds of pilgrims visit the old castle every[[ Monday]].
+  - Hundreds of pilgrims come to the market every[[ Monday]].
+  Monday|Thousands of tourists:
+  - Thousands of tourists arrive by bus every[[ Monday]].
+  - Thousands of tourists visit the old castle every[[ Monday]].
+  - Thousands of tourists come to the market every[[ Monday]].
+  Wednesday|My brother:
+  - My brother arrives by bus every[[ Wednesday]].
+  - My brother visits the old castle every[[ Wednesday]].
+  - My brother comes to the market every[[ Wednesday]].
+  Wednesday|A customer:
+  - A customer arrives by bus every[[ Wednesday]].
+  - A customer visits the old castle every[[ Wednesday]].
+  - A customer comes to the market every[[ Wednesday]].
+  Wednesday|Customers:
+  - Customers arrive by bus every[[ Wednesday]].
+  - Customers visit the old castle every[[ Wednesday]].
+  - Customers come to the market every[[ Wednesday]].
+  Wednesday|Many customers:
+  - Many customers arrive by bus every[[ Wednesday]].
+  - Many customers visit the old castle every[[ Wednesday]].
+  - Many customers come to the market every[[ Wednesday]].
+  Wednesday|Hundreds of customers:
+  - Hundreds of customers arrive by bus every[[ Wednesday]].
+  - Hundreds of customers visit the old castle every[[ Wednesday]].
+  - Hundreds of customers come to the market every[[ Wednesday]].
+  Wednesday|Hundreds of pilgrims:
+  - Hundreds of pilgrims arrive by bus every[[ Wednesday]].
+  - Hundreds of pilgrims visit the old castle every[[ Wednesday]].
+  - Hundreds of pilgrims come to the market every[[ Wednesday]].
+  Wednesday|Thousands of tourists:
+  - Thousands of tourists arrive by bus every[[ Wednesday]].
+  - Thousands of tourists visit the old castle every[[ Wednesday]].
+  - Thousands of tourists come to the market every[[ Wednesday]].
+  Friday|My brother:
+  - My brother arrives by bus every[[ Friday]].
+  - My brother visits the old castle every[[ Friday]].
+  - My brother comes to the market every[[ Friday]].
+  Friday|A customer:
+  - A customer arrives by bus every[[ Friday]].
+  - A customer visits the old castle every[[ Friday]].
+  - A customer comes to the market every[[ Friday]].
+  Friday|Customers:
+  - Customers arrive by bus every[[ Friday]].
+  - Customers visit the old castle every[[ Friday]].
+  - Customers come to the market every[[ Friday]].
+  Friday|Many customers:
+  - Many customers arrive by bus every[[ Friday]].
+  - Many customers visit the old castle every[[ Friday]].
+  - Many customers come to the market every[[ Friday]].
+  Friday|Hundreds of customers:
+  - Hundreds of customers arrive by bus every[[ Friday]].
+  - Hundreds of customers visit the old castle every[[ Friday]].
+  - Hundreds of customers come to the market every[[ Friday]].
+  Friday|Hundreds of pilgrims:
+  - Hundreds of pilgrims arrive by bus every[[ Friday]].
+  - Hundreds of pilgrims visit the old castle every[[ Friday]].
+  - Hundreds of pilgrims come to the market every[[ Friday]].
+  Friday|Thousands of tourists:
+  - Thousands of tourists arrive by bus every[[ Friday]].
+  - Thousands of tourists visit the old castle every[[ Friday]].
+  - Thousands of tourists come to the market every[[ Friday]].
+  Saturday|My brother:
+  - My brother arrives by bus every[[ Saturday]].
+  - My brother visits the old castle every[[ Saturday]].
+  - My brother comes to the market every[[ Saturday]].
+  Saturday|A customer:
+  - A customer arrives by bus every[[ Saturday]].
+  - A customer visits the old castle every[[ Saturday]].
+  - A customer comes to the market every[[ Saturday]].
+  Saturday|Customers:
+  - Customers arrive by bus every[[ Saturday]].
+  - Customers visit the old castle every[[ Saturday]].
+  - Customers come to the market every[[ Saturday]].
+  Saturday|Many customers:
+  - Many customers arrive by bus every[[ Saturday]].
+  - Many customers visit the old castle every[[ Saturday]].
+  - Many customers come to the market every[[ Saturday]].
+  Saturday|Hundreds of customers:
+  - Hundreds of customers arrive by bus every[[ Saturday]].
+  - Hundreds of customers visit the old castle every[[ Saturday]].
+  - Hundreds of customers come to the market every[[ Saturday]].
+  Saturday|Hundreds of pilgrims:
+  - Hundreds of pilgrims arrive by bus every[[ Saturday]].
+  - Hundreds of pilgrims visit the old castle every[[ Saturday]].
+  - Hundreds of pilgrims come to the market every[[ Saturday]].
+  Saturday|Thousands of tourists:
+  - Thousands of tourists arrive by bus every[[ Saturday]].
+  - Thousands of tourists visit the old castle every[[ Saturday]].
+  - Thousands of tourists come to the market every[[ Saturday]].
