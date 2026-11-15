@@ -1,0 +1,116 @@
+# L6-N9321 round 1: exploratory probes. Thresholds (fineweb-10m-sparse): + q99 0.074 q999 0.229 q9999 0.835;
+# - q99 0.080 q999 0.269 q9999 0.982.
+groups:
+  # A: same frame, one occasion vs repeating
+  A_one:
+    - "I finally cleaned out the garage this[[ Sunday]] and found my old bike."
+    - "We met the new neighbours last[[ Tuesday]] at the park."
+    - "The package should arrive next[[ Friday]] if the weather holds."
+    - "My sister called me on[[ Monday]] to say she was moving."
+    - "I woke up one morning last[[ week]] and the power was out."
+    - "The museum was closed this[[ week]] for repairs."
+  A_every:
+    - "I clean out the garage every[[ Sunday]] and find something new each time."
+    - "We meet the neighbours every[[ Tuesday]] at the park."
+    - "A package arrives every[[ Friday]] from the farm."
+    - "My sister calls me every[[ Monday]] to check in."
+    - "I wake up early every[[ week]]day and go for a run."
+    - "The museum is closed one day every[[ week]] for cleaning."
+  # B: ways of saying "every"
+  B_ways:
+    - "The farmers market is held each[[ Saturday]] in the town square."
+    - "The farmers market is held on[[ Saturdays]] in the town square."
+    - "The farmers market is held every other[[ Saturday]] in the town square."
+    - "The farmers market is held twice a month on[[ Saturday]] in the town square."
+    - "The farmers market is held once a week on[[ Saturday]] in the town square."
+    - "The farmers market is held weekly on[[ Saturday]] in the town square."
+    - "The farmers market is held without fail on any[[ Saturday]] in summer."
+    - "Our office has pizza for lunch most[[ Fridays]]."
+    - "In our house, every week ends with taco[[ Tuesday]]."
+    - "Our family never misses taco[[ Tuesday]]."
+    - "The bar runs a karaoke night that everyone calls Karaoke[[ Thursday]]."
+  # C: repetition implied by context only (no every/each)
+  C_implied_repeat:
+    - "The provocative CBS drama premieres 9 p.m.[[ Thursday]] on WBBM."
+    - "The show airs[[ Thursday]] nights at nine on channel four."
+    - "Office hours: Monday to[[ Friday]], 9am to 5pm."
+    - "Trash pickup on our street is on[[ Tuesday]] mornings."
+    - "The club meets on the first[[ Wednesday]] of the month."
+    - "New episodes drop on[[ Fridays]]."
+    - "Services are held on[[ Sunday]] at 10 a.m. in the main hall."
+  C_implied_once:
+    - "The package finally arrived on[[ Thursday]] after a long delay."
+    - "She was born on a[[ Thursday]] in the middle of a snowstorm."
+    - "The storm hit the coast on[[ Tuesday]] and knocked out power."
+    - "The verdict was announced on[[ Friday]] afternoon."
+    - "Christmas fell on a[[ Sunday]] that year."
+    - "He resigned on[[ Wednesday]], two days after the scandal broke."
+  # D: other periods
+  D_one:
+    - "I visited my grandmother last[[ month]] in Ohio."
+    - "It rained heavily this[[ morning]] in the city."
+    - "We moved to Denver last[[ year]] for my job."
+    - "The bridge closed that[[ day]] because of ice."
+    - "I went skiing last[[ winter]] for the first time."
+    - "The orchestra played on New Year's[[ Eve]] in 1999."
+    - "We drove to the coast last[[ night]] to see the meteor shower."
+  D_every:
+    - "I visit my grandmother every[[ month]] in Ohio."
+    - "It rains heavily every[[ morning]] in the wet season."
+    - "We move the clocks forward every[[ year]] in March."
+    - "The bridge closes every[[ day]] at midnight."
+    - "I go skiing every[[ winter]] with my cousins."
+    - "The orchestra plays every New Year's[[ Eve]] in the square."
+    - "We drive to the coast every[[ night]] to watch the sunset."
+  # E: tricks: names and fixed phrases with week words
+  E_tricks:
+    - "I listened to the new album by The[[ Weekend]] on the train."
+    - "We watched the old comedy Weekend at[[ Bernie]]'s again."
+    - "Robinson Crusoe named his companion[[ Friday]] after the day they met."
+    - "She worked as the boss's girl[[ Friday]] for ten years."
+    - "Stores open at 5 a.m. on Black[[ Friday]] for the sales."
+    - "Shark[[ Week]] is back on the Discovery Channel."
+    - "Models flew in for Paris Fashion[[ Week]]."
+    - "Wednesday[[ Add]]ams is the daughter in the Addams Family."
+    - "Thursday was the name of the cat, and[[ Thursday]] loved the sun."
+    - "The candidates campaigned hard before Super[[ Tuesday]]."
+  # F: morphology in both framings
+  F_one:
+    - "I spent last[[ weekend]] painting the kitchen."
+    - "The trip took two[[ weeks]] longer than planned, back in 2019."
+    - "The report published this[[ week]]ly cycle was late."
+    - "It was the first[[ weekday]] of the new year."
+  F_every:
+    - "I spend every[[ weekend]] painting something."
+    - "The paper comes out every two[[ weeks]]."
+    - "The newsletter is published[[ weekly]]."
+    - "The library is open every[[ weekday]] until six."
+  # G: repetition in a past-tense story (repetition meaning vs schedule register)
+  G_past_habit:
+    - "When I was a child, we went to church every[[ Sunday]] with my grandmother."
+    - "During the war, my father wrote to us every[[ week]] from the front."
+    - "Back in college, we played poker every[[ Friday]] night in the dorm."
+    - "For years she visited his grave every[[ Monday]] morning."
+  # H: "this week" in serial vs one-off text
+  H_serial:
+    - "Welcome back to the Weekly Garden Column. This[[ week]] we look at tomatoes."
+    - "Hello and welcome to episode 42 of the podcast. This[[ week]] we talk about sleep."
+    - "In this week's newsletter, as every Monday, we round up the news. This[[ week]] the big story is rates."
+  H_oneoff:
+    - "I have been sick and tired lately. This[[ week]] I finally saw a doctor."
+    - "The renovation dragged on for months. This[[ week]] the builders finally left."
+    - "Prices had been rising since spring. This[[ week]] they suddenly fell."
+  # I: rates
+  I_rates:
+    - "She works three days a[[ week]] from home."
+    - "Take the tablet twice per[[ week]] with food."
+    - "The average employee works 40 hours a[[ week]]."
+    - "He trains six days of the[[ week]]."
+  # J: random everyday sentences (target is the last word)
+  J_random:
+    - "The cat slept on the warm[[ windowsill]]."
+    - "She poured a glass of cold[[ water]]."
+    - "The children laughed at the[[ clown]]."
+    - "He fixed the leaking kitchen[[ tap]]."
+    - "The train was late again this[[ morning]]."
+    - "Please pass me the[[ salt]]."
