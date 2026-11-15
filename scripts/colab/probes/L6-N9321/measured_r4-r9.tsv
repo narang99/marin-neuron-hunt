@@ -1,0 +1,502 @@
+round	act	group	text
+L6_r4_rate	-1.602	every_week|person	My brother drives over to see us every[[ week]].
+L6_r4_rate	-0.730	every_week|person	I go swimming at the lake every[[ week]].
+L6_r4_rate	+0.738	every_week|crowd	Hundreds of pilgrims arrive by bus every[[ week]].
+L6_r4_rate	+0.906	every_week|crowd	Thousands of tourists visit the old castle every[[ week]].
+L6_r4_rate	+1.672	every_week|weather	Here in January, it snows every[[ week]].
+L6_r4_rate	-0.231	every_week|weather	In the monsoon, heavy rain floods the market every[[ week]].
+L6_r4_rate	-1.828	each_week|person	My brother drives over to see us each[[ week]].
+L6_r4_rate	-0.750	each_week|person	I go swimming at the lake each[[ week]].
+L6_r4_rate	+0.980	each_week|crowd	Hundreds of pilgrims arrive by bus each[[ week]].
+L6_r4_rate	+0.949	each_week|crowd	Thousands of tourists visit the old castle each[[ week]].
+L6_r4_rate	+1.453	each_week|weather	Here in January, it snows each[[ week]].
+L6_r4_rate	-0.154	each_week|weather	In the monsoon, heavy rain floods the market each[[ week]].
+L6_r4_rate	-1.828	every_Friday|person	My brother drives over to see us every[[ Friday]].
+L6_r4_rate	-1.234	every_Friday|person	I go swimming at the lake every[[ Friday]].
+L6_r4_rate	+0.228	every_Friday|crowd	Hundreds of pilgrims arrive by bus every[[ Friday]].
+L6_r4_rate	-0.332	every_Friday|crowd	Thousands of tourists visit the old castle every[[ Friday]].
+L6_r4_rate	+0.688	every_Friday|weather	Here in January, it snows every[[ Friday]].
+L6_r4_rate	-1.320	every_Friday|weather	In the monsoon, heavy rain floods the market every[[ Friday]].
+L6_r4_rate	-1.117	once_a_week|person	My brother drives over to see us once a[[ week]].
+L6_r4_rate	-0.555	once_a_week|person	I go swimming at the lake once a[[ week]].
+L6_r4_rate	+0.340	once_a_week|crowd	Hundreds of pilgrims arrive by bus once a[[ week]].
+L6_r4_rate	+0.330	once_a_week|crowd	Thousands of tourists visit the old castle once a[[ week]].
+L6_r4_rate	+1.281	once_a_week|weather	Here in January, it snows once a[[ week]].
+L6_r4_rate	-0.190	once_a_week|weather	In the monsoon, heavy rain floods the market once a[[ week]].
+L6_r4_rate	-0.656	twice_a_week|person	My brother drives over to see us twice a[[ week]].
+L6_r4_rate	+0.102	twice_a_week|person	I go swimming at the lake twice a[[ week]].
+L6_r4_rate	+0.977	twice_a_week|crowd	Hundreds of pilgrims arrive by bus twice a[[ week]].
+L6_r4_rate	+0.848	twice_a_week|crowd	Thousands of tourists visit the old castle twice a[[ week]].
+L6_r4_rate	+2.109	twice_a_week|weather	Here in January, it snows twice a[[ week]].
+L6_r4_rate	+0.237	twice_a_week|weather	In the monsoon, heavy rain floods the market twice a[[ week]].
+L6_r4_rate	-0.210	twice_per_week|person	My brother drives over to see us twice per[[ week]].
+L6_r4_rate	+0.398	twice_per_week|person	I go swimming at the lake twice per[[ week]].
+L6_r4_rate	+1.219	twice_per_week|crowd	Hundreds of pilgrims arrive by bus twice per[[ week]].
+L6_r4_rate	+1.047	twice_per_week|crowd	Thousands of tourists visit the old castle twice per[[ week]].
+L6_r4_rate	+2.328	twice_per_week|weather	Here in January, it snows twice per[[ week]].
+L6_r4_rate	+0.609	twice_per_week|weather	In the monsoon, heavy rain floods the market twice per[[ week]].
+L6_r4_rate	-0.104	amount_per_week	She works 40 hours a[[ week]].
+L6_r4_rate	-0.547	amount_per_week	The job pays 600 dollars a[[ week]].
+L6_r4_rate	-0.072	amount_per_week	The shop sells 500 loaves a[[ week]].
+L6_r4_rate	-0.377	amount_per_week	He runs 30 miles a[[ week]].
+L6_r4_rate	+1.547	originals	Pilgrims arrive each[[ week]] by bus.
+L6_r4_rate	+0.566	originals	It snows every[[ week]] here in January.
+L6_r4_rate	-1.117	originals	Every[[ week]], I find a fox in the garden.
+L6_r4_rate	+1.227	originals	Take the tablet twice per[[ week]] with food.
+L6_r5	-0.609	last_Tuesday	I saw the doctor last[[ Tuesday]] about my knee.
+L6_r5	-0.004	last_Tuesday	The parcel came last[[ Tuesday]], a day late.
+L6_r5	-1.609	last_Tuesday	We met the new neighbours last[[ Tuesday]] at the park.
+L6_r5	-0.594	last_Tuesday	The storm knocked out the power last[[ Tuesday]].
+L6_r5	-0.820	last_Tuesday	My sister called me last[[ Tuesday]] to say she was moving.
+L6_r5	-0.676	last_Tuesday	The museum reopened last[[ Tuesday]] after the flood.
+L6_r5	+0.081	on_Tuesday	I saw the doctor on[[ Tuesday]] about my knee.
+L6_r5	+0.465	on_Tuesday	The parcel came on[[ Tuesday]], a day late.
+L6_r5	-0.338	on_Tuesday	We met the new neighbours on[[ Tuesday]] at the park.
+L6_r5	+0.130	on_Tuesday	The storm knocked out the power on[[ Tuesday]].
+L6_r5	+0.052	on_Tuesday	My sister called me on[[ Tuesday]] to say she was moving.
+L6_r5	+0.209	on_Tuesday	The museum reopened on[[ Tuesday]] after the flood.
+L6_r5	+0.035	that_Tuesday	I saw the doctor that[[ Tuesday]] about my knee.
+L6_r5	+0.535	that_Tuesday	The parcel came that[[ Tuesday]], a day late.
+L6_r5	-0.393	that_Tuesday	We met the new neighbours that[[ Tuesday]] at the park.
+L6_r5	+0.117	that_Tuesday	The storm knocked out the power that[[ Tuesday]].
+L6_r5	-0.036	that_Tuesday	My sister called me that[[ Tuesday]] to say she was moving.
+L6_r5	+0.074	that_Tuesday	The museum reopened that[[ Tuesday]] after the flood.
+L6_r5	-0.432	on_a_Tuesday	I saw the doctor on a[[ Tuesday]] about my knee.
+L6_r5	+0.159	on_a_Tuesday	The parcel came on a[[ Tuesday]], a day late.
+L6_r5	-0.734	on_a_Tuesday	We met the new neighbours on a[[ Tuesday]] at the park.
+L6_r5	-0.126	on_a_Tuesday	The storm knocked out the power on a[[ Tuesday]].
+L6_r5	-0.602	on_a_Tuesday	My sister called me on a[[ Tuesday]] to say she was moving.
+L6_r5	-0.260	on_a_Tuesday	The museum reopened on a[[ Tuesday]] after the flood.
+L6_r5	+0.508	last_week	I saw the doctor last[[ week]] about my knee.
+L6_r5	+0.812	last_week	The parcel came last[[ week]], a day late.
+L6_r5	-0.354	last_week	We met the new neighbours last[[ week]] at the park.
+L6_r5	+0.172	last_week	The storm knocked out the power last[[ week]].
+L6_r5	+0.428	last_week	My sister called me last[[ week]] to say she was moving.
+L6_r5	+0.204	last_week	The museum reopened last[[ week]] after the flood.
+L6_r5	+0.586	that_week	I saw the doctor that[[ week]] about my knee.
+L6_r5	+1.086	that_week	The parcel came that[[ week]], a day late.
+L6_r5	+0.260	that_week	We met the new neighbours that[[ week]] at the park.
+L6_r5	+0.938	that_week	The storm knocked out the power that[[ week]].
+L6_r5	+0.809	that_week	My sister called me that[[ week]] to say she was moving.
+L6_r5	+0.723	that_week	The museum reopened that[[ week]] after the flood.
+L6_r5	+0.820	this_week	I saw the doctor this[[ week]] about my knee.
+L6_r5	+0.918	this_week	The parcel came this[[ week]], a day late.
+L6_r5	-0.188	this_week	We met the new neighbours this[[ week]] at the park.
+L6_r5	+0.243	this_week	The storm knocked out the power this[[ week]].
+L6_r5	+0.742	this_week	My sister called me this[[ week]] to say she was moving.
+L6_r5	+0.523	this_week	The museum reopened this[[ week]] after the flood.
+L6_r5	+1.039	dated_event_weekday	My daughter was born on a[[ Tuesday]].
+L6_r5	+4.094	dated_event_weekday	That year, Christmas fell on a[[ Tuesday]].
+L6_r5	+2.156	dated_event_weekday	Her birthday falls on a[[ Tuesday]] this year.
+L6_r5	+0.535	dated_event_weekday	The wedding was planned for months. It finally happened on[[ Tuesday]].
+L6_r5	+4.688	dated_event_weekday	That year, New Year's Day fell on a[[ Tuesday]].
+L6_r5	+0.211	dated_event_weekday	We were married on a[[ Tuesday]] in June.
+L6_r6	-0.855	one_person	My brother arrives by bus every[[ week]].
+L6_r6	-1.125	one_person	My brother visits the old castle every[[ week]].
+L6_r6	-2.047	one_person	My brother comes to the market every[[ week]].
+L6_r6	-1.078	one_person	My brother prays at the shrine every[[ week]].
+L6_r6	-0.859	we	We arrive by bus every[[ week]].
+L6_r6	-1.133	we	We visit the old castle every[[ week]].
+L6_r6	-1.539	we	We come to the market every[[ week]].
+L6_r6	-0.852	we	We pray at the shrine every[[ week]].
+L6_r6	-0.535	a_few	A few of my friends arrive by bus every[[ week]].
+L6_r6	-0.969	a_few	A few of my friends visit the old castle every[[ week]].
+L6_r6	-1.297	a_few	A few of my friends come to the market every[[ week]].
+L6_r6	-0.938	a_few	A few of my friends pray at the shrine every[[ week]].
+L6_r6	+0.766	pilgrims_bare	Pilgrims arrive by bus every[[ week]].
+L6_r6	-0.279	pilgrims_bare	Pilgrims visit the old castle every[[ week]].
+L6_r6	-0.652	pilgrims_bare	Pilgrims come to the market every[[ week]].
+L6_r6	+0.176	pilgrims_bare	Pilgrims pray at the shrine every[[ week]].
+L6_r6	+0.738	hundreds	Hundreds of pilgrims arrive by bus every[[ week]].
+L6_r6	+0.402	hundreds	Hundreds of pilgrims visit the old castle every[[ week]].
+L6_r6	+0.293	hundreds	Hundreds of pilgrims come to the market every[[ week]].
+L6_r6	+0.262	hundreds	Hundreds of pilgrims pray at the shrine every[[ week]].
+L6_r6	+0.801	thousands_tourists	Thousands of tourists arrive by bus every[[ week]].
+L6_r6	+0.906	thousands_tourists	Thousands of tourists visit the old castle every[[ week]].
+L6_r6	+0.766	thousands_tourists	Thousands of tourists come to the market every[[ week]].
+L6_r6	+0.445	thousands_tourists	Thousands of tourists pray at the shrine every[[ week]].
+L6_r6	-0.961	one_person_Friday	My brother arrives by bus every[[ Friday]].
+L6_r6	-1.578	one_person_Friday	My brother visits the old castle every[[ Friday]].
+L6_r6	-2.438	one_person_Friday	My brother comes to the market every[[ Friday]].
+L6_r6	-1.219	one_person_Friday	My brother prays at the shrine every[[ Friday]].
+L6_r6	+0.228	hundreds_Friday	Hundreds of pilgrims arrive by bus every[[ Friday]].
+L6_r6	-0.303	hundreds_Friday	Hundreds of pilgrims visit the old castle every[[ Friday]].
+L6_r6	-0.652	hundreds_Friday	Hundreds of pilgrims come to the market every[[ Friday]].
+L6_r6	-0.115	hundreds_Friday	Hundreds of pilgrims pray at the shrine every[[ Friday]].
+L6_r7	-0.828	I	I arrive by bus every[[ week]].
+L6_r7	-0.676	I	I visit the old castle every[[ week]].
+L6_r7	-1.492	I	I come to the market every[[ week]].
+L6_r7	-0.664	I	I pray at the shrine every[[ week]].
+L6_r7	-0.832	He	He arrives by bus every[[ week]].
+L6_r7	-0.766	He	He visits the old castle every[[ week]].
+L6_r7	-1.688	He	He comes to the market every[[ week]].
+L6_r7	-0.719	He	He prays at the shrine every[[ week]].
+L6_r7	-0.855	My_brother	My brother arrives by bus every[[ week]].
+L6_r7	-1.125	My_brother	My brother visits the old castle every[[ week]].
+L6_r7	-2.047	My_brother	My brother comes to the market every[[ week]].
+L6_r7	-1.078	My_brother	My brother prays at the shrine every[[ week]].
+L6_r7	+0.224	A_pilgrim	A pilgrim arrives by bus every[[ week]].
+L6_r7	-0.105	A_pilgrim	A pilgrim visits the old castle every[[ week]].
+L6_r7	-0.436	A_pilgrim	A pilgrim comes to the market every[[ week]].
+L6_r7	+0.072	A_pilgrim	A pilgrim prays at the shrine every[[ week]].
+L6_r7	+0.264	The_pilgrim	The pilgrim arrives by bus every[[ week]].
+L6_r7	-0.346	The_pilgrim	The pilgrim visits the old castle every[[ week]].
+L6_r7	-0.727	The_pilgrim	The pilgrim comes to the market every[[ week]].
+L6_r7	-0.228	The_pilgrim	The pilgrim prays at the shrine every[[ week]].
+L6_r7	+0.057	One_pilgrim	One pilgrim arrives by bus every[[ week]].
+L6_r7	-0.373	One_pilgrim	One pilgrim visits the old castle every[[ week]].
+L6_r7	-0.773	One_pilgrim	One pilgrim comes to the market every[[ week]].
+L6_r7	-0.293	One_pilgrim	One pilgrim prays at the shrine every[[ week]].
+L6_r7	+0.196	Two_pilgrims	Two pilgrims arrive by bus every[[ week]].
+L6_r7	-0.098	Two_pilgrims	Two pilgrims visit the old castle every[[ week]].
+L6_r7	-0.334	Two_pilgrims	Two pilgrims come to the market every[[ week]].
+L6_r7	+0.011	Two_pilgrims	Two pilgrims pray at the shrine every[[ week]].
+L6_r7	+0.922	The_pilgrims	The pilgrims arrive by bus every[[ week]].
+L6_r7	-0.064	The_pilgrims	The pilgrims visit the old castle every[[ week]].
+L6_r7	-0.268	The_pilgrims	The pilgrims come to the market every[[ week]].
+L6_r7	+0.192	The_pilgrims	The pilgrims pray at the shrine every[[ week]].
+L6_r7	+0.766	Pilgrims	Pilgrims arrive by bus every[[ week]].
+L6_r7	-0.279	Pilgrims	Pilgrims visit the old castle every[[ week]].
+L6_r7	-0.652	Pilgrims	Pilgrims come to the market every[[ week]].
+L6_r7	+0.176	Pilgrims	Pilgrims pray at the shrine every[[ week]].
+L6_r7	+0.777	Many_pilgrims	Many pilgrims arrive by bus every[[ week]].
+L6_r7	+0.205	Many_pilgrims	Many pilgrims visit the old castle every[[ week]].
+L6_r7	-0.165	Many_pilgrims	Many pilgrims come to the market every[[ week]].
+L6_r7	+0.152	Many_pilgrims	Many pilgrims pray at the shrine every[[ week]].
+L6_r7	+0.738	Hundreds_of_pilgrims	Hundreds of pilgrims arrive by bus every[[ week]].
+L6_r7	+0.402	Hundreds_of_pilgrims	Hundreds of pilgrims visit the old castle every[[ week]].
+L6_r7	+0.293	Hundreds_of_pilgrims	Hundreds of pilgrims come to the market every[[ week]].
+L6_r7	+0.262	Hundreds_of_pilgrims	Hundreds of pilgrims pray at the shrine every[[ week]].
+L6_r8	-0.855	week|My brother	My brother arrives by bus every[[ week]].
+L6_r8	-1.125	week|My brother	My brother visits the old castle every[[ week]].
+L6_r8	-2.047	week|My brother	My brother comes to the market every[[ week]].
+L6_r8	-0.844	week|A customer	A customer arrives by bus every[[ week]].
+L6_r8	-0.816	week|A customer	A customer visits the old castle every[[ week]].
+L6_r8	-1.039	week|A customer	A customer comes to the market every[[ week]].
+L6_r8	-0.535	week|Customers	Customers arrive by bus every[[ week]].
+L6_r8	-0.574	week|Customers	Customers visit the old castle every[[ week]].
+L6_r8	-1.000	week|Customers	Customers come to the market every[[ week]].
+L6_r8	-0.053	week|Many customers	Many customers arrive by bus every[[ week]].
+L6_r8	-0.188	week|Many customers	Many customers visit the old castle every[[ week]].
+L6_r8	-0.291	week|Many customers	Many customers come to the market every[[ week]].
+L6_r8	+0.087	week|Hundreds of customers	Hundreds of customers arrive by bus every[[ week]].
+L6_r8	+0.013	week|Hundreds of customers	Hundreds of customers visit the old castle every[[ week]].
+L6_r8	-0.170	week|Hundreds of customers	Hundreds of customers come to the market every[[ week]].
+L6_r8	+0.738	week|Hundreds of pilgrims	Hundreds of pilgrims arrive by bus every[[ week]].
+L6_r8	+0.402	week|Hundreds of pilgrims	Hundreds of pilgrims visit the old castle every[[ week]].
+L6_r8	+0.293	week|Hundreds of pilgrims	Hundreds of pilgrims come to the market every[[ week]].
+L6_r8	+0.801	week|Thousands of tourists	Thousands of tourists arrive by bus every[[ week]].
+L6_r8	+0.906	week|Thousands of tourists	Thousands of tourists visit the old castle every[[ week]].
+L6_r8	+0.766	week|Thousands of tourists	Thousands of tourists come to the market every[[ week]].
+L6_r8	-0.691	Monday|My brother	My brother arrives by bus every[[ Monday]].
+L6_r8	-1.297	Monday|My brother	My brother visits the old castle every[[ Monday]].
+L6_r8	-1.828	Monday|My brother	My brother comes to the market every[[ Monday]].
+L6_r8	-0.719	Monday|A customer	A customer arrives by bus every[[ Monday]].
+L6_r8	-1.055	Monday|A customer	A customer visits the old castle every[[ Monday]].
+L6_r8	-1.336	Monday|A customer	A customer comes to the market every[[ Monday]].
+L6_r8	-0.871	Monday|Customers	Customers arrive by bus every[[ Monday]].
+L6_r8	-1.234	Monday|Customers	Customers visit the old castle every[[ Monday]].
+L6_r8	-1.773	Monday|Customers	Customers come to the market every[[ Monday]].
+L6_r8	-0.574	Monday|Many customers	Many customers arrive by bus every[[ Monday]].
+L6_r8	-1.094	Monday|Many customers	Many customers visit the old castle every[[ Monday]].
+L6_r8	-1.250	Monday|Many customers	Many customers come to the market every[[ Monday]].
+L6_r8	-0.879	Monday|Hundreds of customers	Hundreds of customers arrive by bus every[[ Monday]].
+L6_r8	-1.172	Monday|Hundreds of customers	Hundreds of customers visit the old castle every[[ Monday]].
+L6_r8	-1.695	Monday|Hundreds of customers	Hundreds of customers come to the market every[[ Monday]].
+L6_r8	+0.490	Monday|Hundreds of pilgrims	Hundreds of pilgrims arrive by bus every[[ Monday]].
+L6_r8	+0.036	Monday|Hundreds of pilgrims	Hundreds of pilgrims visit the old castle every[[ Monday]].
+L6_r8	-0.187	Monday|Hundreds of pilgrims	Hundreds of pilgrims come to the market every[[ Monday]].
+L6_r8	+0.038	Monday|Thousands of tourists	Thousands of tourists arrive by bus every[[ Monday]].
+L6_r8	-0.048	Monday|Thousands of tourists	Thousands of tourists visit the old castle every[[ Monday]].
+L6_r8	-0.551	Monday|Thousands of tourists	Thousands of tourists come to the market every[[ Monday]].
+L6_r8	-0.766	Wednesday|My brother	My brother arrives by bus every[[ Wednesday]].
+L6_r8	-1.320	Wednesday|My brother	My brother visits the old castle every[[ Wednesday]].
+L6_r8	-1.906	Wednesday|My brother	My brother comes to the market every[[ Wednesday]].
+L6_r8	-0.895	Wednesday|A customer	A customer arrives by bus every[[ Wednesday]].
+L6_r8	-1.172	Wednesday|A customer	A customer visits the old castle every[[ Wednesday]].
+L6_r8	-1.562	Wednesday|A customer	A customer comes to the market every[[ Wednesday]].
+L6_r8	-1.117	Wednesday|Customers	Customers arrive by bus every[[ Wednesday]].
+L6_r8	-1.352	Wednesday|Customers	Customers visit the old castle every[[ Wednesday]].
+L6_r8	-2.000	Wednesday|Customers	Customers come to the market every[[ Wednesday]].
+L6_r8	-0.879	Wednesday|Many customers	Many customers arrive by bus every[[ Wednesday]].
+L6_r8	-1.453	Wednesday|Many customers	Many customers visit the old castle every[[ Wednesday]].
+L6_r8	-1.531	Wednesday|Many customers	Many customers come to the market every[[ Wednesday]].
+L6_r8	-1.250	Wednesday|Hundreds of customers	Hundreds of customers arrive by bus every[[ Wednesday]].
+L6_r8	-1.375	Wednesday|Hundreds of customers	Hundreds of customers visit the old castle every[[ Wednesday]].
+L6_r8	-1.977	Wednesday|Hundreds of customers	Hundreds of customers come to the market every[[ Wednesday]].
+L6_r8	+0.344	Wednesday|Hundreds of pilgrims	Hundreds of pilgrims arrive by bus every[[ Wednesday]].
+L6_r8	-0.036	Wednesday|Hundreds of pilgrims	Hundreds of pilgrims visit the old castle every[[ Wednesday]].
+L6_r8	-0.367	Wednesday|Hundreds of pilgrims	Hundreds of pilgrims come to the market every[[ Wednesday]].
+L6_r8	-0.088	Wednesday|Thousands of tourists	Thousands of tourists arrive by bus every[[ Wednesday]].
+L6_r8	-0.153	Wednesday|Thousands of tourists	Thousands of tourists visit the old castle every[[ Wednesday]].
+L6_r8	-0.836	Wednesday|Thousands of tourists	Thousands of tourists come to the market every[[ Wednesday]].
+L6_r8	-0.961	Friday|My brother	My brother arrives by bus every[[ Friday]].
+L6_r8	-1.578	Friday|My brother	My brother visits the old castle every[[ Friday]].
+L6_r8	-2.438	Friday|My brother	My brother comes to the market every[[ Friday]].
+L6_r8	-1.164	Friday|A customer	A customer arrives by bus every[[ Friday]].
+L6_r8	-1.477	Friday|A customer	A customer visits the old castle every[[ Friday]].
+L6_r8	-2.031	Friday|A customer	A customer comes to the market every[[ Friday]].
+L6_r8	-1.297	Friday|Customers	Customers arrive by bus every[[ Friday]].
+L6_r8	-1.695	Friday|Customers	Customers visit the old castle every[[ Friday]].
+L6_r8	-2.484	Friday|Customers	Customers come to the market every[[ Friday]].
+L6_r8	-1.055	Friday|Many customers	Many customers arrive by bus every[[ Friday]].
+L6_r8	-1.742	Friday|Many customers	Many customers visit the old castle every[[ Friday]].
+L6_r8	-2.109	Friday|Many customers	Many customers come to the market every[[ Friday]].
+L6_r8	-1.289	Friday|Hundreds of customers	Hundreds of customers arrive by bus every[[ Friday]].
+L6_r8	-1.609	Friday|Hundreds of customers	Hundreds of customers visit the old castle every[[ Friday]].
+L6_r8	-2.469	Friday|Hundreds of customers	Hundreds of customers come to the market every[[ Friday]].
+L6_r8	+0.228	Friday|Hundreds of pilgrims	Hundreds of pilgrims arrive by bus every[[ Friday]].
+L6_r8	-0.303	Friday|Hundreds of pilgrims	Hundreds of pilgrims visit the old castle every[[ Friday]].
+L6_r8	-0.652	Friday|Hundreds of pilgrims	Hundreds of pilgrims come to the market every[[ Friday]].
+L6_r8	-0.195	Friday|Thousands of tourists	Thousands of tourists arrive by bus every[[ Friday]].
+L6_r8	-0.332	Friday|Thousands of tourists	Thousands of tourists visit the old castle every[[ Friday]].
+L6_r8	-1.047	Friday|Thousands of tourists	Thousands of tourists come to the market every[[ Friday]].
+L6_r8	-0.781	Saturday|My brother	My brother arrives by bus every[[ Saturday]].
+L6_r8	-1.164	Saturday|My brother	My brother visits the old castle every[[ Saturday]].
+L6_r8	-1.789	Saturday|My brother	My brother comes to the market every[[ Saturday]].
+L6_r8	-0.797	Saturday|A customer	A customer arrives by bus every[[ Saturday]].
+L6_r8	-1.070	Saturday|A customer	A customer visits the old castle every[[ Saturday]].
+L6_r8	-1.523	Saturday|A customer	A customer comes to the market every[[ Saturday]].
+L6_r8	-1.102	Saturday|Customers	Customers arrive by bus every[[ Saturday]].
+L6_r8	-1.312	Saturday|Customers	Customers visit the old castle every[[ Saturday]].
+L6_r8	-1.859	Saturday|Customers	Customers come to the market every[[ Saturday]].
+L6_r8	-0.844	Saturday|Many customers	Many customers arrive by bus every[[ Saturday]].
+L6_r8	-1.234	Saturday|Many customers	Many customers visit the old castle every[[ Saturday]].
+L6_r8	-1.414	Saturday|Many customers	Many customers come to the market every[[ Saturday]].
+L6_r8	-1.133	Saturday|Hundreds of customers	Hundreds of customers arrive by bus every[[ Saturday]].
+L6_r8	-1.242	Saturday|Hundreds of customers	Hundreds of customers visit the old castle every[[ Saturday]].
+L6_r8	-1.820	Saturday|Hundreds of customers	Hundreds of customers come to the market every[[ Saturday]].
+L6_r8	+0.375	Saturday|Hundreds of pilgrims	Hundreds of pilgrims arrive by bus every[[ Saturday]].
+L6_r8	+0.031	Saturday|Hundreds of pilgrims	Hundreds of pilgrims visit the old castle every[[ Saturday]].
+L6_r8	-0.357	Saturday|Hundreds of pilgrims	Hundreds of pilgrims come to the market every[[ Saturday]].
+L6_r8	+0.019	Saturday|Thousands of tourists	Thousands of tourists arrive by bus every[[ Saturday]].
+L6_r8	-0.033	Saturday|Thousands of tourists	Thousands of tourists visit the old castle every[[ Saturday]].
+L6_r8	-0.637	Saturday|Thousands of tourists	Thousands of tourists come to the market every[[ Saturday]].
+L6_r9	-0.436	trip|pilgrim|one|week	A pilgrim comes to the market every[[ week]].
+L6_r9	-0.393	trip|pilgrim|one|week	A pilgrim gathers in the square every[[ week]].
+L6_r9	-0.105	trip|pilgrim|one|week	A pilgrim visits the old castle every[[ week]].
+L6_r9	+0.293	trip|pilgrim|hundreds|week	Hundreds of pilgrims come to the market every[[ week]].
+L6_r9	+0.305	trip|pilgrim|hundreds|week	Hundreds of pilgrims gather in the square every[[ week]].
+L6_r9	+0.402	trip|pilgrim|hundreds|week	Hundreds of pilgrims visit the old castle every[[ week]].
+L6_r9	-0.471	trip|pilgrim|one|Friday	A pilgrim comes to the market every[[ Friday]].
+L6_r9	-0.252	trip|pilgrim|one|Friday	A pilgrim gathers in the square every[[ Friday]].
+L6_r9	-0.279	trip|pilgrim|one|Friday	A pilgrim visits the old castle every[[ Friday]].
+L6_r9	-0.652	trip|pilgrim|hundreds|Friday	Hundreds of pilgrims come to the market every[[ Friday]].
+L6_r9	-0.147	trip|pilgrim|hundreds|Friday	Hundreds of pilgrims gather in the square every[[ Friday]].
+L6_r9	-0.303	trip|pilgrim|hundreds|Friday	Hundreds of pilgrims visit the old castle every[[ Friday]].
+L6_r9	-0.641	trip|tourist|one|week	A tourist comes to the market every[[ week]].
+L6_r9	-0.816	trip|tourist|one|week	A tourist gathers in the square every[[ week]].
+L6_r9	-0.015	trip|tourist|one|week	A tourist visits the old castle every[[ week]].
+L6_r9	+0.426	trip|tourist|hundreds|week	Hundreds of tourists come to the market every[[ week]].
+L6_r9	+0.135	trip|tourist|hundreds|week	Hundreds of tourists gather in the square every[[ week]].
+L6_r9	+0.562	trip|tourist|hundreds|week	Hundreds of tourists visit the old castle every[[ week]].
+L6_r9	-1.445	trip|tourist|one|Friday	A tourist comes to the market every[[ Friday]].
+L6_r9	-1.102	trip|tourist|one|Friday	A tourist gathers in the square every[[ Friday]].
+L6_r9	-0.703	trip|tourist|one|Friday	A tourist visits the old castle every[[ Friday]].
+L6_r9	-1.352	trip|tourist|hundreds|Friday	Hundreds of tourists come to the market every[[ Friday]].
+L6_r9	-0.961	trip|tourist|hundreds|Friday	Hundreds of tourists gather in the square every[[ Friday]].
+L6_r9	-0.555	trip|tourist|hundreds|Friday	Hundreds of tourists visit the old castle every[[ Friday]].
+L6_r9	-1.398	trip|traveller|one|week	A traveller comes to the market every[[ week]].
+L6_r9	-1.875	trip|traveller|one|week	A traveller gathers in the square every[[ week]].
+L6_r9	-0.727	trip|traveller|one|week	A traveller visits the old castle every[[ week]].
+L6_r9	-0.234	trip|traveller|hundreds|week	Hundreds of travellers come to the market every[[ week]].
+L6_r9	-0.578	trip|traveller|hundreds|week	Hundreds of travellers gather in the square every[[ week]].
+L6_r9	+0.037	trip|traveller|hundreds|week	Hundreds of travellers visit the old castle every[[ week]].
+L6_r9	-2.078	trip|traveller|one|Friday	A traveller comes to the market every[[ Friday]].
+L6_r9	-2.000	trip|traveller|one|Friday	A traveller gathers in the square every[[ Friday]].
+L6_r9	-1.227	trip|traveller|one|Friday	A traveller visits the old castle every[[ Friday]].
+L6_r9	-2.141	trip|traveller|hundreds|Friday	Hundreds of travellers come to the market every[[ Friday]].
+L6_r9	-1.898	trip|traveller|hundreds|Friday	Hundreds of travellers gather in the square every[[ Friday]].
+L6_r9	-1.273	trip|traveller|hundreds|Friday	Hundreds of travellers visit the old castle every[[ Friday]].
+L6_r9	-1.031	trip|visitor|one|week	A visitor comes to the market every[[ week]].
+L6_r9	-1.273	trip|visitor|one|week	A visitor gathers in the square every[[ week]].
+L6_r9	-0.246	trip|visitor|one|week	A visitor visits the old castle every[[ week]].
+L6_r9	-0.008	trip|visitor|hundreds|week	Hundreds of visitors come to the market every[[ week]].
+L6_r9	-0.256	trip|visitor|hundreds|week	Hundreds of visitors gather in the square every[[ week]].
+L6_r9	+0.338	trip|visitor|hundreds|week	Hundreds of visitors visit the old castle every[[ week]].
+L6_r9	-2.250	trip|visitor|one|Friday	A visitor comes to the market every[[ Friday]].
+L6_r9	-1.867	trip|visitor|one|Friday	A visitor gathers in the square every[[ Friday]].
+L6_r9	-1.195	trip|visitor|one|Friday	A visitor visits the old castle every[[ Friday]].
+L6_r9	-2.297	trip|visitor|hundreds|Friday	Hundreds of visitors come to the market every[[ Friday]].
+L6_r9	-1.875	trip|visitor|hundreds|Friday	Hundreds of visitors gather in the square every[[ Friday]].
+L6_r9	-1.234	trip|visitor|hundreds|Friday	Hundreds of visitors visit the old castle every[[ Friday]].
+L6_r9	-0.711	trip|backpacker|one|week	A backpacker comes to the market every[[ week]].
+L6_r9	-1.133	trip|backpacker|one|week	A backpacker gathers in the square every[[ week]].
+L6_r9	-0.305	trip|backpacker|one|week	A backpacker visits the old castle every[[ week]].
+L6_r9	+0.160	trip|backpacker|hundreds|week	Hundreds of backpackers come to the market every[[ week]].
+L6_r9	-0.081	trip|backpacker|hundreds|week	Hundreds of backpackers gather in the square every[[ week]].
+L6_r9	+0.266	trip|backpacker|hundreds|week	Hundreds of backpackers visit the old castle every[[ week]].
+L6_r9	-1.211	trip|backpacker|one|Friday	A backpacker comes to the market every[[ Friday]].
+L6_r9	-1.258	trip|backpacker|one|Friday	A backpacker gathers in the square every[[ Friday]].
+L6_r9	-0.734	trip|backpacker|one|Friday	A backpacker visits the old castle every[[ Friday]].
+L6_r9	-1.117	trip|backpacker|hundreds|Friday	Hundreds of backpackers come to the market every[[ Friday]].
+L6_r9	-0.719	trip|backpacker|hundreds|Friday	Hundreds of backpackers gather in the square every[[ Friday]].
+L6_r9	-0.461	trip|backpacker|hundreds|Friday	Hundreds of backpackers visit the old castle every[[ Friday]].
+L6_r9	-0.617	trip|holidaymaker|one|week	A holidaymaker comes to the market every[[ week]].
+L6_r9	-0.672	trip|holidaymaker|one|week	A holidaymaker gathers in the square every[[ week]].
+L6_r9	+0.027	trip|holidaymaker|one|week	A holidaymaker visits the old castle every[[ week]].
+L6_r9	+0.426	trip|holidaymaker|hundreds|week	Hundreds of holidaymakers come to the market every[[ week]].
+L6_r9	+0.268	trip|holidaymaker|hundreds|week	Hundreds of holidaymakers gather in the square every[[ week]].
+L6_r9	+0.547	trip|holidaymaker|hundreds|week	Hundreds of holidaymakers visit the old castle every[[ week]].
+L6_r9	-1.156	trip|holidaymaker|one|Friday	A holidaymaker comes to the market every[[ Friday]].
+L6_r9	-0.859	trip|holidaymaker|one|Friday	A holidaymaker gathers in the square every[[ Friday]].
+L6_r9	-0.312	trip|holidaymaker|one|Friday	A holidaymaker visits the old castle every[[ Friday]].
+L6_r9	-0.797	trip|holidaymaker|hundreds|Friday	Hundreds of holidaymakers come to the market every[[ Friday]].
+L6_r9	-0.097	trip|holidaymaker|hundreds|Friday	Hundreds of holidaymakers gather in the square every[[ Friday]].
+L6_r9	-0.030	trip|holidaymaker|hundreds|Friday	Hundreds of holidaymakers visit the old castle every[[ Friday]].
+L6_r9	-1.164	trip|sightseer|one|week	A sightseer comes to the market every[[ week]].
+L6_r9	-1.312	trip|sightseer|one|week	A sightseer gathers in the square every[[ week]].
+L6_r9	-0.582	trip|sightseer|one|week	A sightseer visits the old castle every[[ week]].
+L6_r9	-0.173	trip|sightseer|hundreds|week	Hundreds of sightseers come to the market every[[ week]].
+L6_r9	-0.273	trip|sightseer|hundreds|week	Hundreds of sightseers gather in the square every[[ week]].
+L6_r9	+0.128	trip|sightseer|hundreds|week	Hundreds of sightseers visit the old castle every[[ week]].
+L6_r9	-1.719	trip|sightseer|one|Friday	A sightseer comes to the market every[[ Friday]].
+L6_r9	-1.586	trip|sightseer|one|Friday	A sightseer gathers in the square every[[ Friday]].
+L6_r9	-1.062	trip|sightseer|one|Friday	A sightseer visits the old castle every[[ Friday]].
+L6_r9	-1.766	trip|sightseer|hundreds|Friday	Hundreds of sightseers come to the market every[[ Friday]].
+L6_r9	-1.352	trip|sightseer|hundreds|Friday	Hundreds of sightseers gather in the square every[[ Friday]].
+L6_r9	-0.949	trip|sightseer|hundreds|Friday	Hundreds of sightseers visit the old castle every[[ Friday]].
+L6_r9	-0.840	commute|commuter|one|week	A commuter comes to the market every[[ week]].
+L6_r9	-1.414	commute|commuter|one|week	A commuter gathers in the square every[[ week]].
+L6_r9	-0.535	commute|commuter|one|week	A commuter visits the old castle every[[ week]].
+L6_r9	-0.052	commute|commuter|hundreds|week	Hundreds of commuters come to the market every[[ week]].
+L6_r9	-0.357	commute|commuter|hundreds|week	Hundreds of commuters gather in the square every[[ week]].
+L6_r9	+0.106	commute|commuter|hundreds|week	Hundreds of commuters visit the old castle every[[ week]].
+L6_r9	-1.641	commute|commuter|one|Friday	A commuter comes to the market every[[ Friday]].
+L6_r9	-1.742	commute|commuter|one|Friday	A commuter gathers in the square every[[ Friday]].
+L6_r9	-1.047	commute|commuter|one|Friday	A commuter visits the old castle every[[ Friday]].
+L6_r9	-1.602	commute|commuter|hundreds|Friday	Hundreds of commuters come to the market every[[ Friday]].
+L6_r9	-1.367	commute|commuter|hundreds|Friday	Hundreds of commuters gather in the square every[[ Friday]].
+L6_r9	-0.879	commute|commuter|hundreds|Friday	Hundreds of commuters visit the old castle every[[ Friday]].
+L6_r9	-1.344	commute|passenger|one|week	A passenger comes to the market every[[ week]].
+L6_r9	-1.555	commute|passenger|one|week	A passenger gathers in the square every[[ week]].
+L6_r9	-0.621	commute|passenger|one|week	A passenger visits the old castle every[[ week]].
+L6_r9	-0.174	commute|passenger|hundreds|week	Hundreds of passengers come to the market every[[ week]].
+L6_r9	-0.461	commute|passenger|hundreds|week	Hundreds of passengers gather in the square every[[ week]].
+L6_r9	+0.049	commute|passenger|hundreds|week	Hundreds of passengers visit the old castle every[[ week]].
+L6_r9	-2.250	commute|passenger|one|Friday	A passenger comes to the market every[[ Friday]].
+L6_r9	-2.109	commute|passenger|one|Friday	A passenger gathers in the square every[[ Friday]].
+L6_r9	-1.227	commute|passenger|one|Friday	A passenger visits the old castle every[[ Friday]].
+L6_r9	-2.188	commute|passenger|hundreds|Friday	Hundreds of passengers come to the market every[[ Friday]].
+L6_r9	-1.961	commute|passenger|hundreds|Friday	Hundreds of passengers gather in the square every[[ Friday]].
+L6_r9	-1.266	commute|passenger|hundreds|Friday	Hundreds of passengers visit the old castle every[[ Friday]].
+L6_r9	-1.039	local|customer|one|week	A customer comes to the market every[[ week]].
+L6_r9	-1.797	local|customer|one|week	A customer gathers in the square every[[ week]].
+L6_r9	-0.816	local|customer|one|week	A customer visits the old castle every[[ week]].
+L6_r9	-0.170	local|customer|hundreds|week	Hundreds of customers come to the market every[[ week]].
+L6_r9	-0.656	local|customer|hundreds|week	Hundreds of customers gather in the square every[[ week]].
+L6_r9	+0.013	local|customer|hundreds|week	Hundreds of customers visit the old castle every[[ week]].
+L6_r9	-2.031	local|customer|one|Friday	A customer comes to the market every[[ Friday]].
+L6_r9	-2.297	local|customer|one|Friday	A customer gathers in the square every[[ Friday]].
+L6_r9	-1.477	local|customer|one|Friday	A customer visits the old castle every[[ Friday]].
+L6_r9	-2.469	local|customer|hundreds|Friday	Hundreds of customers come to the market every[[ Friday]].
+L6_r9	-2.641	local|customer|hundreds|Friday	Hundreds of customers gather in the square every[[ Friday]].
+L6_r9	-1.609	local|customer|hundreds|Friday	Hundreds of customers visit the old castle every[[ Friday]].
+L6_r9	-1.195	local|shopper|one|week	A shopper comes to the market every[[ week]].
+L6_r9	-1.555	local|shopper|one|week	A shopper gathers in the square every[[ week]].
+L6_r9	-0.707	local|shopper|one|week	A shopper visits the old castle every[[ week]].
+L6_r9	-0.221	local|shopper|hundreds|week	Hundreds of shoppers come to the market every[[ week]].
+L6_r9	-0.527	local|shopper|hundreds|week	Hundreds of shoppers gather in the square every[[ week]].
+L6_r9	-0.021	local|shopper|hundreds|week	Hundreds of shoppers visit the old castle every[[ week]].
+L6_r9	-2.172	local|shopper|one|Friday	A shopper comes to the market every[[ Friday]].
+L6_r9	-2.188	local|shopper|one|Friday	A shopper gathers in the square every[[ Friday]].
+L6_r9	-1.391	local|shopper|one|Friday	A shopper visits the old castle every[[ Friday]].
+L6_r9	-2.344	local|shopper|hundreds|Friday	Hundreds of shoppers come to the market every[[ Friday]].
+L6_r9	-2.172	local|shopper|hundreds|Friday	Hundreds of shoppers gather in the square every[[ Friday]].
+L6_r9	-1.508	local|shopper|hundreds|Friday	Hundreds of shoppers visit the old castle every[[ Friday]].
+L6_r9	-1.406	local|resident|one|week	A resident comes to the market every[[ week]].
+L6_r9	-1.703	local|resident|one|week	A resident gathers in the square every[[ week]].
+L6_r9	-0.703	local|resident|one|week	A resident visits the old castle every[[ week]].
+L6_r9	-0.389	local|resident|hundreds|week	Hundreds of residents come to the market every[[ week]].
+L6_r9	-0.695	local|resident|hundreds|week	Hundreds of residents gather in the square every[[ week]].
+L6_r9	-0.006	local|resident|hundreds|week	Hundreds of residents visit the old castle every[[ week]].
+L6_r9	-2.141	local|resident|one|Friday	A resident comes to the market every[[ Friday]].
+L6_r9	-2.062	local|resident|one|Friday	A resident gathers in the square every[[ Friday]].
+L6_r9	-1.258	local|resident|one|Friday	A resident visits the old castle every[[ Friday]].
+L6_r9	-2.266	local|resident|hundreds|Friday	Hundreds of residents come to the market every[[ Friday]].
+L6_r9	-2.094	local|resident|hundreds|Friday	Hundreds of residents gather in the square every[[ Friday]].
+L6_r9	-1.305	local|resident|hundreds|Friday	Hundreds of residents visit the old castle every[[ Friday]].
+L6_r9	-1.047	local|regular|one|week	A regular comes to the market every[[ week]].
+L6_r9	-1.945	local|regular|one|week	A regular gathers in the square every[[ week]].
+L6_r9	-0.809	local|regular|one|week	A regular visits the old castle every[[ week]].
+L6_r9	-0.475	local|regular|hundreds|week	Hundreds of regulars come to the market every[[ week]].
+L6_r9	-0.801	local|regular|hundreds|week	Hundreds of regulars gather in the square every[[ week]].
+L6_r9	-0.214	local|regular|hundreds|week	Hundreds of regulars visit the old castle every[[ week]].
+L6_r9	-2.219	local|regular|one|Friday	A regular comes to the market every[[ Friday]].
+L6_r9	-2.203	local|regular|one|Friday	A regular gathers in the square every[[ Friday]].
+L6_r9	-1.391	local|regular|one|Friday	A regular visits the old castle every[[ Friday]].
+L6_r9	-2.469	local|regular|hundreds|Friday	Hundreds of regulars come to the market every[[ Friday]].
+L6_r9	-2.469	local|regular|hundreds|Friday	Hundreds of regulars gather in the square every[[ Friday]].
+L6_r9	-1.602	local|regular|hundreds|Friday	Hundreds of regulars visit the old castle every[[ Friday]].
+L6_r9	-1.164	local|student|one|week	A student comes to the market every[[ week]].
+L6_r9	-2.016	local|student|one|week	A student gathers in the square every[[ week]].
+L6_r9	-0.719	local|student|one|week	A student visits the old castle every[[ week]].
+L6_r9	-0.084	local|student|hundreds|week	Hundreds of students come to the market every[[ week]].
+L6_r9	-0.719	local|student|hundreds|week	Hundreds of students gather in the square every[[ week]].
+L6_r9	+0.062	local|student|hundreds|week	Hundreds of students visit the old castle every[[ week]].
+L6_r9	-1.891	local|student|one|Friday	A student comes to the market every[[ Friday]].
+L6_r9	-2.156	local|student|one|Friday	A student gathers in the square every[[ Friday]].
+L6_r9	-1.148	local|student|one|Friday	A student visits the old castle every[[ Friday]].
+L6_r9	-2.000	local|student|hundreds|Friday	Hundreds of students come to the market every[[ Friday]].
+L6_r9	-2.109	local|student|hundreds|Friday	Hundreds of students gather in the square every[[ Friday]].
+L6_r9	-1.125	local|student|hundreds|Friday	Hundreds of students visit the old castle every[[ Friday]].
+L6_r9	-1.375	local|worker|one|week	A worker comes to the market every[[ week]].
+L6_r9	-1.414	local|worker|one|week	A worker gathers in the square every[[ week]].
+L6_r9	-0.586	local|worker|one|week	A worker visits the old castle every[[ week]].
+L6_r9	+0.064	local|worker|hundreds|week	Hundreds of workers come to the market every[[ week]].
+L6_r9	-0.311	local|worker|hundreds|week	Hundreds of workers gather in the square every[[ week]].
+L6_r9	+0.206	local|worker|hundreds|week	Hundreds of workers visit the old castle every[[ week]].
+L6_r9	-2.094	local|worker|one|Friday	A worker comes to the market every[[ Friday]].
+L6_r9	-1.781	local|worker|one|Friday	A worker gathers in the square every[[ Friday]].
+L6_r9	-1.039	local|worker|one|Friday	A worker visits the old castle every[[ Friday]].
+L6_r9	-1.836	local|worker|hundreds|Friday	Hundreds of workers come to the market every[[ Friday]].
+L6_r9	-1.852	local|worker|hundreds|Friday	Hundreds of workers gather in the square every[[ Friday]].
+L6_r9	-0.926	local|worker|hundreds|Friday	Hundreds of workers visit the old castle every[[ Friday]].
+L6_r9	-1.469	local|neighbour|one|week	A neighbour comes to the market every[[ week]].
+L6_r9	-2.016	local|neighbour|one|week	A neighbour gathers in the square every[[ week]].
+L6_r9	-0.789	local|neighbour|one|week	A neighbour visits the old castle every[[ week]].
+L6_r9	-0.586	local|neighbour|hundreds|week	Hundreds of neighbours come to the market every[[ week]].
+L6_r9	-0.930	local|neighbour|hundreds|week	Hundreds of neighbours gather in the square every[[ week]].
+L6_r9	-0.217	local|neighbour|hundreds|week	Hundreds of neighbours visit the old castle every[[ week]].
+L6_r9	-2.203	local|neighbour|one|Friday	A neighbour comes to the market every[[ Friday]].
+L6_r9	-2.297	local|neighbour|one|Friday	A neighbour gathers in the square every[[ Friday]].
+L6_r9	-1.367	local|neighbour|one|Friday	A neighbour visits the old castle every[[ Friday]].
+L6_r9	-2.281	local|neighbour|hundreds|Friday	Hundreds of neighbours come to the market every[[ Friday]].
+L6_r9	-2.406	local|neighbour|hundreds|Friday	Hundreds of neighbours gather in the square every[[ Friday]].
+L6_r9	-1.438	local|neighbour|hundreds|Friday	Hundreds of neighbours visit the old castle every[[ Friday]].
+L6_r9	-0.980	local|local|one|week	A local comes to the market every[[ week]].
+L6_r9	-1.672	local|local|one|week	A local gathers in the square every[[ week]].
+L6_r9	-0.500	local|local|one|week	A local visits the old castle every[[ week]].
+L6_r9	-0.307	local|local|hundreds|week	Hundreds of locals come to the market every[[ week]].
+L6_r9	-0.641	local|local|hundreds|week	Hundreds of locals gather in the square every[[ week]].
+L6_r9	+0.083	local|local|hundreds|week	Hundreds of locals visit the old castle every[[ week]].
+L6_r9	-1.695	local|local|one|Friday	A local comes to the market every[[ Friday]].
+L6_r9	-1.992	local|local|one|Friday	A local gathers in the square every[[ Friday]].
+L6_r9	-1.031	local|local|one|Friday	A local visits the old castle every[[ Friday]].
+L6_r9	-2.156	local|local|hundreds|Friday	Hundreds of locals come to the market every[[ Friday]].
+L6_r9	-2.172	local|local|hundreds|Friday	Hundreds of locals gather in the square every[[ Friday]].
+L6_r9	-1.375	local|local|hundreds|Friday	Hundreds of locals visit the old castle every[[ Friday]].
+L6_r9	-1.078	religious_routine|worshipper|one|week	A worshipper comes to the market every[[ week]].
+L6_r9	-1.477	religious_routine|worshipper|one|week	A worshipper gathers in the square every[[ week]].
+L6_r9	-0.754	religious_routine|worshipper|one|week	A worshipper visits the old castle every[[ week]].
+L6_r9	-0.355	religious_routine|worshipper|hundreds|week	Hundreds of worshippers come to the market every[[ week]].
+L6_r9	-0.664	religious_routine|worshipper|hundreds|week	Hundreds of worshippers gather in the square every[[ week]].
+L6_r9	-0.159	religious_routine|worshipper|hundreds|week	Hundreds of worshippers visit the old castle every[[ week]].
+L6_r9	-2.047	religious_routine|worshipper|one|Friday	A worshipper comes to the market every[[ Friday]].
+L6_r9	-2.219	religious_routine|worshipper|one|Friday	A worshipper gathers in the square every[[ Friday]].
+L6_r9	-1.664	religious_routine|worshipper|one|Friday	A worshipper visits the old castle every[[ Friday]].
+L6_r9	-2.531	religious_routine|worshipper|hundreds|Friday	Hundreds of worshippers come to the market every[[ Friday]].
+L6_r9	-2.469	religious_routine|worshipper|hundreds|Friday	Hundreds of worshippers gather in the square every[[ Friday]].
+L6_r9	-1.898	religious_routine|worshipper|hundreds|Friday	Hundreds of worshippers visit the old castle every[[ Friday]].
+L6_r9	-2.188	religious_routine|churchgoer|one|week	A churchgoer comes to the market every[[ week]].
+L6_r9	-2.578	religious_routine|churchgoer|one|week	A churchgoer gathers in the square every[[ week]].
+L6_r9	-1.523	religious_routine|churchgoer|one|week	A churchgoer visits the old castle every[[ week]].
+L6_r9	-0.871	religious_routine|churchgoer|hundreds|week	Hundreds of churchgoers come to the market every[[ week]].
+L6_r9	-1.211	religious_routine|churchgoer|hundreds|week	Hundreds of churchgoers gather in the square every[[ week]].
+L6_r9	-0.508	religious_routine|churchgoer|hundreds|week	Hundreds of churchgoers visit the old castle every[[ week]].
+L6_r9	-3.219	religious_routine|churchgoer|one|Friday	A churchgoer comes to the market every[[ Friday]].
+L6_r9	-3.156	religious_routine|churchgoer|one|Friday	A churchgoer gathers in the square every[[ Friday]].
+L6_r9	-2.438	religious_routine|churchgoer|one|Friday	A churchgoer visits the old castle every[[ Friday]].
+L6_r9	-3.172	religious_routine|churchgoer|hundreds|Friday	Hundreds of churchgoers come to the market every[[ Friday]].
+L6_r9	-3.031	religious_routine|churchgoer|hundreds|Friday	Hundreds of churchgoers gather in the square every[[ Friday]].
+L6_r9	-2.328	religious_routine|churchgoer|hundreds|Friday	Hundreds of churchgoers visit the old castle every[[ Friday]].
