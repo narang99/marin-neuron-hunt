@@ -1,0 +1,81 @@
+# L6-N9321 round 2. r1 reads: only week/weekday words; - = recurring slot (any register, incl. past habit and
+# implied by context); + strong for "last week", "Christmas fell on a Sunday", rates (+); "last Tuesday" was -1.61.
+groups:
+  # K: one-off weekday in different frames (why was "last Tuesday" negative?)
+  K_weekday_once:
+    - "We met the new neighbours last[[ Tuesday]] at the park."
+    - "I saw her at the bank last[[ Tuesday]], and she looked well."
+    - "Last[[ Tuesday]] the power went out across the city."
+    - "The power went out across the city on[[ Tuesday]]."
+    - "The power went out across the city this past[[ Tuesday]]."
+    - "The power went out across the city that[[ Tuesday]]."
+    - "The power went out across the city on a[[ Tuesday]]."
+    - "Back in 2014, the first snow came on a[[ Tuesday]]."
+    - "My daughter was born on[[ Tuesday]], March 3, 2015."
+    - "The hearing is set for next[[ Tuesday]] at the county court."
+  K_weekday_ordinal:
+    - "The council meets on the last[[ Tuesday]] of every month."
+    - "Payday is the last[[ Friday]] of the month."
+    - "The museum is free on the first[[ Sunday]] of each month."
+  # L: week as a unit or denominator vs as the slot an event recurs in
+  L_unit:
+    - "She earns five hundred dollars a[[ week]]."
+    - "We go swimming three times a[[ week]]."
+    - "He calls his mother once a[[ week]]."
+    - "We spend about a hundred dollars every[[ week]] on food."
+    - "The project took one[[ week]] to finish."
+    - "I will be back in a[[ week]]."
+    - "He was in hospital for a[[ week]]."
+    - "It happened a[[ week]] ago."
+  L_slot:
+    - "Tune in every[[ week]] for a new episode."
+    - "The column appears every[[ week]] in the Sunday paper."
+    - "We pray together every[[ week]] at the chapel."
+    - "Each[[ week]], the class reads a new poem."
+    - "Week after[[ week]], the same people came to the meetings."
+  # M: implied recurrence in schedule text, no every/each/plural
+  M_listing:
+    - "Opening hours: Tuesday to[[ Sunday]], 10am to 6pm. Closed Mondays."
+    - "Brunch is served Saturday and[[ Sunday]] from 10 to 2."
+    - "Swimming lessons: Monday and[[ Wednesday]], 4pm."
+    - "The farmers market runs[[ Saturday]] mornings, May to October."
+    - "Late night TV: The Tonight Show,[[ Monday]] to Friday at 11:35."
+    - "Bin collection day:[[ Thursday]]."
+  M_news:
+    - "The company announced its results on[[ Thursday]]."
+    - "Police said the fire started late on[[ Saturday]]."
+    - "Markets fell sharply on[[ Monday]] after the news."
+    - "The minister will visit the region on[[ Wednesday]]."
+    - "Voters went to the polls on[[ Sunday]] in a tense election."
+  # N: named weekday events: recurring vs one-off
+  N_named_recurring:
+    - "The cafeteria serves only vegetables on Meatless[[ Monday]]."
+    - "She posts an old photo every week for Throwback[[ Thursday]]."
+    - "Jeans are allowed on casual[[ Friday]]."
+    - "The cinema runs cheap tickets on Tight-wad[[ Tuesday]]."
+  N_named_once:
+    - "Thousands died on Bloody[[ Sunday]] in 1905."
+    - "The church holds a service on Good[[ Friday]]."
+    - "Shoppers lined up for hours on Black[[ Friday]]."
+    - "The stock market crashed on Black[[ Tuesday]] in 1929."
+    - "Ash[[ Wednesday]] marks the start of Lent."
+  # O: "week" phrases on the + side
+  O_week_once:
+    - "It rained the whole[[ week]] of the wedding."
+    - "We were busy the[[ week]] before Christmas."
+    - "That[[ week]] changed my life."
+    - "During Christmas[[ week]], the shops stayed open late."
+    - "The first[[ week]] of the war was chaos."
+    - "In the final[[ week]] of the campaign, he collapsed."
+  # P: serial vs one-off text with the same "on Thursday" ending
+  P_serial:
+    - "Our weekly book club continues as usual. We meet next on[[ Thursday]]."
+    - "The Weekly Roundup, issue 210. As always, the next issue comes out on[[ Thursday]]."
+  P_oneoff:
+    - "The wedding was planned for months. It finally happened on[[ Thursday]]."
+    - "The surgery was delayed twice. It finally happened on[[ Thursday]]."
+  J_random:
+    - "She poured a glass of cold[[ water]]."
+    - "The children laughed at the[[ clown]]."
+    - "Please pass me the[[ salt]]."
+    - "The dog chased the red[[ ball]]."
