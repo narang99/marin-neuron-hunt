@@ -1,0 +1,181 @@
+request	group	act	text
+L6-N9321-001	should_fire	-1.375	The youth orchestra rehearses every[[ Saturday]] in the school hall.
+L6-N9321-001	should_fire	-3.766	Our running group meets each[[ Wednesday]] at the north gate.
+L6-N9321-001	should_fire	-0.416	The bakery makes fresh croissants every[[ Sunday]] morning.
+L6-N9321-001	should_fire	-1.328	Grandpa phoned us every[[ week]] while he was stationed abroad.
+L6-N9321-001	should_fire	-1.344	The comic strip runs every[[ week]] in the local paper.
+L6-N9321-001	should_fire	-2.328	The pub hosts a quiz once a week on[[ Thursday]] nights.
+L6-N9321-001	should_fire	-2.125	My aunt volunteers at the shelter every other[[ Monday]].
+L6-N9321-001	should_fire	-2.500	The newsletter goes out weekly on[[ Fridays]].
+L6-N9321-001	should_fire	-0.867	Each[[ week]], the coach picks a new captain.
+L6-N9321-001	should_fire	-1.195	As students, we cooked a big dinner together every[[ Friday]].
+L6-N9321-001	should_fire	-1.352	The cleaners come every two[[ weeks]] to do the windows.
+L6-N9321-001	should_fire	-2.969	The radio show is broadcast every[[ Tuesday]] at noon.
+L6-N9321-001	should_not_fire	-0.641	Our running group got lost in the fog that[[ Wednesday]].
+L6-N9321-001	should_not_fire	+0.404	The bakery burned down in a fire that[[ Sunday]].
+L6-N9321-001	should_not_fire	+0.871	Grandpa was discharged from hospital that[[ week]].
+L6-N9321-001	should_not_fire	+0.035	The comic strip caused an uproar the[[ week]] it was printed.
+L6-N9321-001	should_not_fire	+0.260	The company reported record profits on[[ Thursday]].
+L6-N9321-001	should_not_fire	+0.844	My aunt was born on a[[ Monday]] during a heatwave.
+L6-N9321-001	should_not_fire	+2.969	Christmas fell on a[[ Friday]] that year.
+L6-N9321-001	should_not_fire	+1.367	During exam[[ week]], the library stayed open all night.
+L6-N9321-001	should_not_fire	+0.289	The museum reopened after the flood on[[ Tuesday]].
+L6-N9321-001	should_not_fire	+0.059	The two[[ weeks]] of the strike felt endless.
+L6-N9321-002	should_fire	+1.812	It snowed the whole[[ week]] of our honeymoon.
+L6-N9321-002	should_fire	+0.891	During Easter[[ week]], the town filled with pilgrims.
+L6-N9321-002	should_fire	+1.172	That[[ week]], everything in my life changed.
+L6-N9321-002	should_fire	+0.523	The[[ week]] before the wedding was chaos.
+L6-N9321-002	should_fire	+0.867	My grandmother was born on a[[ Sunday]] in 1931.
+L6-N9321-002	should_fire	+4.125	That year, New Year's Day fell on a[[ Thursday]].
+L6-N9321-002	should_fire	+3.328	One morning this[[ week]], I found a fox in the garden.
+L6-N9321-002	should_fire	+1.859	I woke up early one day last[[ week]] and heard the news.
+L6-N9321-002	should_fire	+0.844	The heatwave peaked during the[[ week]] of the festival.
+L6-N9321-002	should_fire	+0.367	The baby arrived on[[ Tuesday]], two weeks early.
+L6-N9321-002	should_fire	+0.555	The house was quiet the[[ week]] after the funeral.
+L6-N9321-002	should_fire	+1.852	Her birthday falls on a[[ Saturday]] this year.
+L6-N9321-002	should_not_fire	-2.438	My uncle plays chess at the club every[[ week]].
+L6-N9321-002	should_not_fire	-0.836	I visit my grandmother each[[ Wednesday]].
+L6-N9321-002	should_not_fire	-1.305	My grandmother went to mass every[[ Sunday]].
+L6-N9321-002	should_not_fire	-1.484	The choir practises every[[ Thursday]] evening.
+L6-N9321-002	should_not_fire	-1.117	Every[[ week]], I find a fox in the garden.
+L6-N9321-002	should_not_fire	-1.523	The bins are emptied every[[ Tuesday]].
+L6-N9321-002	should_not_fire	-2.781	We call home once a week on[[ Saturday]].
+L6-N9321-002	should_not_fire	-2.922	Tune in each[[ week]] for a new story.
+L6-N9321-002	should_not_fire	-3.609	The market comes to town every other[[ Friday]].
+L6-N9321-002	should_not_fire	-4.156	The club meets weekly on[[ Mondays]].
+L6-N9321-003	pair00.high	-1.672	Give the channel a follow here, and tune in every[[ week]] for an exciting discussion!
+L6-N9321-003	pair00.low	-0.322	Give the channel a follow here, and tune in this[[ week]] for an exciting discussion!
+L6-N9321-003	pair01.high	-3.234	UCSB Athletics' weekly radio show, Talk'n Gauchos, airs every[[ Tuesday]] from 6-7 p.m.
+L6-N9321-003	pair01.low	-1.867	UCSB Athletics' weekly radio show, Talk'n Gauchos, airs this[[ Tuesday]] from 6-7 p.m.
+L6-N9321-003	pair02.high	-3.031	The group meditation will be held once a week on[[ Sunday]] at 3:45pm.
+L6-N9321-003	pair02.low	-0.871	The group meditation will be held this coming[[ Sunday]] at 3:45pm.
+L6-N9321-003	pair03.high	-2.797	The SEC Bachstory will be a weekly SEC recap posted every[[ Monday]] morning.
+L6-N9321-003	pair03.low	-1.391	The SEC Bachstory will be a weekly SEC recap posted this[[ Monday]] morning.
+L6-N9321-003	pair04.high	-3.047	Intermediate Bridge players are invited to join an informal group meeting every[[ Wednesday]], 10 a.m.
+L6-N9321-003	pair04.low	-1.453	Intermediate Bridge players are invited to join an informal group meeting this[[ Wednesday]], 10 a.m.
+L6-N9321-003	pair05.high	-4.000	He can be seen in Mound City on Saturday of each[[ week]], and in Oregon the remainder.
+L6-N9321-003	pair05.low	-1.180	He can be seen in Mound City on Saturday of this[[ week]], and in Oregon the remainder.
+L6-N9321-003	pair06.high	-3.094	Miles leads a weekly[[ Friday]] night Midnight Rollers skate around the lake.
+L6-N9321-003	pair06.low	-0.574	Miles leads a special[[ Friday]] night Midnight Rollers skate around the lake.
+L6-N9321-003	pair07.high	-2.016	In the fall of 2001, my graduate media theory seminar at MIT met every[[ Tuesday]] and Thursday at noon.
+L6-N9321-003	pair07.low	-0.770	In the fall of 2001, my graduate media theory seminar at MIT met one[[ Tuesday]] and Thursday at noon.
+L6-N9321-003	pair08.high	-2.094	The Debate Club gives students a sense of how to argue. Each[[ week]] teams of students work on plans.
+L6-N9321-003	pair08.low	-1.281	The Debate Club gives students a sense of how to argue. This[[ week]] teams of students work on plans.
+L6-N9321-003	pair09.high	-1.430	His opponent presents the TV List every[[ Saturday]] in the Movie Zone.
+L6-N9321-003	pair09.low	-0.391	His opponent presents the TV List this[[ Saturday]] in the Movie Zone.
+L6-N9321-003	pair10.high	-2.062	There is a Party Poker Weekly Tournament held every[[ Sunday]].
+L6-N9321-003	pair10.low	-1.336	There is a Party Poker Weekly Tournament held this[[ Sunday]].
+L6-N9321-003	pair11.high	-1.406	We will take a look at the old steam navies and will profile a different ship each[[ week]].
+L6-N9321-003	pair11.low	-0.535	We will take a look at the old steam navies and will profile a different ship this[[ week]].
+L6-N9321-004	pair00.high	-3.047	Our book club meets weekly, as it has for years. The meeting is on[[ Thursday]].
+L6-N9321-004	pair00.low	-0.039	Our book club is holding a one-off reunion after ten years. The meeting is on[[ Thursday]].
+L6-N9321-004	pair01.high	-1.188	The podcast puts out a new episode every week. This[[ week]] the guest is a chef.
+L6-N9321-004	pair01.low	-0.408	I rarely listen to podcasts, but a friend sent me one. This[[ week]] the guest is a chef.
+L6-N9321-004	pair02.high	-1.641	Welcome back to the weekly garden column. This[[ week]] the topic is tomatoes.
+L6-N9321-004	pair02.low	+0.125	I have never written about gardening before. This[[ week]] the topic is tomatoes.
+L6-N9321-004	pair03.high	-2.312	The market comes to the square every weekend. It opens on[[ Saturday]] at eight.
+L6-N9321-004	pair03.low	+0.652	The market is coming to the square for one day only. It opens on[[ Saturday]] at eight.
+L6-N9321-004	pair04.high	-1.953	Like every week, the youth league plays at the park. The game is on[[ Sunday]].
+L6-N9321-004	pair04.low	-0.160	For the first and only time, the national team plays at the park. The game is on[[ Sunday]].
+L6-N9321-004	pair05.high	-1.773	The choir has rehearsed weekly since 1990. Practice is on[[ Tuesday]] evening.
+L6-N9321-004	pair05.low	-0.215	The choir has one rehearsal before the concert. Practice is on[[ Tuesday]] evening.
+L6-N9321-004	pair06.high	-1.508	Issue 312 of our weekly bulletin. The copies go out on[[ Friday]].
+L6-N9321-004	pair06.low	+0.180	This is a one-off special bulletin. The copies go out on[[ Friday]].
+L6-N9321-004	pair07.high	-1.328	The surgery holds a walk-in clinic every week. The doctor sees patients on[[ Wednesday]].
+L6-N9321-004	pair07.low	+0.110	The surgery is closed for a month, with one exception. The doctor sees patients on[[ Wednesday]].
+L6-N9321-004	pair08.high	-1.281	Every week the family gathers for a roast. Dinner is on[[ Sunday]] at six.
+L6-N9321-004	pair08.low	+1.070	The family is gathering for Grandma's ninetieth birthday. Dinner is on[[ Sunday]] at six.
+L6-N9321-004	pair09.high	-2.688	Season 3 continues with a new episode each week. It airs on[[ Monday]].
+L6-N9321-004	pair09.low	+0.128	The documentary is a single feature-length film. It airs on[[ Monday]].
+L6-N9321-004	pair10.high	-1.570	Since January, the gym has run a weekly spin class. The class is on[[ Thursday]].
+L6-N9321-004	pair10.low	-0.486	The gym is running a single trial spin class. The class is on[[ Thursday]].
+L6-N9321-004	pair11.high	-2.953	Every week, the team posts a progress update. The update is due on[[ Friday]].
+L6-N9321-004	pair11.low	+0.326	The team owes the client a single final update. The update is due on[[ Friday]].
+L6-N9321-005	should_fire	-0.125	I water the plants every[[ week]].
+L6-N9321-005	should_fire	-0.582	She visits her mother every[[ Sunday]].
+L6-N9321-005	should_fire	-1.188	We pay the cleaner every[[ week]].
+L6-N9321-005	should_fire	-0.457	The ferry to the island runs every[[ Saturday]].
+L6-N9321-005	should_fire	-0.742	He goes fishing every[[ weekend]].
+L6-N9321-005	should_fire	-0.469	The magazine comes out every[[ week]].
+L6-N9321-005	should_fire	-2.375	They hold a market every[[ Thursday]].
+L6-N9321-005	should_fire	-0.527	I back up my files every[[ Friday]].
+L6-N9321-005	should_fire	-2.922	We meet for coffee every[[ Tuesday]].
+L6-N9321-005	should_fire	-0.594	The choir sings in the cathedral every[[ Sunday]].
+L6-N9321-005	should_not_fire	-0.031	I water the plants every[[ morning]].
+L6-N9321-005	should_not_fire	+0.021	She visits her mother every[[ month]].
+L6-N9321-005	should_not_fire	+0.012	We pay the cleaner every[[ month]].
+L6-N9321-005	should_not_fire	-0.001	The ferry to the island runs every[[ hour]].
+L6-N9321-005	should_not_fire	+0.001	He goes fishing every[[ summer]].
+L6-N9321-005	should_not_fire	-0.056	The magazine comes out every[[ year]].
+L6-N9321-005	should_not_fire	-0.051	They hold a market every[[ day]].
+L6-N9321-005	should_not_fire	+0.058	I back up my files every[[ night]].
+L6-N9321-005	should_not_fire	-0.099	We meet for coffee every[[ morning]].
+L6-N9321-005	should_not_fire	-0.003	The choir sings in the cathedral every[[ Christmas]].
+L6-N9321-006	should_fire	-1.305	The kids beg for nachos on taco[[ Tuesday]].
+L6-N9321-006	should_fire	-0.930	Our office lets everyone wear jeans on casual[[ Friday]].
+L6-N9321-006	should_fire	-1.188	The canteen serves no meat on Meatless[[ Monday]].
+L6-N9321-006	should_fire	-0.746	She dug out an old school photo for Throwback[[ Thursday]].
+L6-N9321-006	should_fire	-0.334	The bar sells cheap chicken on Wing[[ Wednesday]].
+L6-N9321-006	should_fire	-0.490	Half the street queues at the chip shop for fish[[ Friday]].
+L6-N9321-006	should_fire	-1.648	The karaoke bar is packed on Karaoke[[ Thursday]].
+L6-N9321-006	should_fire	-0.492	The cinema halves its prices on Two-for-one[[ Tuesday]].
+L6-N9321-006	should_fire	-0.945	We never miss the family's usual[[ Sunday]] roast.
+L6-N9321-006	should_fire	+0.024	The gym is full of beginners on Motivation[[ Monday]].
+L6-N9321-006	should_not_fire	+0.344	The stock market crashed on Black[[ Tuesday]] in 1929.
+L6-N9321-006	should_not_fire	+0.242	Thousands died on Bloody[[ Sunday]] in 1905.
+L6-N9321-006	should_not_fire	-0.003	The candidates campaigned hard before Super[[ Tuesday]].
+L6-N9321-006	should_not_fire	+0.179	Online shops cut prices on Cyber[[ Monday]].
+L6-N9321-006	should_not_fire	+0.074	Ash[[ Wednesday]] marks the start of Lent.
+L6-N9321-006	should_not_fire	+0.447	Markets plunged on Black[[ Monday]] in 1987.
+L6-N9321-006	should_not_fire	+0.066	Shoppers lined up for hours on Black[[ Friday]].
+L6-N9321-006	should_not_fire	+0.192	I listened to the new album by The[[ Weekend]] on the train.
+L6-N9321-006	should_not_fire	-0.028	Robinson Crusoe named his companion[[ Friday]] after the day they met.
+L6-N9321-006	should_not_fire	+0.078	Shark[[ Week]] is back on the Discovery Channel.
+L6-N9321-007	pair00.high	+4.094	That year, Christmas Day was on a[[ Wednesday]].
+L6-N9321-007	pair00.low	+0.613	That year, the burglary was on a[[ Wednesday]].
+L6-N9321-007	pair01.high	+4.438	In 2004, New Year's Eve was on a[[ Friday]].
+L6-N9321-007	pair01.low	-0.142	In 2004, the car crash was on a[[ Friday]].
+L6-N9321-007	pair02.high	+1.211	My twentieth birthday was on a[[ Monday]].
+L6-N9321-007	pair02.low	-0.322	My bike accident was on a[[ Monday]].
+L6-N9321-007	pair03.high	+2.844	Halloween was on a[[ Thursday]] that year, so the party moved.
+L6-N9321-007	pair03.low	-0.071	The power cut was on a[[ Thursday]] that year, so the party moved.
+L6-N9321-007	pair04.high	+3.516	In 1999, Valentine's Day was on a[[ Sunday]].
+L6-N9321-007	pair04.low	+0.988	In 1999, the hailstorm was on a[[ Sunday]].
+L6-N9321-007	pair05.high	+0.832	Her fortieth birthday fell on a[[ Saturday]].
+L6-N9321-007	pair05.low	-0.094	Her house move fell on a[[ Saturday]].
+L6-N9321-007	pair06.high	+3.422	Independence Day was on a[[ Tuesday]] in 2023.
+L6-N9321-007	pair06.low	+0.063	The school fire was on a[[ Tuesday]] in 2023.
+L6-N9321-007	pair07.high	+1.086	Our wedding anniversary was on a[[ Friday]] this year.
+L6-N9321-007	pair07.low	-0.229	Our boiler breakdown was on a[[ Friday]] this year.
+L6-N9321-007	pair08.high	+4.062	In 2011, Boxing Day was on a[[ Monday]].
+L6-N9321-007	pair08.low	+0.672	In 2011, the earthquake was on a[[ Monday]].
+L6-N9321-007	pair09.high	+0.953	My son was born on a[[ Wednesday]].
+L6-N9321-007	pair09.low	-0.367	My son was injured on a[[ Wednesday]].
+L6-N9321-007	pair10.high	+2.750	In 2015, my birthday was on a[[ Thursday]].
+L6-N9321-007	pair10.low	+0.381	In 2015, my car accident was on a[[ Thursday]].
+L6-N9321-007	pair11.high	+3.953	In 2022, Christmas Eve was on a[[ Saturday]].
+L6-N9321-007	pair11.low	+0.801	In 2022, the train strike was on a[[ Saturday]].
+L6-N9321-008	pair00.high	-1.438	A neighbour drops by the bakery every[[ week]].
+L6-N9321-008	pair00.low	-0.887	A pilgrim drops by the bakery every[[ week]].
+L6-N9321-008	pair01.high	-0.656	A resident swims in the lake every[[ Saturday]].
+L6-N9321-008	pair01.low	+0.279	A pilgrim swims in the lake every[[ Saturday]].
+L6-N9321-008	pair02.high	-0.828	A resident climbs the hill to the chapel every[[ Sunday]].
+L6-N9321-008	pair02.low	-0.093	A pilgrim climbs the hill to the chapel every[[ Sunday]].
+L6-N9321-008	pair03.high	-1.117	A customer eats at the noodle bar every[[ Monday]].
+L6-N9321-008	pair03.low	-0.645	A tourist eats at the noodle bar every[[ Monday]].
+L6-N9321-008	pair04.high	-0.863	A neighbour takes photos of the harbour every[[ week]].
+L6-N9321-008	pair04.low	-0.271	A tourist takes photos of the harbour every[[ week]].
+L6-N9321-008	pair05.high	-0.824	A resident buys a map at the kiosk every[[ Thursday]].
+L6-N9321-008	pair05.low	-0.418	A tourist buys a map at the kiosk every[[ Thursday]].
+L6-N9321-008	pair06.high	-1.078	A customer rents a bike from the shop every[[ week]].
+L6-N9321-008	pair06.low	-0.555	A holidaymaker rents a bike from the shop every[[ week]].
+L6-N9321-008	pair07.high	-1.352	A neighbour sunbathes on the beach every[[ Friday]].
+L6-N9321-008	pair07.low	-0.793	A holidaymaker sunbathes on the beach every[[ Friday]].
+L6-N9321-008	pair08.high	-0.816	A resident books a table at the hotel every[[ week]].
+L6-N9321-008	pair08.low	-0.128	A holidaymaker books a table at the hotel every[[ week]].
+L6-N9321-008	pair09.high	-0.797	A neighbour hikes the coastal path every[[ week]].
+L6-N9321-008	pair09.low	-0.414	A backpacker hikes the coastal path every[[ week]].
+L6-N9321-008	pair10.high	-0.155	A resident sleeps at the hostel every[[ Wednesday]].
+L6-N9321-008	pair10.low	-0.246	A backpacker sleeps at the hostel every[[ Wednesday]].
+L6-N9321-008	pair11.high	-1.391	A customer buys bread at the corner shop every[[ week]].
+L6-N9321-008	pair11.low	-0.867	A backpacker buys bread at the corner shop every[[ week]].
