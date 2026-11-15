@@ -1,0 +1,32 @@
+# Question: does the repetition word right before the target drive the - side?
+# Each high is an atlas exemplar (pilot/fineweb-10m-sparse, - side), trimmed to its sentence. Each low changes
+# only the repetition word(s) to a one-occasion word. The target token is unchanged.
+type: contrast
+neuron: L6-N9321
+side: "-"
+pairs:
+  - high: "Give the channel a follow here, and tune in every[[ week]] for an exciting discussion!"
+    low: "Give the channel a follow here, and tune in this[[ week]] for an exciting discussion!"
+  - high: "UCSB Athletics' weekly radio show, Talk'n Gauchos, airs every[[ Tuesday]] from 6-7 p.m."
+    low: "UCSB Athletics' weekly radio show, Talk'n Gauchos, airs this[[ Tuesday]] from 6-7 p.m."
+  - high: "The group meditation will be held once a week on[[ Sunday]] at 3:45pm."
+    low: "The group meditation will be held this coming[[ Sunday]] at 3:45pm."
+  - high: "The SEC Bachstory will be a weekly SEC recap posted every[[ Monday]] morning."
+    low: "The SEC Bachstory will be a weekly SEC recap posted this[[ Monday]] morning."
+  - high: "Intermediate Bridge players are invited to join an informal group meeting every[[ Wednesday]], 10 a.m."
+    low: "Intermediate Bridge players are invited to join an informal group meeting this[[ Wednesday]], 10 a.m."
+  - high: "He can be seen in Mound City on Saturday of each[[ week]], and in Oregon the remainder."
+    low: "He can be seen in Mound City on Saturday of this[[ week]], and in Oregon the remainder."
+  - high: "Miles leads a weekly[[ Friday]] night Midnight Rollers skate around the lake."
+    low: "Miles leads a special[[ Friday]] night Midnight Rollers skate around the lake."
+  - high: "In the fall of 2001, my graduate media theory seminar at MIT met every[[ Tuesday]] and Thursday at noon."
+    low: "In the fall of 2001, my graduate media theory seminar at MIT met one[[ Tuesday]] and Thursday at noon."
+  - high: "The Debate Club gives students a sense of how to argue. Each[[ week]] teams of students work on plans."
+    low: "The Debate Club gives students a sense of how to argue. This[[ week]] teams of students work on plans."
+  - high: "His opponent presents the TV List every[[ Saturday]] in the Movie Zone."
+    low: "His opponent presents the TV List this[[ Saturday]] in the Movie Zone."
+  - high: "There is a Party Poker Weekly Tournament held every[[ Sunday]]."
+    low: "There is a Party Poker Weekly Tournament held this[[ Sunday]]."
+  - high: "We will take a look at the old steam navies and will profile a different ship each[[ week]]."
+    low: "We will take a look at the old steam navies and will profile a different ship this[[ week]]."
+by: {github: narang99, method: agent, model: claude-opus-5-5}

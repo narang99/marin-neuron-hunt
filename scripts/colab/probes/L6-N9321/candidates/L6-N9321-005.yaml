@@ -1,0 +1,30 @@
+# Question: is the - side specific to the week cycle? Should-fire: "every" + a week or weekday word.
+# Should-not-fire: the same sentence with another period (morning, month, year, hour, summer, night).
+type: activation-test
+neuron: L6-N9321
+side: "-"
+hypothesis: "The negative side fires on repetition only for week and weekday words: 'every week' and 'every Sunday' fire past q99, while the same sentences with 'every morning', 'every month' or 'every year' stay quiet."
+should_fire:
+  - "I water the plants every[[ week]]."
+  - "She visits her mother every[[ Sunday]]."
+  - "We pay the cleaner every[[ week]]."
+  - "The ferry to the island runs every[[ Saturday]]."
+  - "He goes fishing every[[ weekend]]."
+  - "The magazine comes out every[[ week]]."
+  - "They hold a market every[[ Thursday]]."
+  - "I back up my files every[[ Friday]]."
+  - "We meet for coffee every[[ Tuesday]]."
+  - "The choir sings in the cathedral every[[ Sunday]]."
+should_not_fire:
+  - "I water the plants every[[ morning]]."
+  - "She visits her mother every[[ month]]."
+  - "We pay the cleaner every[[ month]]."
+  - "The ferry to the island runs every[[ hour]]."
+  - "He goes fishing every[[ summer]]."
+  - "The magazine comes out every[[ year]]."
+  - "They hold a market every[[ day]]."
+  - "I back up my files every[[ night]]."
+  - "We meet for coffee every[[ morning]]."
+  - "The choir sings in the cathedral every[[ Christmas]]."
+threshold: atlas-q99
+by: {github: narang99, method: agent, model: claude-opus-5-5}

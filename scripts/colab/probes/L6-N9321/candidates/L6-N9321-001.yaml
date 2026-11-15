@@ -1,0 +1,32 @@
+# Summary, - side, fresh prompts: week and weekday words that name a repeating slot fire past -q99.
+# Should-not-fire: the same words naming one occasion.
+type: activation-test
+neuron: L6-N9321
+side: "-"
+hypothesis: "The negative side fires (past q99) on week and weekday words when they name a slot that repeats (every week, each Wednesday, weekly on Fridays), and stays quiet on the same words when they name one occasion."
+should_fire:
+  - "The youth orchestra rehearses every[[ Saturday]] in the school hall."
+  - "Our running group meets each[[ Wednesday]] at the north gate."
+  - "The bakery makes fresh croissants every[[ Sunday]] morning."
+  - "Grandpa phoned us every[[ week]] while he was stationed abroad."
+  - "The comic strip runs every[[ week]] in the local paper."
+  - "The pub hosts a quiz once a week on[[ Thursday]] nights."
+  - "My aunt volunteers at the shelter every other[[ Monday]]."
+  - "The newsletter goes out weekly on[[ Fridays]]."
+  - "Each[[ week]], the coach picks a new captain."
+  - "As students, we cooked a big dinner together every[[ Friday]]."
+  - "The cleaners come every two[[ weeks]] to do the windows."
+  - "The radio show is broadcast every[[ Tuesday]] at noon."
+should_not_fire:
+  - "Our running group got lost in the fog that[[ Wednesday]]."
+  - "The bakery burned down in a fire that[[ Sunday]]."
+  - "Grandpa was discharged from hospital that[[ week]]."
+  - "The comic strip caused an uproar the[[ week]] it was printed."
+  - "The company reported record profits on[[ Thursday]]."
+  - "My aunt was born on a[[ Monday]] during a heatwave."
+  - "Christmas fell on a[[ Friday]] that year."
+  - "During exam[[ week]], the library stayed open all night."
+  - "The museum reopened after the flood on[[ Tuesday]]."
+  - "The two[[ weeks]] of the strike felt endless."
+threshold: atlas-q99
+by: {github: narang99, method: agent, model: claude-opus-5-5}

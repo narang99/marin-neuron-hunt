@@ -1,0 +1,26 @@
+# L6-N9321 round 3 side probes: the "last + weekday" quirk, and random baselines for -007/-008.
+groups:
+  Q_last_weekday:
+    - "I saw the doctor last[[ Monday]] about my knee."
+    - "Last[[ Friday]] we drove to the coast."
+    - "The parcel came last[[ Sunday]], a day late."
+    - "She called me last[[ Wednesday]] in tears."
+    - "Last[[ Thursday]] the river flooded the road."
+    - "We met the new neighbours this past[[ Tuesday]] at the park."
+    - "We met the new neighbours on[[ Tuesday]] at the park."
+    - "We met the new neighbours that[[ Tuesday]] at the park."
+  Q_last_week:
+    - "I saw the doctor last[[ week]] about my knee."
+    - "Last[[ weekend]] we drove to the coast."
+    - "The parcel came last[[ week]], a day late."
+  R_random:
+    - "She poured a glass of cold[[ water]]."
+    - "The children laughed at the[[ clown]]."
+    - "Please pass me the[[ salt]]."
+    - "The dog chased the red[[ ball]]."
+    - "He fixed the leaking kitchen[[ tap]]."
+    - "The old man sat on the park[[ bench]]."
+    - "We planted tulips in the front[[ garden]]."
+    - "The baby fell asleep in the[[ car]]."
+    - "My brother bought a new[[ bicycle]]."
+    - "The teacher wrote on the[[ board]]."

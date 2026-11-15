@@ -201,7 +201,7 @@ def load_items(path):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--neuron", action="append", required=True, help="L6-N9321; repeatable")
-    ap.add_argument("--prompts", help="request or probe YAML")
+    ap.add_argument("--prompts", action="append", default=[], help="request or probe YAML; repeatable")
     ap.add_argument("--check", help="atlas_check.json: exact atlas token ids for exemplars")
     ap.add_argument("--cache", default="/content/marin_cache")
     ap.add_argument("--out", help="write results as JSON here")
@@ -220,8 +220,12 @@ def main():
             rows.append({**{k: ex[k] for k in ("layer", "neuron", "pole", "rank", "act")}, "got": got})
             print(f"L{key[0]}-N{key[1]} pole {ex['pole']:+d} rank {ex['rank']:2d}  atlas {ex['act']:+7.3f}  "
                   f"t4 {got:+7.3f}  diff {got - ex['act']:+.3f}", flush=True)
-    if args.prompts:
-        for group, text in load_items(args.prompts):
+    items = []
+    for pf in args.prompts:
+        tag = Path(pf).stem + ":" if len(args.prompts) > 1 else ""
+        items += [(tag + g, t) for g, t in load_items(pf)]
+    if items:
+        for group, text in items:
             try:
                 e = encode(tok, text)
             except PromptError as err:

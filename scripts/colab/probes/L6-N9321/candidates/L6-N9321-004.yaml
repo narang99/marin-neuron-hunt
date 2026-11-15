@@ -1,0 +1,32 @@
+# Question: does a repeating series set up earlier in the text drive the - side, with the sentence holding the
+# target identical? High: the first sentence sets up something that repeats weekly. Low: the first sentence sets
+# up a one-off. The second sentence, including the target, is the same in both.
+type: contrast
+neuron: L6-N9321
+side: "-"
+pairs:
+  - high: "Our book club meets weekly, as it has for years. The meeting is on[[ Thursday]]."
+    low: "Our book club is holding a one-off reunion after ten years. The meeting is on[[ Thursday]]."
+  - high: "The podcast puts out a new episode every week. This[[ week]] the guest is a chef."
+    low: "I rarely listen to podcasts, but a friend sent me one. This[[ week]] the guest is a chef."
+  - high: "Welcome back to the weekly garden column. This[[ week]] the topic is tomatoes."
+    low: "I have never written about gardening before. This[[ week]] the topic is tomatoes."
+  - high: "The market comes to the square every weekend. It opens on[[ Saturday]] at eight."
+    low: "The market is coming to the square for one day only. It opens on[[ Saturday]] at eight."
+  - high: "Like every week, the youth league plays at the park. The game is on[[ Sunday]]."
+    low: "For the first and only time, the national team plays at the park. The game is on[[ Sunday]]."
+  - high: "The choir has rehearsed weekly since 1990. Practice is on[[ Tuesday]] evening."
+    low: "The choir has one rehearsal before the concert. Practice is on[[ Tuesday]] evening."
+  - high: "Issue 312 of our weekly bulletin. The copies go out on[[ Friday]]."
+    low: "This is a one-off special bulletin. The copies go out on[[ Friday]]."
+  - high: "The surgery holds a walk-in clinic every week. The doctor sees patients on[[ Wednesday]]."
+    low: "The surgery is closed for a month, with one exception. The doctor sees patients on[[ Wednesday]]."
+  - high: "Every week the family gathers for a roast. Dinner is on[[ Sunday]] at six."
+    low: "The family is gathering for Grandma's ninetieth birthday. Dinner is on[[ Sunday]] at six."
+  - high: "Season 3 continues with a new episode each week. It airs on[[ Monday]]."
+    low: "The documentary is a single feature-length film. It airs on[[ Monday]]."
+  - high: "Since January, the gym has run a weekly spin class. The class is on[[ Thursday]]."
+    low: "The gym is running a single trial spin class. The class is on[[ Thursday]]."
+  - high: "Every week, the team posts a progress update. The update is due on[[ Friday]]."
+    low: "The team owes the client a single final update. The update is due on[[ Friday]]."
+by: {github: narang99, method: agent, model: claude-opus-5-5}

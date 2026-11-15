@@ -1,0 +1,31 @@
+# Question: does the - side read a weekday name as a repeating slot when only a named weekly custom implies it?
+# Should-fire: named weekly customs (taco Tuesday). Should-not-fire: named days that are one historical event or
+# a single day in the year (Black Tuesday 1929, Super Tuesday, Cyber Monday).
+type: activation-test
+neuron: L6-N9321
+side: "-"
+hypothesis: "The negative side fires (past q99) on a weekday name inside a named weekly custom (taco Tuesday, casual Friday), with no 'every' in the sentence, and stays quiet on weekday names inside named one-off or once-a-year days (Black Tuesday, Cyber Monday)."
+should_fire:
+  - "The kids beg for nachos on taco[[ Tuesday]]."
+  - "Our office lets everyone wear jeans on casual[[ Friday]]."
+  - "The canteen serves no meat on Meatless[[ Monday]]."
+  - "She dug out an old school photo for Throwback[[ Thursday]]."
+  - "The bar sells cheap chicken on Wing[[ Wednesday]]."
+  - "Half the street queues at the chip shop for fish[[ Friday]]."
+  - "The karaoke bar is packed on Karaoke[[ Thursday]]."
+  - "The cinema halves its prices on Two-for-one[[ Tuesday]]."
+  - "We never miss the family's usual[[ Sunday]] roast."
+  - "The gym is full of beginners on Motivation[[ Monday]]."
+should_not_fire:
+  - "The stock market crashed on Black[[ Tuesday]] in 1929."
+  - "Thousands died on Bloody[[ Sunday]] in 1905."
+  - "The candidates campaigned hard before Super[[ Tuesday]]."
+  - "Online shops cut prices on Cyber[[ Monday]]."
+  - "Ash[[ Wednesday]] marks the start of Lent."
+  - "Markets plunged on Black[[ Monday]] in 1987."
+  - "Shoppers lined up for hours on Black[[ Friday]]."
+  - "I listened to the new album by The[[ Weekend]] on the train."
+  - "Robinson Crusoe named his companion[[ Friday]] after the day they met."
+  - "Shark[[ Week]] is back on the Discovery Channel."
+threshold: atlas-q99
+by: {github: narang99, method: agent, model: claude-opus-5-5}
