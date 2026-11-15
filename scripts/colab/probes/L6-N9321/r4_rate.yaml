@@ -1,0 +1,67 @@
+# Rate vs slot for L6-N9321's negative side: the same sentence with the frame swapped.
+# Each group is frame|subject: person (one person's habit), crowd (a population), weather.
+groups:
+  every_week|person:
+  - My brother drives over to see us every[[ week]].
+  - I go swimming at the lake every[[ week]].
+  every_week|crowd:
+  - Hundreds of pilgrims arrive by bus every[[ week]].
+  - Thousands of tourists visit the old castle every[[ week]].
+  every_week|weather:
+  - Here in January, it snows every[[ week]].
+  - In the monsoon, heavy rain floods the market every[[ week]].
+  each_week|person:
+  - My brother drives over to see us each[[ week]].
+  - I go swimming at the lake each[[ week]].
+  each_week|crowd:
+  - Hundreds of pilgrims arrive by bus each[[ week]].
+  - Thousands of tourists visit the old castle each[[ week]].
+  each_week|weather:
+  - Here in January, it snows each[[ week]].
+  - In the monsoon, heavy rain floods the market each[[ week]].
+  every_Friday|person:
+  - My brother drives over to see us every[[ Friday]].
+  - I go swimming at the lake every[[ Friday]].
+  every_Friday|crowd:
+  - Hundreds of pilgrims arrive by bus every[[ Friday]].
+  - Thousands of tourists visit the old castle every[[ Friday]].
+  every_Friday|weather:
+  - Here in January, it snows every[[ Friday]].
+  - In the monsoon, heavy rain floods the market every[[ Friday]].
+  once_a_week|person:
+  - My brother drives over to see us once a[[ week]].
+  - I go swimming at the lake once a[[ week]].
+  once_a_week|crowd:
+  - Hundreds of pilgrims arrive by bus once a[[ week]].
+  - Thousands of tourists visit the old castle once a[[ week]].
+  once_a_week|weather:
+  - Here in January, it snows once a[[ week]].
+  - In the monsoon, heavy rain floods the market once a[[ week]].
+  twice_a_week|person:
+  - My brother drives over to see us twice a[[ week]].
+  - I go swimming at the lake twice a[[ week]].
+  twice_a_week|crowd:
+  - Hundreds of pilgrims arrive by bus twice a[[ week]].
+  - Thousands of tourists visit the old castle twice a[[ week]].
+  twice_a_week|weather:
+  - Here in January, it snows twice a[[ week]].
+  - In the monsoon, heavy rain floods the market twice a[[ week]].
+  twice_per_week|person:
+  - My brother drives over to see us twice per[[ week]].
+  - I go swimming at the lake twice per[[ week]].
+  twice_per_week|crowd:
+  - Hundreds of pilgrims arrive by bus twice per[[ week]].
+  - Thousands of tourists visit the old castle twice per[[ week]].
+  twice_per_week|weather:
+  - Here in January, it snows twice per[[ week]].
+  - In the monsoon, heavy rain floods the market twice per[[ week]].
+  amount_per_week:
+  - She works 40 hours a[[ week]].
+  - The job pays 600 dollars a[[ week]].
+  - The shop sells 500 loaves a[[ week]].
+  - He runs 30 miles a[[ week]].
+  originals:
+  - Pilgrims arrive each[[ week]] by bus.
+  - It snows every[[ week]] here in January.
+  - Every[[ week]], I find a fox in the garden.
+  - Take the tablet twice per[[ week]] with food.
