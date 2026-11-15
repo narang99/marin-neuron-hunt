@@ -1,0 +1,42 @@
+# Round 6: same predicate, only the subject changes (one person -> crowd).
+groups:
+  one_person:
+  - My brother arrives by bus every[[ week]].
+  - My brother visits the old castle every[[ week]].
+  - My brother comes to the market every[[ week]].
+  - My brother prays at the shrine every[[ week]].
+  we:
+  - We arrive by bus every[[ week]].
+  - We visit the old castle every[[ week]].
+  - We come to the market every[[ week]].
+  - We pray at the shrine every[[ week]].
+  a_few:
+  - A few of my friends arrive by bus every[[ week]].
+  - A few of my friends visit the old castle every[[ week]].
+  - A few of my friends come to the market every[[ week]].
+  - A few of my friends pray at the shrine every[[ week]].
+  pilgrims_bare:
+  - Pilgrims arrive by bus every[[ week]].
+  - Pilgrims visit the old castle every[[ week]].
+  - Pilgrims come to the market every[[ week]].
+  - Pilgrims pray at the shrine every[[ week]].
+  hundreds:
+  - Hundreds of pilgrims arrive by bus every[[ week]].
+  - Hundreds of pilgrims visit the old castle every[[ week]].
+  - Hundreds of pilgrims come to the market every[[ week]].
+  - Hundreds of pilgrims pray at the shrine every[[ week]].
+  thousands_tourists:
+  - Thousands of tourists arrive by bus every[[ week]].
+  - Thousands of tourists visit the old castle every[[ week]].
+  - Thousands of tourists come to the market every[[ week]].
+  - Thousands of tourists pray at the shrine every[[ week]].
+  one_person_Friday:
+  - My brother arrives by bus every[[ Friday]].
+  - My brother visits the old castle every[[ Friday]].
+  - My brother comes to the market every[[ Friday]].
+  - My brother prays at the shrine every[[ Friday]].
+  hundreds_Friday:
+  - Hundreds of pilgrims arrive by bus every[[ Friday]].
+  - Hundreds of pilgrims visit the old castle every[[ Friday]].
+  - Hundreds of pilgrims come to the market every[[ Friday]].
+  - Hundreds of pilgrims pray at the shrine every[[ Friday]].
