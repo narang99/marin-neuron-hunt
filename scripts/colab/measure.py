@@ -142,7 +142,7 @@ def load_model(max_layer, cache):
     missing, unexpected = model.load_state_dict(sd, strict=False, assign=True)
     if unexpected or set(missing) - {"norm.weight"}:
         raise SystemExit(f"weight mismatch: missing={missing} unexpected={unexpected}")
-    model.rotary_emb = Qwen3RotaryEmbedding(config=cfg, device="cuda")
+    model.rotary_emb = Qwen3RotaryEmbedding(config=cfg).to("cuda")
     model.eval()
     print(f"[load] layers 0-{max_layer} on {torch.cuda.get_device_name(0)} in {time.time() - t:.0f}s, "
           f"{torch.cuda.memory_allocated() / 2**30:.1f} GiB", flush=True)
