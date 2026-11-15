@@ -1,0 +1,32 @@
+# Question: does putting something off drive the + side, with "until" kept fixed? Each high is an atlas exemplar
+# (pilot/fineweb-10m-sparse, + side) or close to one; each low swaps the putting-off verb for a verb of carrying
+# on (stay, continue, keep, run). The target token is unchanged.
+type: contrast
+neuron: L10-N18895
+side: "+"
+pairs:
+  - high: "She went ahead and ushered him in, figuring that it could perhaps wait[[ until]] he was settled in."
+    low: "She went ahead and ushered him in, figuring that she could perhaps stay[[ until]] he was settled in."
+  - high: "Writing something every day, as per my retirement goal, would have to wait[[ until]] I could organize a schedule."
+    low: "Writing something every day, as per my retirement goal, would have to continue[[ until]] I could organize a schedule."
+  - high: "The two largest measures, both facing deep cuts, are both likely to wait[[ until]] September."
+    low: "The two largest measures, both facing deep cuts, are both likely to run[[ until]] September."
+  - high: "Of course we put off packing[[ until]] the very last minute, but we made it."
+    low: "Of course we kept packing[[ until]] the very last minute, but we made it."
+  - high: "I was postponing my clarification[[ until]] I got it all sorted out."
+    low: "I was working on my clarification[[ until]] I got it all sorted out."
+  - high: "What's inside our heads that says it's okay to put off reading the Bible[[ until]] later?"
+    low: "What's inside our heads that says it's okay to keep reading the Bible[[ until]] later?"
+  - high: "Everything I said above can wait[[ till]] you have had a good rest."
+    low: "Everything I said above can continue[[ till]] you have had a good rest."
+  - high: "Nothing on the radar just yet; that will wait[[ until]] later today."
+    low: "Nothing on the radar just yet; that will last[[ until]] later today."
+  - high: "The laundry can wait[[ until]] tomorrow."
+    low: "The laundry can dry[[ until]] tomorrow."
+  - high: "Let's hold off[[ until]] Monday."
+    low: "Let's keep going[[ until]] Monday."
+  - high: "The committee postponed the vote[[ until]] next month."
+    low: "The committee debated the vote[[ until]] next month."
+  - high: "The council deferred payment[[ until]] the audit was done."
+    low: "The council continued payment[[ until]] the audit was done."
+by: {github: narang99, method: agent, model: claude-opus-5-5}

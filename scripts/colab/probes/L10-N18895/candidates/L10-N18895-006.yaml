@@ -1,0 +1,31 @@
+# Question: does the - side's second set of firings, purpose phrases ("to get", "to receive"), hold up, and is it
+# about purpose rather than the verb? Should-fire: "get/receive/obtain" as the goal of an action. Should-not-fire:
+# the same verbs with no goal ("began to get dark", "I get tired").
+type: activation-test
+neuron: L10-N18895
+side: "-"
+hypothesis: "The negative side fires (past q99) on 'get', 'receive' and 'obtain' when they name the goal an action is done for (enter the code to get a discount), and stays quiet on the same verbs with no goal (it began to get dark)."
+should_fire:
+  - "Enter the code at checkout to[[ get]] ten percent off."
+  - "Sign up below to[[ receive]] our weekly offers."
+  - "Fill in the form to[[ obtain]] a permit."
+  - "Join the club and[[ get]] free delivery."
+  - "Download the app to[[ get]] exclusive deals."
+  - "Visit the website to[[ receive]] a free sample."
+  - "Click here to[[ obtain]] your certificate."
+  - "Refer a friend and[[ get]] a free month."
+  - "Students must apply early to[[ receive]] funding."
+  - "Complete the survey to[[ get]] a voucher."
+should_not_fire:
+  - "It began to[[ get]] dark after six."
+  - "I always[[ get]] sleepy in meetings."
+  - "The soup started to[[ get]] cold."
+  - "He tends to[[ get]] nervous before exams."
+  - "The roads[[ get]] icy in January."
+  - "She was surprised to[[ receive]] a letter from him."
+  - "The town used to[[ get]] a lot of snow."
+  - "My hands[[ get]] dry in winter."
+  - "The baby is starting to[[ get]] teeth."
+  - "We were sad to[[ receive]] the news."
+threshold: atlas-q99
+by: {github: narang99, method: agent, model: claude-opus-5-5}

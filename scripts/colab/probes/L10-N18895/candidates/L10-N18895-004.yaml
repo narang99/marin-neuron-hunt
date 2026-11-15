@@ -1,0 +1,32 @@
+# Question: does the countdown phrase (to go / left / more) drive the - side, with "until" kept fixed? Each high is
+# an atlas exemplar (pilot/fineweb-10m-sparse, - side) or close to one; each low swaps the countdown phrase for
+# a putting-off phrase. High = more negative.
+type: contrast
+neuron: L10-N18895
+side: "-"
+pairs:
+  - high: "Nature abhors a vacuum and with a month to go[[ until]] football season starts, conference realignment is back."
+    low: "Nature abhors a vacuum and with a month to wait[[ until]] football season starts, conference realignment is back."
+  - high: "Since Mexico. Only 30 more miles[[ till]] L.A."
+    low: "Since Mexico. We'll have to wait[[ till]] L.A."
+  - high: "Mustang is painted with 1 month left[[ until]] the show."
+    low: "Mustang is painted but put away[[ until]] the show."
+  - high: "Finally, with ten or so days to go[[ until]] the referendum, the second instalment is out."
+    low: "Finally, with ten or so days to wait[[ until]] the referendum, the second instalment is out."
+  - high: "With just two weeks left[[ until]] the U.S. government runs out of money, talks resumed."
+    low: "With the talks put off[[ until]] the U.S. government runs out of money, nothing moved."
+  - high: "Ten months after negotiations were re-launched, and with just over three months left[[ until]] the end of the year, the parties met."
+    low: "Ten months after negotiations were re-launched, and with the talks postponed[[ until]] the end of the year, the parties met."
+  - high: "That's it, only one more day[[ until]] the release of Two Hearts."
+    low: "That's it, only one more delay[[ until]] the release of Two Hearts."
+  - high: "I got through all the material with 6 days remaining[[ until]] the test."
+    low: "I set aside all the material, saving it[[ until]] the test."
+  - high: "Just two more sleeps[[ until]] Christmas!"
+    low: "Just put it off[[ until]] Christmas!"
+  - high: "We still have twenty miles[[ until]] the next town."
+    low: "We can still wait[[ until]] the next town."
+  - high: "There are six weeks remaining[[ until]] the deadline."
+    low: "There is no need to start[[ until]] the deadline."
+  - high: "With a week to go[[ until]] the vote, the race is close."
+    low: "With the count delayed[[ until]] the vote, the race is close."
+by: {github: narang99, method: agent, model: claude-opus-5-5}

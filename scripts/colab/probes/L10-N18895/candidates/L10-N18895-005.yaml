@@ -1,0 +1,31 @@
+# Question: is the + side about putting something off, or about the act of waiting? Should-fire: "wait" where the
+# thing that waits is a postponed task. Should-not-fire: "wait" where a person waits in place.
+# Threshold: the + side's q9999 (0.982), since literal waiting sits just above q99 in round 1 (+0.29, +0.67).
+type: activation-test
+neuron: L10-N18895
+side: "+"
+hypothesis: "On 'wait', the positive side fires far past q9999 when a task is being put off (the report can wait, that will have to wait) and stays below q9999 when a person waits in place (wait in line, wait here)."
+should_fire:
+  - "The report can[[ wait]]; the client is on holiday."
+  - "That conversation will have to[[ wait]]."
+  - "The garden can[[ wait]] until the rain stops."
+  - "Your questions will have to[[ wait]] until after lunch."
+  - "The email can[[ wait]] until morning."
+  - "Lunch will have to[[ wait]]; the patient comes first."
+  - "The paint job can[[ wait]] another year."
+  - "The renovation will just have to[[ wait]]."
+  - "Homework can[[ wait]] until after dinner."
+  - "The rest of the tour will have to[[ wait]] for another day."
+should_not_fire:
+  - "Please[[ wait]] by the door."
+  - "We had to[[ wait]] in the rain for the bus."
+  - "The patients sat down to[[ wait]] for the doctor."
+  - "I will[[ wait]] for you outside the station."
+  - "The dog learned to[[ wait]] at the kerb."
+  - "They stood in line to[[ wait]] for tickets."
+  - "Could you[[ wait]] here a moment?"
+  - "The children had to[[ wait]] quietly in the hall."
+  - "She likes to[[ wait]] in the car."
+  - "We sat in the lobby to[[ wait]] for news."
+threshold: 0.982
+by: {github: narang99, method: agent, model: claude-opus-5-5}

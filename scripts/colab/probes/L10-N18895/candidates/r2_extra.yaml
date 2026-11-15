@@ -1,0 +1,32 @@
+# L10-N18895 round 2 side probes.
+groups:
+  # "to go" vs "to wait" with an amount: does the word or the countdown win?
+  S_amount_wait:
+    - "We had three hours to wait[[ until]] sunrise."
+    - "We had three hours to go[[ until]] sunrise."
+    - "There were two weeks to wait[[ until]] the results."
+    - "There were two weeks left[[ until]] the results."
+  # anticipation without "until"
+  T_anticip:
+    - "I can't wait[[ until]] the holidays."
+    - "I can't wait[[ for]] the holidays."
+    - "We are looking forward[[ to]] the holidays."
+    - "The kids are counting down[[ to]] the holidays."
+  # "to" as path to a goal (atlas: "Four Steps To Death", "12 Weeks to the challenge")
+  U_to_goal:
+    - "Ten steps[[ to]] a better garden."
+    - "Twelve weeks[[ to]] a stronger back."
+    - "The road[[ to]] recovery is long."
+    - "He gave the book[[ to]] his sister."
+    - "She moved[[ to]] Boston in May."
+  R_random:
+    - "She poured a glass of cold[[ water]]."
+    - "The children laughed at the[[ clown]]."
+    - "Please pass me the[[ salt]]."
+    - "The dog chased the red[[ ball]]."
+    - "He fixed the leaking kitchen[[ tap]]."
+    - "The old man sat on the park[[ bench]]."
+    - "We planted tulips in the front[[ garden]]."
+    - "The baby fell asleep in the[[ car]]."
+    - "My brother bought a new[[ bicycle]]."
+    - "The teacher wrote on the[[ board]]."

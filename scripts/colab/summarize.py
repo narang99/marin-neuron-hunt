@@ -25,7 +25,8 @@ def main():
     rows = json.load(open(path))
     groups = {}
     for r in rows:
-        groups.setdefault(r["group"], []).append(r)
+        if "group" in r:
+            groups.setdefault(r["group"], []).append(r)
     print(f"{neuron}: + q99/q999/q9999 {pos}  - {neg}   bands: + > q99, ++ > q999, +++ > q9999")
     for g, rs in groups.items():
         vals = [r["acts"][neuron] for r in rs if "acts" in r]

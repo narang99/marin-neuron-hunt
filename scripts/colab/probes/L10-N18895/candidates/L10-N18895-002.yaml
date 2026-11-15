@@ -1,0 +1,32 @@
+# Summary, - side, fresh prompts: counting down the time or distance left to an event fires past -q99.
+# Should-not-fire: the same "until"/"till" after putting something off, and plain end times.
+type: activation-test
+neuron: L10-N18895
+side: "-"
+hypothesis: "The negative side fires (past q99) on 'until'/'till' when the text counts down what is left before an event (three days left until, a month to go until, two more sleeps till, counting the days until), and stays quiet on the same words after putting something off or as a plain end time."
+should_fire:
+  - "Only five days left[[ until]] the final exam."
+  - "With two weeks to go[[ until]] the wedding, the cake is still not ordered."
+  - "We have forty miles[[ until]] the next petrol station."
+  - "Just one more sleep[[ until]] Christmas!"
+  - "There are three hours remaining[[ until]] the polls close."
+  - "The children are counting the days[[ until]] summer."
+  - "Ten more laps[[ till]] the finish line."
+  - "It is only a matter of time[[ until]] the bridge gives way."
+  - "With a year to go[[ until]] the Olympics, the stadium is half built."
+  - "How long[[ until]] we get there?"
+  - "Two more episodes[[ until]] the season finale."
+  - "We had six weeks left[[ until]] the baby was due."
+should_not_fire:
+  - "The paperwork can wait[[ until]] Monday."
+  - "We postponed the party[[ until]] next month."
+  - "They put off the repairs[[ until]] the summer."
+  - "Let's hold off[[ until]] we hear back."
+  - "The vote was delayed[[ until]] the autumn."
+  - "I saved the best part[[ until]] last."
+  - "She lived in Rome[[ until]] 1985."
+  - "The museum is open[[ until]] six."
+  - "He played the piano[[ until]] his hands hurt."
+  - "The storm lasted[[ until]] dawn."
+threshold: atlas-q99
+by: {github: narang99, method: agent, model: claude-opus-5-5}
