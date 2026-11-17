@@ -1,0 +1,16 @@
+# L6-N22403 round 7: is "many[[ farms]]" (-0.10 in -001) a pattern? - q99 0.080 q999 0.179 q9999 0.437.
+groups:
+  many:
+    - "We drove past many[[ farms]] on the way."
+    - "We stayed there for many[[ weeks]] last summer."
+    - "I have lived here for many[[ years]] now."
+    - "There were many[[ people]] at the party."
+    - "He made many[[ mistakes]] in the report."
+    - "She read many[[ books]] on the flight."
+  other_q_farms:
+    - "We drove past two[[ farms]] on the way."
+    - "We drove past some[[ farms]] on the way."
+    - "We drove past several[[ farms]] on the way."
+    - "We drove past a few[[ farms]] on the way."
+    - "We drove past the[[ farms]] on the way."
+    - "We drove past a couple[[ farms]] on the way."

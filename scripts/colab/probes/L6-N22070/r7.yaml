@@ -1,0 +1,17 @@
+# L6-N22070 round 7: is "makes me[[ laugh]]" (+0.19 in -001) a pattern? + q99 0.080 q999 0.229 q9999 0.770.
+groups:
+  makes_me:
+    - "Small talk with strangers makes me[[ laugh]]."
+    - "Small talk with strangers makes me[[ cry]]."
+    - "Small talk with strangers makes me[[ smile]]."
+    - "Small talk with strangers makes me[[ blush]]."
+    - "Small talk with strangers makes me[[ sweat]]."
+    - "Small talk with strangers makes me[[ tired]]."
+    - "Small talk with strangers makes me[[ happy]]."
+  laugh_other:
+    - "My brother tells jokes that make everyone[[ laugh]]."
+    - "We[[ laugh]] about it every time we meet."
+    - "She began to[[ laugh]] at the photo."
+    - "He gave a nervous[[ laugh]] and looked away."
+    - "He gave a loud[[ laugh]] and raised his glass."
+    - "There was an uneasy[[ laugh]] from the back row."
