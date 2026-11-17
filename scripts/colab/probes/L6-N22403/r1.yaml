@@ -1,0 +1,74 @@
+# L6-N22403 round 1. Thresholds (fineweb-10m-sparse): + q99 0.080 q999 0.165 q9999 0.292;
+# - q99 0.080 q999 0.179 q9999 0.437.
+groups:
+  # A: the quantifier before the same noun
+  A_couple:
+    - "We stayed at the cabin for a couple[[ weeks]] last summer."
+    - "I have been learning Spanish for a couple[[ years]] now."
+    - "The parcel should arrive in a couple[[ days]]."
+    - "She read a couple[[ books]] on the flight."
+    - "He tried a couple[[ different]] approaches before it worked."
+    - "There are a couple[[ things]] I want to say."
+  A_couple_of:
+    - "We stayed at the cabin for a couple of[[ weeks]] last summer."
+    - "I have been learning Spanish for a couple of[[ years]] now."
+    - "The parcel should arrive in a couple of[[ days]]."
+    - "She read a couple of[[ books]] on the flight."
+    - "He tried a couple of[[ different]] approaches before it worked."
+    - "There are a couple of[[ things]] I want to say."
+  A_few:
+    - "We stayed at the cabin for a few[[ weeks]] last summer."
+    - "I have been learning Spanish for a few[[ years]] now."
+    - "The parcel should arrive in a few[[ days]]."
+    - "She read a few[[ books]] on the flight."
+    - "He tried a few[[ different]] approaches before it worked."
+    - "There are a few[[ things]] I want to say."
+  A_two:
+    - "We stayed at the cabin for two[[ weeks]] last summer."
+    - "I have been learning Spanish for two[[ years]] now."
+    - "The parcel should arrive in two[[ days]]."
+    - "She read two[[ books]] on the flight."
+    - "He tried two[[ different]] approaches before it worked."
+    - "There are two[[ things]] I want to say."
+  # B: other quantifiers that can drop "of"
+  B_other_q:
+    - "We stayed at the cabin for a dozen[[ weeks]] last summer."
+    - "We stayed at the cabin for several[[ weeks]] last summer."
+    - "We stayed at the cabin for a handful of[[ weeks]] last summer."
+    - "We stayed at the cabin for a bunch of[[ weeks]] last summer."
+    - "We stayed at the cabin for the past couple[[ weeks]]."
+    - "We stayed at the cabin for a couple more[[ weeks]]."
+    - "We stayed at the cabin for a pair of[[ weeks]] last summer."
+  # C: "couple" as two people, next word
+  C_people:
+    - "The young couple[[ moved]] into the flat upstairs."
+    - "A married couple[[ owns]] the bakery on the corner."
+    - "The couple[[ weeks]] ago announced their engagement."
+    - "We invited a couple[[ friends]] over for dinner."
+    - "The happy couple[[ cut]] the cake at midnight."
+  # D: tokens inside "a couple of"
+  D_tokens:
+    - "We stayed at the cabin for a[[ couple]] of weeks."
+    - "We stayed at the cabin for a couple[[ of]] weeks."
+    - "We stayed at the cabin for a couple[[ weeks]]."
+  # E: document start vs mid-text
+  E_start:
+    - "It took a couple[[ weeks]], but the garden finally came back."
+    - "The weather was mild all spring. It took a couple[[ weeks]], but the garden finally came back."
+  # F: + side, second word of a fixed pair
+  F_pair:
+    - "You can pick and[[ choose]] from the menu."
+    - "I spent the night tossing and[[ turning]] in bed."
+    - "Maybe, just[[ maybe]], the train will be on time."
+    - "She knows a thing or[[ two]] about engines."
+    - "They fought tooth and[[ nail]] to keep the park."
+    - "He stayed with her through thick and[[ thin]]."
+    - "I won't accept cheating in any shape or[[ form]]."
+  F_plain:
+    - "You can[[ choose]] a dessert from the menu."
+    - "I heard the car[[ turning]] into the driveway."
+    - "The train will[[ maybe]] be on time."
+    - "She bought[[ two]] new engines for the boat."
+    - "He hammered the[[ nail]] into the wall."
+    - "The ice on the pond was[[ thin]] this morning."
+    - "Please fill in the[[ form]] at the desk."

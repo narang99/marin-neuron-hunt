@@ -1,0 +1,60 @@
+# L6-N22070 round 1. Thresholds (fineweb-10m-sparse): + q99 0.080 q999 0.229 q9999 0.770;
+# - q99 0.068 q999 0.153 q9999 0.269.
+groups:
+  # A: discomfort words in one frame
+  A_words:
+    - "The dinner with her parents was[[ awkward]] from start to finish."
+    - "The dinner with her parents was[[ uncomfortable]] from start to finish."
+    - "The dinner with her parents was[[ embarrassing]] from start to finish."
+    - "The dinner with her parents was[[ tense]] from start to finish."
+    - "The dinner with her parents was[[ strange]] from start to finish."
+    - "The dinner with her parents was[[ stressful]] from start to finish."
+    - "The dinner with her parents was[[ difficult]] from start to finish."
+    - "The dinner with her parents was[[ cringeworthy]] from start to finish."
+    - "The dinner with her parents was[[ pleasant]] from start to finish."
+    - "The dinner with her parents was[[ comfortable]] from start to finish."
+  A_feel:
+    - "Meeting his ex made me feel[[ uneasy]]."
+    - "Meeting his ex made me feel[[ nervous]]."
+    - "Meeting his ex made me feel[[ embarrassed]]."
+    - "Meeting his ex made me feel[[ shy]]."
+    - "Meeting his ex made me feel[[ anxious]]."
+    - "Meeting his ex made me feel[[ happy]]."
+  # B: awkward, social vs physical
+  B_social:
+    - "There was an[[ awkward]] silence after the joke."
+    - "Asking for a raise always feels[[ awkward]]."
+    - "Their first date was a bit[[ awkward]]."
+  B_physical:
+    - "The sofa was too large and[[ awkward]] to carry upstairs."
+    - "Use the short wrench to reach those[[ awkward]] corners."
+    - "The box had an[[ awkward]] shape that didn't fit the shelf."
+  # C: comfortable, ease, negation
+  C_comfort:
+    - "I feel[[ comfortable]] speaking in public."
+    - "I don't feel[[ comfortable]] speaking in public."
+    - "I feel[[ uncomfortable]] speaking in public."
+    - "The new shoes are very[[ comfortable]]."
+    - "She put me at[[ ease]] right away."
+    - "The software is known for its[[ ease]] of use."
+  # D: the token "ward" and friends
+  D_ward:
+    - "He was moved to the children's[[ ward]] last night."
+    - "My neighbour, Mr.[[ Ward]], fixed the fence."
+    - "Garlic is said to[[ ward]] off vampires."
+    - "The boat drifted toward[[ ward]] the shore."
+    - "It was so awk[[ward]] when nobody laughed."
+  # E: a neutral word inside an awkward scene
+  E_scene:
+    - "Nobody laughed at his joke. The silence grew longer and more[[ painful]]."
+    - "Everyone laughed at his joke. The party grew louder and more[[ cheerful]]."
+    - "Nobody laughed at his joke, and he stared at his[[ shoes]]."
+    - "Everyone laughed at his joke, and he raised his[[ glass]]."
+  # F: - side words from the sparse tier
+  F_neg:
+    - "The exam was really[[ hard]] this year."
+    - "They built a[[ huge]] wall around the city."
+    - "The pillow was[[ soft]] and warm."
+    - "It was a[[ dark]] and stormy night."
+    - "Children[[ grow]] so fast."
+    - "The details of the plan were[[ vague]]."
