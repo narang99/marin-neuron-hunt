@@ -1,0 +1,306 @@
+round	group	act_L6-N22403	act_L6-N22070	text
+r1	A_couple	-4.094	-0.002	We stayed at the cabin for a couple[[ weeks]] last summer.
+r1	A_couple	-5.219	+0.001	I have been learning Spanish for a couple[[ years]] now.
+r1	A_couple	-3.891	-0.005	The parcel should arrive in a couple[[ days]].
+r1	A_couple	-4.531	-0.003	She read a couple[[ books]] on the flight.
+r1	A_couple	-3.844	-0.003	He tried a couple[[ different]] approaches before it worked.
+r1	A_couple	-6.250	+0.008	There are a couple[[ things]] I want to say.
+r1	A_couple_of	-0.271	+0.006	We stayed at the cabin for a couple of[[ weeks]] last summer.
+r1	A_couple_of	-0.241	-0.001	I have been learning Spanish for a couple of[[ years]] now.
+r1	A_couple_of	-0.098	+0.005	The parcel should arrive in a couple of[[ days]].
+r1	A_couple_of	-0.089	-0.001	She read a couple of[[ books]] on the flight.
+r1	A_couple_of	-0.398	+0.000	He tried a couple of[[ different]] approaches before it worked.
+r1	A_couple_of	-0.192	+0.022	There are a couple of[[ things]] I want to say.
+r1	A_few	-0.156	-0.000	We stayed at the cabin for a few[[ weeks]] last summer.
+r1	A_few	-0.220	+0.015	I have been learning Spanish for a few[[ years]] now.
+r1	A_few	-0.045	-0.000	The parcel should arrive in a few[[ days]].
+r1	A_few	+0.068	+0.000	She read a few[[ books]] on the flight.
+r1	A_few	-0.277	-0.006	He tried a few[[ different]] approaches before it worked.
+r1	A_few	-0.117	+0.010	There are a few[[ things]] I want to say.
+r1	A_two	-0.032	-0.004	We stayed at the cabin for two[[ weeks]] last summer.
+r1	A_two	+0.021	+0.013	I have been learning Spanish for two[[ years]] now.
+r1	A_two	+0.010	+0.000	The parcel should arrive in two[[ days]].
+r1	A_two	+0.049	-0.009	She read two[[ books]] on the flight.
+r1	A_two	+0.020	-0.003	He tried two[[ different]] approaches before it worked.
+r1	A_two	+0.041	-0.002	There are two[[ things]] I want to say.
+r1	B_other_q	-0.287	-0.007	We stayed at the cabin for a dozen[[ weeks]] last summer.
+r1	B_other_q	-0.019	-0.001	We stayed at the cabin for several[[ weeks]] last summer.
+r1	B_other_q	-0.107	+0.010	We stayed at the cabin for a handful of[[ weeks]] last summer.
+r1	B_other_q	-0.226	+0.001	We stayed at the cabin for a bunch of[[ weeks]] last summer.
+r1	B_other_q	-4.625	-0.002	We stayed at the cabin for the past couple[[ weeks]].
+r1	B_other_q	-0.475	+0.020	We stayed at the cabin for a couple more[[ weeks]].
+r1	B_other_q	-0.073	+0.024	We stayed at the cabin for a pair of[[ weeks]] last summer.
+r1	C_people	+0.005	-0.003	The young couple[[ moved]] into the flat upstairs.
+r1	C_people	+0.002	+0.074	A married couple[[ owns]] the bakery on the corner.
+r1	C_people	-6.438	-0.000	The couple[[ weeks]] ago announced their engagement.
+r1	C_people	-5.250	+0.014	We invited a couple[[ friends]] over for dinner.
+r1	C_people	-0.037	-0.000	The happy couple[[ cut]] the cake at midnight.
+r1	D_tokens	-0.073	+0.015	We stayed at the cabin for a[[ couple]] of weeks.
+r1	D_tokens	+0.005	-0.002	We stayed at the cabin for a couple[[ of]] weeks.
+r1	D_tokens	-4.094	-0.002	We stayed at the cabin for a couple[[ weeks]].
+r1	E_start	-6.000	-0.005	It took a couple[[ weeks]], but the garden finally came back.
+r1	E_start	-4.938	-0.016	The weather was mild all spring. It took a couple[[ weeks]], but the garden finally came back.
+r1	F_pair	+0.770	-0.009	You can pick and[[ choose]] from the menu.
+r1	F_pair	+0.699	-0.025	I spent the night tossing and[[ turning]] in bed.
+r1	F_pair	+1.234	+0.020	Maybe, just[[ maybe]], the train will be on time.
+r1	F_pair	+0.436	-0.018	She knows a thing or[[ two]] about engines.
+r1	F_pair	+0.385	-0.043	They fought tooth and[[ nail]] to keep the park.
+r1	F_pair	+0.262	-0.019	He stayed with her through thick and[[ thin]].
+r1	F_pair	+0.562	+0.034	I won't accept cheating in any shape or[[ form]].
+r1	F_plain	+0.003	+0.007	You can[[ choose]] a dessert from the menu.
+r1	F_plain	-0.025	+0.009	I heard the car[[ turning]] into the driveway.
+r1	F_plain	-0.021	+0.007	The train will[[ maybe]] be on time.
+r1	F_plain	-0.000	+0.001	She bought[[ two]] new engines for the boat.
+r1	F_plain	+0.131	-0.056	He hammered the[[ nail]] into the wall.
+r1	F_plain	-0.001	+0.036	The ice on the pond was[[ thin]] this morning.
+r1	F_plain	-0.036	-0.010	Please fill in the[[ form]] at the desk.
+r1	A_words	+0.017	+4.688	The dinner with her parents was[[ awkward]] from start to finish.
+r1	A_words	-0.000	+2.234	The dinner with her parents was[[ uncomfortable]] from start to finish.
+r1	A_words	-0.001	+1.125	The dinner with her parents was[[ embarrassing]] from start to finish.
+r1	A_words	-0.032	+0.734	The dinner with her parents was[[ tense]] from start to finish.
+r1	A_words	+0.041	+0.155	The dinner with her parents was[[ strange]] from start to finish.
+r1	A_words	+0.002	+0.218	The dinner with her parents was[[ stressful]] from start to finish.
+r1	A_words	-0.006	+0.426	The dinner with her parents was[[ difficult]] from start to finish.
+r1	A_words	+0.049	+0.060	The dinner with her parents was[[ pleasant]] from start to finish.
+r1	A_words	+0.002	+0.805	The dinner with her parents was[[ comfortable]] from start to finish.
+r1	A_feel	-0.015	+1.531	Meeting his ex made me feel[[ uneasy]].
+r1	A_feel	+0.053	+0.235	Meeting his ex made me feel[[ nervous]].
+r1	A_feel	+0.001	+0.445	Meeting his ex made me feel[[ embarrassed]].
+r1	A_feel	-0.014	+0.156	Meeting his ex made me feel[[ shy]].
+r1	A_feel	-0.004	+0.150	Meeting his ex made me feel[[ anxious]].
+r1	A_feel	+0.010	-0.122	Meeting his ex made me feel[[ happy]].
+r1	B_social	-0.007	+5.250	There was an[[ awkward]] silence after the joke.
+r1	B_social	+0.039	+3.641	Asking for a raise always feels[[ awkward]].
+r1	B_social	+0.211	+4.781	Their first date was a bit[[ awkward]].
+r1	B_physical	+0.009	+3.719	The sofa was too large and[[ awkward]] to carry upstairs.
+r1	B_physical	-0.028	+4.781	Use the short wrench to reach those[[ awkward]] corners.
+r1	B_physical	-0.016	+3.812	The box had an[[ awkward]] shape that didn't fit the shelf.
+r1	C_comfort	+0.190	+0.250	I feel[[ comfortable]] speaking in public.
+r1	C_comfort	+0.107	+0.559	I don't feel[[ comfortable]] speaking in public.
+r1	C_comfort	+0.248	+1.828	I feel[[ uncomfortable]] speaking in public.
+r1	C_comfort	+0.023	+0.038	The new shoes are very[[ comfortable]].
+r1	C_comfort	-0.001	+0.523	She put me at[[ ease]] right away.
+r1	C_comfort	-0.010	+0.231	The software is known for its[[ ease]] of use.
+r1	D_ward	-0.009	+0.053	He was moved to the children's[[ ward]] last night.
+r1	D_ward	+0.001	+0.277	My neighbour, Mr.[[ Ward]], fixed the fence.
+r1	D_ward	+0.005	+0.159	Garlic is said to[[ ward]] off vampires.
+r1	D_ward	-0.004	+0.479	The boat drifted toward[[ ward]] the shore.
+r1	E_scene	+0.010	+0.193	Nobody laughed at his joke. The silence grew longer and more[[ painful]].
+r1	E_scene	-0.003	-0.077	Everyone laughed at his joke. The party grew louder and more[[ cheerful]].
+r1	E_scene	-0.019	-0.012	Nobody laughed at his joke, and he stared at his[[ shoes]].
+r1	E_scene	+0.034	-0.007	Everyone laughed at his joke, and he raised his[[ glass]].
+r1	F_neg	+0.021	-0.044	The exam was really[[ hard]] this year.
+r1	F_neg	+0.030	-0.057	They built a[[ huge]] wall around the city.
+r1	F_neg	-0.009	-0.161	The pillow was[[ soft]] and warm.
+r1	F_neg	-0.004	-0.033	It was a[[ dark]] and stormy night.
+r1	F_neg	-0.021	-0.019	Children[[ grow]] so fast.
+r1	F_neg	+0.024	-0.152	The details of the plan were[[ vague]].
+r2	G_modifier	-0.408	+0.008	They went to couple[[ therapy]] after the wedding.
+r2	G_modifier	-0.641	-0.015	Her feed is full of couple[[ goals]] posts.
+r2	G_modifier	-0.723	+0.040	The couple[[ portrait]] hung above the fireplace.
+r2	G_modifier	-0.017	-0.002	They are a real power couple[[ in]] Hollywood.
+r2	G_modifier	-0.015	+0.004	The dancing couple[[ spun]] across the floor.
+r2	G_quantifier	-3.453	+0.015	They went to therapy a couple[[ times]] after the wedding.
+r2	G_quantifier	-2.500	+0.007	Her feed has a couple[[ posts]] about it.
+r2	G_quantifier	-3.344	+0.028	A couple[[ portraits]] hung above the fireplace.
+r2	G_quantifier	-4.750	-0.054	I spent a couple[[ nights]] in Hollywood.
+r2	G_quantifier	-4.469	+0.025	We danced a couple[[ songs]] across the floor.
+r2	H_between	-0.147	+0.016	We stayed for a couple[[ more]] weeks.
+r2	H_between	-0.602	+0.013	We stayed for a couple more[[ weeks]].
+r2	H_between	-3.984	-0.001	I made a couple[[ good]] friends there.
+r2	H_between	-0.801	+0.003	I made a couple good[[ friends]] there.
+r2	H_between	-2.953	+0.001	It cost a couple[[ hundred]] dollars.
+r2	H_between	+0.150	+0.040	It cost a couple hundred[[ dollars]].
+r2	H_between	-2.859	-0.004	We need a couple[[ extra]] chairs.
+r2	H_between	-0.247	+0.015	We need a couple extra[[ chairs]].
+r2	I_forms	-5.406	-0.001	Couple[[ weeks]] ago, I sold my car.
+r2	I_forms	-8.438	-0.001	A couple[[ weeks]] ago, I sold my car.
+r2	I_forms	-6.438	+0.000	Just a couple[[ weeks]] ago, I sold my car.
+r2	I_forms	-3.766	+0.002	These last couple[[ weeks]] have been busy.
+r2	J_other	-0.746	+0.098	Give me a half[[ hour]] to finish.
+r2	J_other	-0.467	+0.013	She bought a half[[ dozen]] eggs.
+r2	J_other	-0.081	+0.003	She bought a dozen[[ eggs]] at the market.
+r2	J_other	-1.086	-0.060	We walked a quarter[[ mile]] to the shop.
+r2	J_other	-0.033	+0.006	There were a hundred[[ people]] at the party.
+r2	J_other	-0.111	-0.017	I have a million[[ reasons]] to stay.
+r2	J_other	-0.006	-0.004	She bought a few[[ eggs]] at the market.
+r2	J_other	-0.015	-0.005	She bought several[[ eggs]] at the market.
+r2	K_binomial	+0.003	+0.091	Pass the salt and[[ pepper]], please.
+r2	K_binomial	+0.049	-0.052	He paced back and[[ forth]] in the hall.
+r2	K_binomial	+0.013	+0.011	Ladies and[[ gentlemen]], welcome to the show.
+r2	K_binomial	+0.032	+0.014	Sooner or[[ later]], you will have to decide.
+r2	K_binomial	-0.064	-0.007	It's more or[[ less]] finished.
+r2	K_binomial	-0.143	+0.000	We visit them now and[[ then]].
+r2	K_binomial	-0.004	+0.028	Teaching is my bread and[[ butter]].
+r2	K_free	-0.010	+0.041	Pass the salt and[[ sugar]], please.
+r2	K_free	-0.008	-0.014	He paced the hall and[[ waited]] for news.
+r2	K_free	+0.017	-0.002	Teachers and[[ parents]], welcome to the show.
+r2	K_free	+0.031	-0.015	Today or[[ tomorrow]], you will have to decide.
+r2	K_free	+0.102	+0.000	It's mostly[[ finished]].
+r2	K_free	-0.024	+0.083	We visit them in[[ winter]].
+r2	K_free	-0.001	-0.006	Teaching is my job and[[ passion]].
+r2	K_repeat	+0.002	+0.006	I read the letter again and[[ again]].
+r2	K_repeat	-0.003	+0.041	He played the song over and[[ over]].
+r2	K_repeat	-0.000	-0.005	It was a very,[[ very]] long day.
+r2	K_repeat	+0.011	-0.010	Slowly but[[ surely]], the team improved.
+r2	K_idiom	+0.063	-0.024	The exam was a piece of[[ cake]].
+r2	K_idiom	+0.018	+0.180	Don't let the cat out of the[[ bag]].
+r2	K_idiom	-0.022	-0.006	He finally kicked the[[ bucket]] at ninety.
+r2	K_idiom	+0.050	-0.011	Let's not beat around the[[ bush]].
+r2	G_physical	-0.001	+1.062	The ladder was[[ clumsy]] to carry up the stairs.
+r2	G_physical	+0.000	+0.621	The ladder was[[ cumbersome]] to carry up the stairs.
+r2	G_physical	-0.026	+0.316	The ladder was[[ bulky]] to carry up the stairs.
+r2	G_physical	-0.002	+0.022	The ladder was[[ heavy]] to carry up the stairs.
+r2	G_physical	+0.006	+4.156	The ladder was[[ awkward]] to carry up the stairs.
+r2	G_social	+0.078	+0.188	The silence after his speech was[[ weird]].
+r2	G_social	+0.001	+0.371	The silence after his speech was[[ painful]].
+r2	G_social	+0.016	+1.836	The silence after his speech was[[ uncomfortable]].
+r2	G_social	+0.023	+4.062	The silence after his speech was[[ awkward]].
+r2	H_comf_social	+0.011	+0.652	The conversation with my boss felt[[ comfortable]].
+r2	H_comf_social	+0.015	+1.125	I'm not[[ comfortable]] with this plan.
+r2	H_comf_social	-0.000	+0.789	The first meeting with his parents was[[ comfortable]].
+r2	H_comf_social	-0.017	+0.270	She seemed[[ comfortable]] around strangers.
+r2	H_comf_physical	+0.024	+0.030	The armchair felt[[ comfortable]].
+r2	H_comf_physical	+0.026	+0.205	This mattress is very[[ comfortable]].
+r2	H_comf_physical	+0.046	+0.072	The hotel bed was[[ comfortable]].
+r2	H_comf_physical	-0.003	+0.301	These trainers are[[ comfortable]] for long walks.
+r2	H_uncomf_social	+0.055	+2.094	The conversation with my boss felt[[ uncomfortable]].
+r2	H_uncomf_social	+0.018	+2.234	The first meeting with his parents was[[ uncomfortable]].
+r2	H_uncomf_physical	+0.086	+0.832	The armchair felt[[ uncomfortable]].
+r2	H_uncomf_physical	+0.034	+0.781	The hotel bed was[[ uncomfortable]].
+r2	I_neg	+0.023	+5.594	It wasn't[[ awkward]] at all.
+r2	I_neg	-0.004	+5.719	It was never[[ awkward]] between us.
+r2	I_neg	+0.003	+1.188	She felt ill at[[ ease]] among the guests.
+r2	I_neg	-0.000	+0.781	She felt at[[ ease]] among the guests.
+r2	I_neg	+0.001	-0.234	She felt[[ relaxed]] among the guests.
+r2	I_neg	-0.004	-0.250	She felt[[ calm]] among the guests.
+r2	J_neg	+0.038	-0.085	The light in the room was[[ dim]].
+r2	J_neg	+0.001	-0.073	There was a[[ faint]] smell of smoke.
+r2	J_neg	-0.000	-0.226	His answer was[[ vague]] and unhelpful.
+r2	J_neg	-0.004	-0.206	Her voice was[[ soft]] and low.
+r2	J_neg	-0.026	-0.006	The rules were[[ clear]] and simple.
+r3	L_frac_bare	-1.086	-0.060	We walked a quarter[[ mile]] to the shop.
+r3	L_frac_bare	-0.746	+0.098	Give me a half[[ hour]] to finish.
+r3	L_frac_bare	-0.068	+0.003	Add a third[[ cup]] of sugar.
+r3	L_frac_bare	-0.551	-0.009	The house is a half[[ mile]] from the beach.
+r3	L_frac_bare	-1.086	+0.010	It lasted a quarter[[ century]].
+r3	L_frac_of	-0.172	-0.074	We walked a quarter of a[[ mile]] to the shop.
+r3	L_frac_of	-0.011	+0.052	Give me half an[[ hour]] to finish.
+r3	L_frac_of	-0.008	+0.026	Add a third of a[[ cup]] of sugar.
+r3	L_frac_of	-0.116	-0.015	The house is half a[[ mile]] from the beach.
+r3	L_frac_of	-0.170	-0.003	It lasted a quarter of a[[ century]].
+r3	M_after_couple	-0.147	+0.016	We stayed for a couple[[ more]] weeks.
+r3	M_after_couple	-0.354	-0.002	We stayed for a couple[[ fewer]] weeks.
+r3	M_after_couple	-0.196	-0.004	We stayed for a couple[[ less]] weeks.
+r3	M_after_couple	-4.312	-0.004	We asked a couple[[ other]] people.
+r3	M_after_couple	-3.266	-0.005	We asked a couple[[ dozen]] people.
+r3	M_after_couple	-4.344	+0.028	We asked a couple[[ thousand]] people.
+r3	M_after_couple	-4.031	+0.005	We asked a couple[[ new]] people.
+r3	M_after_couple	-5.281	+0.002	We asked a couple[[ people]] for help.
+r3	N_synonym	+0.036	+0.011	First and[[ foremost]], we need water.
+r3	N_synonym	+0.150	+0.006	The contract is null and[[ void]].
+r3	N_synonym	-0.045	-0.003	They arrived home safe and[[ sound]].
+r3	N_synonym	+0.019	+0.052	We wanted some peace and[[ quiet]].
+r3	N_synonym	+0.895	+0.005	He was kicked and[[ punched]] in the street.
+r3	N_synonym	+0.199	+0.098	I sorted the bits and[[ pieces]] in the drawer.
+r3	N_synonym	+0.770	-0.009	You can pick and[[ choose]] from the menu.
+r3	N_opposite	-0.004	-0.002	The photo was in black and[[ white]].
+r3	N_opposite	-0.038	+0.030	He walked up and[[ down]] the street.
+r3	N_opposite	-0.025	+0.006	The water ran hot and[[ cold]].
+r3	N_opposite	+0.079	+0.003	Win or[[ lose]], we will celebrate.
+r3	N_opposite	+0.003	+0.091	Pass the salt and[[ pepper]], please.
+r3	N_opposite	+0.049	-0.052	He paced back and[[ forth]] in the hall.
+r3	N_opposite	+0.262	-0.019	He stayed with her through thick and[[ thin]].
+r3	K_calm_people	+0.001	-0.234	She felt[[ relaxed]] among the guests.
+r3	K_calm_people	-0.004	-0.250	She felt[[ calm]] among the guests.
+r3	K_calm_people	-0.001	-0.209	She felt[[ peaceful]] among the guests.
+r3	K_calm_people	-0.003	-0.212	She felt[[ confident]] among the guests.
+r3	K_calm_people	-0.024	-0.190	She felt[[ happy]] among the guests.
+r3	K_calm_people	+0.062	-0.139	She felt[[ tired]] among the guests.
+r3	K_calm_people	+0.096	-0.021	She felt[[ hungry]] among the guests.
+r3	K_calm_things	-0.010	-0.008	The sea was[[ calm]] this morning.
+r3	K_calm_things	-0.001	+0.106	The music was[[ relaxed]] and slow.
+r3	K_calm_things	-0.000	-0.002	The garden was[[ peaceful]] at dawn.
+r3	K_calm_things	-0.011	+0.028	The road was[[ empty]] at dawn.
+r3	M_social	-0.039	+0.828	The meeting with the landlord was[[ tense]].
+r3	M_social	-0.011	+0.543	The conversation with my father was[[ difficult]].
+r3	M_social	+0.006	+0.344	The silence between them was[[ painful]].
+r3	M_social	+0.007	+2.328	Talking to her ex was[[ uncomfortable]].
+r3	M_social	-0.007	+0.742	Talking to her ex was[[ comfortable]].
+r3	M_physical	+0.009	+0.143	After the run, my shoulders were[[ tense]].
+r3	M_physical	-0.008	+0.199	The maths exam was[[ difficult]].
+r3	M_physical	+0.002	+0.183	The cut on my knee was[[ painful]].
+r3	M_physical	+0.024	+1.258	The wooden bench was[[ uncomfortable]].
+r3	M_physical	+0.021	+0.244	The wooden bench was[[ comfortable]].
+r4	V_and_V	+0.167	+0.057	At the wedding we sang and[[ danced]] all night.
+r4	V_and_V	+0.004	+0.013	She washed and[[ dried]] the dishes.
+r4	V_and_V	+0.017	+0.000	The baby laughed and[[ cried]] at the same time.
+r4	V_and_V	+0.246	-0.003	He pushed and[[ pulled]] at the stuck door.
+r4	V_and_V	+0.196	+0.015	They begged and[[ pleaded]] for another chance.
+r4	V_alone	-0.005	+0.271	At the wedding we[[ danced]] all night.
+r4	V_alone	+0.007	+0.024	She[[ dried]] the dishes.
+r4	V_alone	-0.002	-0.006	The baby[[ cried]] at the same time.
+r4	V_alone	+0.000	-0.011	He[[ pulled]] at the stuck door.
+r4	V_alone	-0.018	-0.004	They[[ pleaded]] for another chance.
+r4	N_and_N	-0.010	-0.002	The room had a table and[[ chairs]].
+r4	N_and_N	+0.040	+0.042	She invited her cousins and[[ friends]].
+r4	A_and_A	+0.031	-0.116	The night was cold and[[ dark]].
+r4	A_and_A	+0.258	+0.022	The soup was hot and[[ spicy]].
+r4	A_and_A	+0.007	-0.012	The road was long and[[ narrow]].
+r4	M_repeat	+1.234	+0.020	Maybe, just[[ maybe]], the train will be on time.
+r4	M_repeat	+0.668	+0.009	Perhaps, just[[ perhaps]], she will call.
+r4	M_repeat	+0.453	-0.000	Maybe, just[[ possibly]], the train will be on time.
+r4	P_person_was	-0.010	+0.003	My sister was[[ calm]] this morning.
+r4	P_person_was	-0.005	+0.140	The guests were[[ relaxed]] after dinner.
+r4	P_person_was	+0.004	+0.008	The old man was[[ peaceful]] at dawn.
+r4	P_person_was	+0.010	+0.001	The players were[[ confident]] before the match.
+r4	P_person_was	+0.000	+0.042	The teacher was[[ cheerful]] that morning.
+r4	P_thing_was	-0.010	-0.008	The sea was[[ calm]] this morning.
+r4	P_thing_was	-0.001	+0.106	The music was[[ relaxed]] after dinner.
+r4	P_thing_was	-0.000	-0.002	The garden was[[ peaceful]] at dawn.
+r4	P_thing_was	-0.007	+0.012	The forecast was[[ confident]] before the match.
+r4	P_thing_was	+0.010	+0.052	The kitchen was[[ cheerful]] that morning.
+r4	P_thing_felt	-0.009	-0.093	The sea felt[[ calm]] this morning.
+r4	P_thing_felt	+0.014	+0.067	The evening felt[[ relaxed]] after dinner.
+r4	P_thing_felt	-0.014	-0.048	The garden felt[[ peaceful]] at dawn.
+r4	P_thing_felt	-0.001	+0.052	The kitchen felt[[ cheerful]] that morning.
+r4	P_person_felt	-0.009	-0.097	My sister felt[[ calm]] this morning.
+r4	P_person_felt	+0.001	-0.003	The guests felt[[ relaxed]] after dinner.
+r4	P_person_felt	-0.006	-0.156	The old man felt[[ peaceful]] at dawn.
+r4	P_person_felt	-0.016	-0.067	The players felt[[ confident]] before the match.
+r4	P_person_felt	-0.015	+0.060	The teacher felt[[ cheerful]] that morning.
+r5	J_hedge	+0.400	+0.011	It might, just[[ maybe]], work this time.
+r5	J_hedge	+0.191	+0.002	I think, just[[ perhaps]], we should wait.
+r5	J_hedge	+0.271	+0.075	Maybe,[[ maybe]] not.
+r5	J_hedge	+0.342	+0.042	Maybe, only[[ maybe]], the train will be on time.
+r5	J_just	+0.656	+0.000	That is just[[ perfect]] for the kitchen.
+r5	J_just	+0.245	+0.023	The weather was just[[ great]] all week.
+r5	J_just	+0.078	-0.016	I just[[ want]] to sleep.
+r5	J_just	+0.075	-0.000	He has just[[ left]] the office.
+r5	J_just	+0.158	+0.009	We were just[[ friends]] back then.
+r5	J_just	+0.056	+0.007	It was just[[ enough]] to pay the rent.
+r5	J_no_just	+0.039	-0.000	That is[[ perfect]] for the kitchen.
+r5	J_no_just	-0.033	+0.022	The weather was[[ great]] all week.
+r5	J_no_just	-0.039	-0.039	I[[ want]] to sleep.
+r5	J_no_just	-0.055	+0.008	He has[[ left]] the office.
+r5	J_no_just	+0.017	+0.021	We were[[ friends]] back then.
+r5	J_no_just	+0.019	-0.009	It was[[ enough]] to pay the rent.
+r5	J_simply	+0.250	+0.002	That is simply[[ perfect]] for the kitchen.
+r5	J_simply	-0.017	+0.017	The weather was really[[ great]] all week.
+r5	J_simply	-0.025	+0.023	It was barely[[ enough]] to pay the rent.
+r5	S_start	+0.001	-0.234	She felt[[ relaxed]] among the guests.
+r5	S_start	-0.004	-0.250	She felt[[ calm]] among the guests.
+r5	S_start	+0.002	-0.196	He felt[[ relaxed]] at the party.
+r5	S_start	-0.004	-0.104	I felt[[ calm]] at the party.
+r5	S_start	+0.062	-0.139	She felt[[ tired]] among the guests.
+r5	S_start	+0.024	-0.100	She felt[[ sad]] among the guests.
+r5	S_mid	-0.001	-0.173	The party was busy. She felt[[ relaxed]] among the guests.
+r5	S_mid	-0.000	-0.152	The party was busy. She felt[[ calm]] among the guests.
+r5	S_mid	-0.000	-0.166	The party was busy. He felt[[ relaxed]] at the party.
+r5	S_mid	-0.002	-0.085	The party was busy. I felt[[ calm]] at the party.
+r5	S_mid	+0.053	-0.061	The party was busy. She felt[[ tired]] among the guests.
+r5	S_mid	+0.030	-0.039	The party was busy. She felt[[ sad]] among the guests.
+r5	S_start_other	-0.023	+0.049	She was[[ relaxed]] among the guests.
+r5	S_start_other	-0.006	+0.018	The house[[ felt]] quiet.
+r5	S_start_other	+0.019	-0.001	She bought[[ apples]] at the market.
+r5	S_start_other	-0.016	+0.010	He walked[[ home]] after work.

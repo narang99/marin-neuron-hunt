@@ -1,0 +1,48 @@
+# L6-N22070 round 2. + q99 0.080 q999 0.229 q9999 0.770; - q99 0.068 q999 0.153 q9999 0.269.
+groups:
+  # G: physical-awkward synonyms vs social-awkward synonyms
+  G_physical:
+    - "The ladder was[[ clumsy]] to carry up the stairs."
+    - "The ladder was[[ cumbersome]] to carry up the stairs."
+    - "The ladder was[[ bulky]] to carry up the stairs."
+    - "The ladder was[[ heavy]] to carry up the stairs."
+    - "The ladder was[[ awkward]] to carry up the stairs."
+  G_social:
+    - "The silence after his speech was[[ excruciating]]."
+    - "The silence after his speech was[[ weird]]."
+    - "The silence after his speech was[[ painful]]."
+    - "The silence after his speech was[[ uncomfortable]]."
+    - "The silence after his speech was[[ awkward]]."
+  # H: comfortable / uncomfortable, social vs physical
+  H_comf_social:
+    - "The conversation with my boss felt[[ comfortable]]."
+    - "I'm not[[ comfortable]] with this plan."
+    - "The first meeting with his parents was[[ comfortable]]."
+    - "She seemed[[ comfortable]] around strangers."
+  H_comf_physical:
+    - "The armchair felt[[ comfortable]]."
+    - "This mattress is very[[ comfortable]]."
+    - "The hotel bed was[[ comfortable]]."
+    - "These trainers are[[ comfortable]] for long walks."
+  H_uncomf_social:
+    - "The conversation with my boss felt[[ uncomfortable]]."
+    - "The first meeting with his parents was[[ uncomfortable]]."
+  H_uncomf_physical:
+    - "The armchair felt[[ uncomfortable]]."
+    - "The hotel bed was[[ uncomfortable]]."
+  # I: negated awkward, and "ease"
+  I_neg:
+    - "It wasn't[[ awkward]] at all."
+    - "It was never[[ awkward]] between us."
+    - "She felt ill at[[ ease]] among the guests."
+    - "She felt at[[ ease]] among the guests."
+    - "She felt[[ relaxed]] among the guests."
+    - "She felt[[ calm]] among the guests."
+  # J: - side, soft/vague family
+  J_neg:
+    - "The light in the room was[[ dim]]."
+    - "There was a[[ faint]] smell of smoke."
+    - "The horizon looked[[ hazy]] in the heat."
+    - "His answer was[[ vague]] and unhelpful."
+    - "Her voice was[[ soft]] and low."
+    - "The rules were[[ clear]] and simple."

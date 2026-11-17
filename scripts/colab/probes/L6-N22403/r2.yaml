@@ -1,0 +1,68 @@
+# L6-N22403 round 2. - q99 0.080 q999 0.179 q9999 0.437; + q99 0.080 q999 0.165 q9999 0.292.
+groups:
+  # G: "couple" as a noun modifier, not a quantifier
+  G_modifier:
+    - "They went to couple[[ therapy]] after the wedding."
+    - "Her feed is full of couple[[ goals]] posts."
+    - "The couple[[ portrait]] hung above the fireplace."
+    - "They are a real power couple[[ in]] Hollywood."
+    - "The dancing couple[[ spun]] across the floor."
+  G_quantifier:
+    - "They went to therapy a couple[[ times]] after the wedding."
+    - "Her feed has a couple[[ posts]] about it."
+    - "A couple[[ portraits]] hung above the fireplace."
+    - "I spent a couple[[ nights]] in Hollywood."
+    - "We danced a couple[[ songs]] across the floor."
+  # H: a word between "couple" and the noun
+  H_between:
+    - "We stayed for a couple[[ more]] weeks."
+    - "We stayed for a couple more[[ weeks]]."
+    - "I made a couple[[ good]] friends there."
+    - "I made a couple good[[ friends]] there."
+    - "It cost a couple[[ hundred]] dollars."
+    - "It cost a couple hundred[[ dollars]]."
+    - "We need a couple[[ extra]] chairs."
+    - "We need a couple extra[[ chairs]]."
+  # I: without "a", sentence start, other forms
+  I_forms:
+    - "Couple[[ weeks]] ago, I sold my car."
+    - "A couple[[ weeks]] ago, I sold my car."
+    - "Just a couple[[ weeks]] ago, I sold my car."
+    - "These last couple[[ weeks]] have been busy."
+  # J: other quantities right before a noun
+  J_other:
+    - "Give me a half[[ hour]] to finish."
+    - "She bought a half[[ dozen]] eggs."
+    - "She bought a dozen[[ eggs]] at the market."
+    - "We walked a quarter[[ mile]] to the shop."
+    - "There were a hundred[[ people]] at the party."
+    - "I have a million[[ reasons]] to stay."
+    - "She bought a few[[ eggs]] at the market."
+    - "She bought several[[ eggs]] at the market."
+  # K: + side, second word of fixed pairs vs free pairs
+  K_binomial:
+    - "Pass the salt and[[ pepper]], please."
+    - "He paced back and[[ forth]] in the hall."
+    - "Ladies and[[ gentlemen]], welcome to the show."
+    - "Sooner or[[ later]], you will have to decide."
+    - "It's more or[[ less]] finished."
+    - "We visit them now and[[ then]]."
+    - "Teaching is my bread and[[ butter]]."
+  K_free:
+    - "Pass the salt and[[ sugar]], please."
+    - "He paced the hall and[[ waited]] for news."
+    - "Teachers and[[ parents]], welcome to the show."
+    - "Today or[[ tomorrow]], you will have to decide."
+    - "It's mostly[[ finished]]."
+    - "We visit them in[[ winter]]."
+    - "Teaching is my job and[[ passion]]."
+  K_repeat:
+    - "I read the letter again and[[ again]]."
+    - "He played the song over and[[ over]]."
+    - "It was a very,[[ very]] long day."
+    - "Slowly but[[ surely]], the team improved."
+  K_idiom:
+    - "The exam was a piece of[[ cake]]."
+    - "Don't let the cat out of the[[ bag]]."
+    - "He finally kicked the[[ bucket]] at ninety."
+    - "Let's not beat around the[[ bush]]."

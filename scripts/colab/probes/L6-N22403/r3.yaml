@@ -1,0 +1,42 @@
+# L6-N22403 round 3. - q99 0.080 q999 0.179 q9999 0.437; + q99 0.080 q999 0.165 q9999 0.292.
+groups:
+  # L: fractions with and without "of"
+  L_frac_bare:
+    - "We walked a quarter[[ mile]] to the shop."
+    - "Give me a half[[ hour]] to finish."
+    - "Add a third[[ cup]] of sugar."
+    - "The house is a half[[ mile]] from the beach."
+    - "It lasted a quarter[[ century]]."
+  L_frac_of:
+    - "We walked a quarter of a[[ mile]] to the shop."
+    - "Give me half an[[ hour]] to finish."
+    - "Add a third of a[[ cup]] of sugar."
+    - "The house is half a[[ mile]] from the beach."
+    - "It lasted a quarter of a[[ century]]."
+  # M: is "more" the only word after "a couple" that stays quiet?
+  M_after_couple:
+    - "We stayed for a couple[[ more]] weeks."
+    - "We stayed for a couple[[ fewer]] weeks."
+    - "We stayed for a couple[[ less]] weeks."
+    - "We asked a couple[[ other]] people."
+    - "We asked a couple[[ dozen]] people."
+    - "We asked a couple[[ thousand]] people."
+    - "We asked a couple[[ new]] people."
+    - "We asked a couple[[ people]] for help."
+  # N: + side, near-synonym pairs vs opposite pairs
+  N_synonym:
+    - "First and[[ foremost]], we need water."
+    - "The contract is null and[[ void]]."
+    - "They arrived home safe and[[ sound]]."
+    - "We wanted some peace and[[ quiet]]."
+    - "He was kicked and[[ punched]] in the street."
+    - "I sorted the bits and[[ pieces]] in the drawer."
+    - "You can pick and[[ choose]] from the menu."
+  N_opposite:
+    - "The photo was in black and[[ white]]."
+    - "He walked up and[[ down]] the street."
+    - "The water ran hot and[[ cold]]."
+    - "Win or[[ lose]], we will celebrate."
+    - "Pass the salt and[[ pepper]], please."
+    - "He paced back and[[ forth]] in the hall."
+    - "He stayed with her through thick and[[ thin]]."

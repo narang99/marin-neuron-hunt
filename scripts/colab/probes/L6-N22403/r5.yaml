@@ -1,0 +1,25 @@
+# L6-N22403 round 5: + side, the word after "just"? + q99 0.080 q999 0.165 q9999 0.292.
+groups:
+  J_hedge:
+    - "It might, just[[ maybe]], work this time."
+    - "I think, just[[ perhaps]], we should wait."
+    - "Maybe,[[ maybe]] not."
+    - "Maybe, only[[ maybe]], the train will be on time."
+  J_just:
+    - "That is just[[ perfect]] for the kitchen."
+    - "The weather was just[[ great]] all week."
+    - "I just[[ want]] to sleep."
+    - "He has just[[ left]] the office."
+    - "We were just[[ friends]] back then."
+    - "It was just[[ enough]] to pay the rent."
+  J_no_just:
+    - "That is[[ perfect]] for the kitchen."
+    - "The weather was[[ great]] all week."
+    - "I[[ want]] to sleep."
+    - "He has[[ left]] the office."
+    - "We were[[ friends]] back then."
+    - "It was[[ enough]] to pay the rent."
+  J_simply:
+    - "That is simply[[ perfect]] for the kitchen."
+    - "The weather was really[[ great]] all week."
+    - "It was barely[[ enough]] to pay the rent."

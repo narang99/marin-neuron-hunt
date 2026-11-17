@@ -1,0 +1,25 @@
+# L6-N22070 round 4: - side, is it the person or the verb "felt"? - q99 0.068 q999 0.153 q9999 0.269.
+groups:
+  P_person_was:
+    - "My sister was[[ calm]] this morning."
+    - "The guests were[[ relaxed]] after dinner."
+    - "The old man was[[ peaceful]] at dawn."
+    - "The players were[[ confident]] before the match."
+    - "The teacher was[[ cheerful]] that morning."
+  P_thing_was:
+    - "The sea was[[ calm]] this morning."
+    - "The music was[[ relaxed]] after dinner."
+    - "The garden was[[ peaceful]] at dawn."
+    - "The forecast was[[ confident]] before the match."
+    - "The kitchen was[[ cheerful]] that morning."
+  P_thing_felt:
+    - "The sea felt[[ calm]] this morning."
+    - "The evening felt[[ relaxed]] after dinner."
+    - "The garden felt[[ peaceful]] at dawn."
+    - "The kitchen felt[[ cheerful]] that morning."
+  P_person_felt:
+    - "My sister felt[[ calm]] this morning."
+    - "The guests felt[[ relaxed]] after dinner."
+    - "The old man felt[[ peaceful]] at dawn."
+    - "The players felt[[ confident]] before the match."
+    - "The teacher felt[[ cheerful]] that morning."

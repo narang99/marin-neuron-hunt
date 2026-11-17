@@ -1,0 +1,193 @@
+request	group	act_L6-N22403	act_L6-N22070	text
+L6-N22403-001	should_fire	-1.930	+0.001	I'll be back in a couple[[ hours]] with the keys.
+L6-N22403-001	should_fire	-2.203	-0.011	She called a couple[[ times]] while you were out.
+L6-N22403-001	should_fire	-1.953	+0.021	We drove past a couple[[ farms]] on the way.
+L6-N22403-001	should_fire	-3.719	+0.032	He made a couple[[ mistakes]] in the report.
+L6-N22403-001	should_fire	-1.797	-0.001	Could you lend me a couple[[ dollars]] for the bus?
+L6-N22403-001	should_fire	-3.625	-0.004	They planted a couple[[ trees]] in the yard.
+L6-N22403-001	should_fire	-6.375	-0.000	A couple[[ months]] later, the shop closed.
+L6-N22403-001	should_fire	-4.062	+0.004	I only need a couple[[ minutes]] of your time.
+L6-N22403-001	should_fire	-3.391	+0.001	There were a couple[[ problems]] with the plan.
+L6-N22403-001	should_fire	-1.414	+0.016	We saw a couple[[ deer]] near the road.
+L6-N22403-001	should_fire	-1.750	+0.001	I tried a couple[[ recipes]] from her book.
+L6-N22403-001	should_fire	-2.125	+0.000	Last year I read a couple[[ novels]] in French.
+L6-N22403-001	should_not_fire	+0.067	+0.017	I'll be back in two[[ hours]] with the keys.
+L6-N22403-001	should_not_fire	+0.109	+0.018	She called several[[ times]] while you were out.
+L6-N22403-001	should_not_fire	-0.100	+0.013	We drove past many[[ farms]] on the way.
+L6-N22403-001	should_not_fire	+0.032	-0.001	He made three[[ mistakes]] in the report.
+L6-N22403-001	should_not_fire	-0.052	-0.007	Could you lend me five[[ dollars]] for the bus?
+L6-N22403-001	should_not_fire	-0.028	-0.005	They planted some[[ trees]] in the yard.
+L6-N22403-001	should_not_fire	+0.023	-0.033	Six[[ months]] later, the shop closed.
+L6-N22403-001	should_not_fire	-0.049	+0.048	I only need ten[[ minutes]] of your time.
+L6-N22403-001	should_not_fire	+0.007	-0.014	The young couple[[ bought]] the house next door.
+L6-N22403-001	should_not_fire	-0.031	+0.000	The couple[[ argued]] about the plan.
+L6-N22403-001	should_not_fire	+0.003	-0.000	I tried many[[ recipes]] from her book.
+L6-N22403-001	should_not_fire	+0.011	+0.007	The couple[[ met]] at the market.
+L6-N22403-002	pair00.high	-5.500	-0.001	It rained for a couple[[ days]] in a row.
+L6-N22403-002	pair00.low	-0.621	+0.000	It rained for a couple of[[ days]] in a row.
+L6-N22403-002	pair01.high	-3.266	+0.009	I waited a couple[[ hours]] for the bus.
+L6-N22403-002	pair01.low	+0.049	+0.003	I waited a couple of[[ hours]] for the bus.
+L6-N22403-002	pair02.high	-2.328	+0.040	She owns a couple[[ horses]] near the coast.
+L6-N22403-002	pair02.low	-0.031	+0.033	She owns a couple of[[ horses]] near the coast.
+L6-N22403-002	pair03.high	-2.875	+0.320	We had a couple[[ drinks]] after work.
+L6-N22403-002	pair03.low	-0.195	+0.316	We had a couple of[[ drinks]] after work.
+L6-N22403-002	pair04.high	-2.344	+0.011	He scored a couple[[ goals]] in the final.
+L6-N22403-002	pair04.low	+0.213	-0.002	He scored a couple of[[ goals]] in the final.
+L6-N22403-002	pair05.high	-7.625	-0.022	A couple[[ years]] ago we moved to Leeds.
+L6-N22403-002	pair05.low	-0.113	-0.044	A couple of[[ years]] ago we moved to Leeds.
+L6-N22403-002	pair06.high	-7.938	+0.007	There are a couple[[ reasons]] to wait.
+L6-N22403-002	pair06.low	-0.559	+0.009	There are a couple of[[ reasons]] to wait.
+L6-N22403-002	pair07.high	-1.727	+0.006	I bought a couple[[ shirts]] in the sale.
+L6-N22403-002	pair07.low	+0.013	+0.010	I bought a couple of[[ shirts]] in the sale.
+L6-N22403-002	pair08.high	-3.109	-0.008	They sent a couple[[ emails]] about the meeting.
+L6-N22403-002	pair08.low	-0.177	-0.009	They sent a couple of[[ emails]] about the meeting.
+L6-N22403-002	pair09.high	-3.812	-0.020	Add a couple[[ eggs]] to the batter.
+L6-N22403-002	pair09.low	-0.275	-0.042	Add a couple of[[ eggs]] to the batter.
+L6-N22403-002	pair10.high	-3.844	+0.015	We visited a couple[[ museums]] in Rome.
+L6-N22403-002	pair10.low	-0.500	+0.012	We visited a couple of[[ museums]] in Rome.
+L6-N22403-002	pair11.high	-4.188	+0.026	I took a couple[[ photos]] of the bridge.
+L6-N22403-002	pair11.low	-0.238	-0.000	I took a couple of[[ photos]] of the bridge.
+L6-N22403-003	pair00.high	-0.574	-0.033	The shop is a quarter[[ mile]] down the road.
+L6-N22403-003	pair00.low	-0.022	-0.027	The shop is a quarter of a[[ mile]] down the road.
+L6-N22403-003	pair01.high	-0.918	+0.031	We waited a half[[ hour]] for the train.
+L6-N22403-003	pair01.low	-0.030	+0.024	We waited half an[[ hour]] for the train.
+L6-N22403-003	pair02.high	-0.914	-0.006	The bridge took a quarter[[ century]] to build.
+L6-N22403-003	pair02.low	-0.180	-0.014	The bridge took a quarter of a[[ century]] to build.
+L6-N22403-003	pair03.high	-0.551	-0.019	She ran a half[[ mile]] before breakfast.
+L6-N22403-003	pair03.low	-0.056	-0.017	She ran half a[[ mile]] before breakfast.
+L6-N22403-003	pair04.high	-0.625	+0.003	The meeting ran a quarter[[ hour]] late.
+L6-N22403-003	pair04.low	+0.066	+0.001	The meeting ran a quarter of an[[ hour]] late.
+L6-N22403-003	pair05.high	-0.715	+0.039	Buy a half[[ dozen]] rolls for lunch.
+L6-N22403-003	pair05.low	-0.051	+0.017	Buy half a[[ dozen]] rolls for lunch.
+L6-N22403-003	pair06.high	-0.438	+0.015	It sold for a half[[ million]] dollars.
+L6-N22403-003	pair06.low	+0.001	+0.009	It sold for half a[[ million]] dollars.
+L6-N22403-003	pair07.high	-1.109	+0.024	The parade lasted a half[[ hour]] longer than planned.
+L6-N22403-003	pair07.low	-0.076	+0.014	The parade lasted half an[[ hour]] longer than planned.
+L6-N22403-003	pair08.high	-0.727	-0.020	Our cabin is a quarter[[ mile]] from the lake.
+L6-N22403-003	pair08.low	-0.157	-0.011	Our cabin is a quarter of a[[ mile]] from the lake.
+L6-N22403-003	pair09.high	-0.202	+0.011	The pie needs a half[[ cup]] of sugar.
+L6-N22403-003	pair09.low	-0.029	+0.007	The pie needs half a[[ cup]] of sugar.
+L6-N22403-003	pair10.high	-0.730	+0.034	The deal was worth a quarter[[ billion]] dollars.
+L6-N22403-003	pair10.low	-0.094	+0.022	The deal was worth a quarter of a[[ billion]] dollars.
+L6-N22403-003	pair11.high	-0.590	+0.022	He has lived there for a half[[ century]].
+L6-N22403-003	pair11.low	-0.006	+0.011	He has lived there for half a[[ century]].
+L6-N22403-004	pair00.high	+0.641	-0.014	The new sofa is just[[ perfect]] for our flat.
+L6-N22403-004	pair00.low	-0.003	+0.013	The new sofa is[[ perfect]] for our flat.
+L6-N22403-004	pair01.high	+0.422	+0.014	Your timing was just[[ perfect]] today.
+L6-N22403-004	pair01.low	+0.011	+0.009	Your timing was[[ perfect]] today.
+L6-N22403-004	pair02.high	+0.383	+0.007	The concert was just[[ great]] last night.
+L6-N22403-004	pair02.low	+0.001	+0.026	The concert was[[ great]] last night.
+L6-N22403-004	pair03.high	+0.295	+0.012	Her cooking is just[[ wonderful]] these days.
+L6-N22403-004	pair03.low	-0.020	+0.007	Her cooking is[[ wonderful]] these days.
+L6-N22403-004	pair04.high	+0.155	-0.012	The view from the hill is just[[ beautiful]] in spring.
+L6-N22403-004	pair04.low	+0.016	+0.001	The view from the hill is[[ beautiful]] in spring.
+L6-N22403-004	pair05.high	+0.188	-0.001	That price is just[[ ridiculous]] for a sandwich.
+L6-N22403-004	pair05.low	+0.044	-0.002	That price is[[ ridiculous]] for a sandwich.
+L6-N22403-004	pair06.high	+0.110	-0.006	The weather has been just[[ awful]] this month.
+L6-N22403-004	pair06.low	-0.004	+0.000	The weather has been[[ awful]] this month.
+L6-N22403-004	pair07.high	-0.022	-0.000	The garden looks just[[ lovely]] after the rain.
+L6-N22403-004	pair07.low	+0.024	-0.002	The garden looks[[ lovely]] after the rain.
+L6-N22403-004	pair08.high	+0.381	+0.001	The film was just[[ amazing]] from start to end.
+L6-N22403-004	pair08.low	+0.024	+0.009	The film was[[ amazing]] from start to end.
+L6-N22403-004	pair09.high	+0.126	+0.001	His speech was just[[ brilliant]] at the dinner.
+L6-N22403-004	pair09.low	+0.002	-0.022	His speech was[[ brilliant]] at the dinner.
+L6-N22403-004	pair10.high	+0.070	+0.017	The hotel room was just[[ fine]] for one night.
+L6-N22403-004	pair10.low	-0.000	+0.013	The hotel room was[[ fine]] for one night.
+L6-N22403-004	pair11.high	+0.116	+0.025	The colour of the walls is just[[ right]] for a nursery.
+L6-N22403-004	pair11.low	+0.040	+0.106	The colour of the walls is[[ right]] for a nursery.
+L6-N22403-005	pair00.high	+0.535	+0.019	At the buffet you can pick and[[ choose]] what to eat.
+L6-N22403-005	pair00.low	-0.011	+0.009	At the buffet you can[[ choose]] what to eat.
+L6-N22403-005	pair01.high	+0.762	-0.018	I was tossing and[[ turning]] until dawn.
+L6-N22403-005	pair01.low	-0.002	+0.033	I was[[ turning]] until dawn.
+L6-N22403-005	pair02.high	+0.895	+0.005	He was kicked and[[ punched]] by the gang.
+L6-N22403-005	pair02.low	+0.344	-0.005	He was[[ punched]] by the gang.
+L6-N22403-005	pair03.high	+0.196	+0.015	They begged and[[ pleaded]] with the judge.
+L6-N22403-005	pair03.low	-0.018	-0.004	They[[ pleaded]] with the judge.
+L6-N22403-005	pair04.high	+0.246	-0.003	He pushed and[[ pulled]] the heavy cart.
+L6-N22403-005	pair04.low	+0.000	-0.011	He[[ pulled]] the heavy cart.
+L6-N22403-005	pair05.high	+0.420	+0.028	The fans pushed and[[ shoved]] to get inside.
+L6-N22403-005	pair05.low	-0.003	+0.011	The fans[[ shoved]] to get inside.
+L6-N22403-005	pair06.high	+0.075	-0.003	The kids left the park kicking and[[ screaming]].
+L6-N22403-005	pair06.low	+0.004	-0.007	The kids left the park[[ screaming]].
+L6-N22403-005	pair07.high	+0.746	-0.061	The patient was tossing and[[ turning]] all night.
+L6-N22403-005	pair07.low	-0.001	+0.012	The patient was[[ turning]] all night.
+L6-N22403-005	pair08.high	+0.430	-0.015	She tossed and[[ turned]] all night.
+L6-N22403-005	pair08.low	+0.001	+0.003	She[[ turned]] all night.
+L6-N22403-005	pair09.high	+0.762	+0.006	Customers can pick and[[ choose]] their toppings.
+L6-N22403-005	pair09.low	-0.028	+0.000	Customers can[[ choose]] their toppings.
+L6-N22403-005	pair10.high	+0.200	+0.001	The prisoner was beaten and[[ kicked]] by the guards.
+L6-N22403-005	pair10.low	+0.120	-0.003	The prisoner was[[ kicked]] by the guards.
+L6-N22403-005	pair11.high	+0.216	-0.030	We pushed and[[ pulled]] until the door gave way.
+L6-N22403-005	pair11.low	-0.015	-0.069	We[[ pulled]] until the door gave way.
+L6-N22070-001	should_fire	+0.071	+3.953	Their first phone call was a little[[ awkward]].
+L6-N22070-001	should_fire	+0.083	+4.000	Moving the piano through the door was[[ awkward]].
+L6-N22070-001	should_fire	-0.067	+5.812	There was nothing[[ awkward]] about the reunion.
+L6-N22070-001	should_fire	+0.222	+1.586	I felt[[ uncomfortable]] when he raised his voice.
+L6-N22070-001	should_fire	+0.006	+1.789	The interview left me feeling[[ uneasy]].
+L6-N22070-001	should_fire	-0.069	+0.590	Forgetting her name was so[[ embarrassing]].
+L6-N22070-001	should_fire	+0.012	+0.980	The new dancer was[[ clumsy]] on stage.
+L6-N22070-001	should_fire	+0.007	+0.590	The old vacuum cleaner is[[ cumbersome]] to use.
+L6-N22070-001	should_fire	+0.018	+3.594	The handoff was quick and[[ awkward]].
+L6-N22070-001	should_fire	+0.028	+2.500	We sat through an[[ uncomfortable]] dinner with his boss.
+L6-N22070-001	should_fire	-0.047	+1.797	Small talk with strangers makes me[[ uneasy]].
+L6-N22070-001	should_fire	+0.028	+5.406	It's[[ awkward]] to ask a friend for money.
+L6-N22070-001	should_not_fire	-0.091	-0.001	Their first phone call was a little[[ long]].
+L6-N22070-001	should_not_fire	-0.004	+0.020	Moving the piano through the door was[[ easy]].
+L6-N22070-001	should_not_fire	+0.007	-0.016	There was nothing[[ special]] about the reunion.
+L6-N22070-001	should_not_fire	+0.054	-0.047	I felt[[ sleepy]] after the long lunch.
+L6-N22070-001	should_not_fire	+0.031	-0.047	The interview left me feeling[[ hopeful]].
+L6-N22070-001	should_not_fire	+0.019	-0.009	Forgetting the milk was so[[ typical]].
+L6-N22070-001	should_not_fire	+0.006	-0.001	The new dancer was[[ talented]] on stage.
+L6-N22070-001	should_not_fire	-0.000	+0.027	The old vacuum cleaner is[[ heavy]] to carry.
+L6-N22070-001	should_not_fire	+0.006	-0.046	The handoff was quick and[[ quiet]].
+L6-N22070-001	should_not_fire	-0.013	+0.002	We sat through a[[ long]] dinner with his boss.
+L6-N22070-001	should_not_fire	+0.004	+0.192	Small talk with strangers makes me[[ laugh]].
+L6-N22070-001	should_not_fire	+0.014	-0.060	It's[[ easy]] to ask a friend for help.
+L6-N22070-002	pair00.high	-0.001	+2.516	The talk with my boss was[[ uncomfortable]].
+L6-N22070-002	pair00.low	+0.024	+0.945	The seat on the bus was[[ uncomfortable]].
+L6-N22070-002	pair01.high	-0.025	+0.734	The dinner with his parents was[[ tense]].
+L6-N22070-002	pair01.low	+0.041	+0.130	The muscles in his neck were[[ tense]].
+L6-N22070-002	pair02.high	+0.016	+0.400	The chat with my ex felt[[ comfortable]].
+L6-N22070-002	pair02.low	+0.035	+0.024	The new sofa felt[[ comfortable]].
+L6-N22070-002	pair03.high	-0.023	+0.410	The conversation about money was[[ difficult]].
+L6-N22070-002	pair03.low	-0.012	+0.162	The climb up the hill was[[ difficult]].
+L6-N22070-002	pair04.high	+0.005	+0.348	The silence at the table was[[ painful]].
+L6-N22070-002	pair04.low	-0.011	+0.102	The blister on my heel was[[ painful]].
+L6-N22070-002	pair05.high	+0.014	+2.328	Meeting her family was[[ uncomfortable]].
+L6-N22070-002	pair05.low	+0.041	+1.195	Sleeping on the floor was[[ uncomfortable]].
+L6-N22070-002	pair06.high	+0.093	+1.656	Asking him for help felt[[ uncomfortable]].
+L6-N22070-002	pair06.low	+0.157	+1.047	Wearing wet socks felt[[ uncomfortable]].
+L6-N22070-002	pair07.high	-0.004	+1.008	Talking with the new boss was[[ comfortable]].
+L6-N22070-002	pair07.low	+0.017	+0.275	Sitting in the new chair was[[ comfortable]].
+L6-N22070-002	pair08.high	+0.000	+0.332	The argument with her sister was[[ painful]].
+L6-N22070-002	pair08.low	+0.028	+0.064	The burn on her arm was[[ painful]].
+L6-N22070-002	pair09.high	+0.008	+0.336	The negotiation with the union was[[ difficult]].
+L6-N22070-002	pair09.low	-0.020	+0.064	The puzzle in the newspaper was[[ difficult]].
+L6-N22070-002	pair10.high	-0.028	+0.715	The visit from his ex-wife was[[ tense]].
+L6-N22070-002	pair10.low	-0.016	+0.193	The rope on the pulley was[[ tense]].
+L6-N22070-002	pair11.high	+0.003	+2.375	Dinner with the in-laws was[[ uncomfortable]].
+L6-N22070-002	pair11.low	+0.067	+0.738	The plane seat was[[ uncomfortable]].
+L6-N22070-003	pair00.high	+0.001	-0.223	The exam was over. She felt[[ relaxed]] for the first time in weeks.
+L6-N22070-003	pair00.low	-0.021	+0.006	The exam was over. She was[[ relaxed]] for the first time in weeks.
+L6-N22070-003	pair01.high	-0.005	-0.375	The storm had passed. He felt[[ calm]] again.
+L6-N22070-003	pair01.low	-0.026	-0.128	The storm had passed. He was[[ calm]] again.
+L6-N22070-003	pair02.high	-0.012	-0.085	The house was quiet. She felt[[ peaceful]] by the fire.
+L6-N22070-003	pair02.low	+0.001	+0.003	The house was quiet. She was[[ peaceful]] by the fire.
+L6-N22070-003	pair03.high	+0.000	-0.104	The practice went well. He felt[[ confident]] before the match.
+L6-N22070-003	pair03.low	-0.008	-0.003	The practice went well. He was[[ confident]] before the match.
+L6-N22070-003	pair04.high	-0.002	-0.122	The holiday began. They felt[[ relaxed]] on the beach.
+L6-N22070-003	pair04.low	-0.009	+0.068	The holiday began. They were[[ relaxed]] on the beach.
+L6-N22070-003	pair05.high	-0.002	-0.146	The music was soft. I felt[[ calm]] in the waiting room.
+L6-N22070-003	pair05.low	-0.011	-0.041	The music was soft. I was[[ calm]] in the waiting room.
+L6-N22070-003	pair06.high	+0.011	-0.095	The garden was in bloom. She felt[[ happy]] among the flowers.
+L6-N22070-003	pair06.low	+0.004	-0.026	The garden was in bloom. She was[[ happy]] among the flowers.
+L6-N22070-003	pair07.high	-0.001	-0.137	The deal was signed. He felt[[ relaxed]] at dinner.
+L6-N22070-003	pair07.low	-0.012	+0.152	The deal was signed. He was[[ relaxed]] at dinner.
+L6-N22070-003	pair08.high	-0.001	-0.139	The rehearsal was done. She felt[[ confident]] on stage.
+L6-N22070-003	pair08.low	+0.005	-0.023	The rehearsal was done. She was[[ confident]] on stage.
+L6-N22070-003	pair09.high	-0.031	-0.209	The lake was still. They felt[[ peaceful]] on the dock.
+L6-N22070-003	pair09.low	-0.013	-0.067	The lake was still. They were[[ peaceful]] on the dock.
+L6-N22070-003	pair10.high	-0.006	-0.188	The baby was asleep. I felt[[ calm]] at last.
+L6-N22070-003	pair10.low	-0.015	-0.047	The baby was asleep. I was[[ calm]] at last.
+L6-N22070-003	pair11.high	+0.000	-0.145	The test results were fine. He felt[[ happy]] driving home.
+L6-N22070-003	pair11.low	-0.003	-0.044	The test results were fine. He was[[ happy]] driving home.

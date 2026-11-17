@@ -1,0 +1,29 @@
+# L6-N22070 round 3. + q99 0.080 q999 0.229 q9999 0.770; - q99 0.068 q999 0.153 q9999 0.269.
+groups:
+  # K: - side, calm/relaxed family vs neutral, in two frames
+  K_calm_people:
+    - "She felt[[ relaxed]] among the guests."
+    - "She felt[[ calm]] among the guests."
+    - "She felt[[ peaceful]] among the guests."
+    - "She felt[[ confident]] among the guests."
+    - "She felt[[ happy]] among the guests."
+    - "She felt[[ tired]] among the guests."
+    - "She felt[[ hungry]] among the guests."
+  K_calm_things:
+    - "The sea was[[ calm]] this morning."
+    - "The music was[[ relaxed]] and slow."
+    - "The garden was[[ peaceful]] at dawn."
+    - "The road was[[ empty]] at dawn."
+  # M: same word, social frame vs physical/task frame
+  M_social:
+    - "The meeting with the landlord was[[ tense]]."
+    - "The conversation with my father was[[ difficult]]."
+    - "The silence between them was[[ painful]]."
+    - "Talking to her ex was[[ uncomfortable]]."
+    - "Talking to her ex was[[ comfortable]]."
+  M_physical:
+    - "After the run, my shoulders were[[ tense]]."
+    - "The maths exam was[[ difficult]]."
+    - "The cut on my knee was[[ painful]]."
+    - "The wooden bench was[[ uncomfortable]]."
+    - "The wooden bench was[[ comfortable]]."

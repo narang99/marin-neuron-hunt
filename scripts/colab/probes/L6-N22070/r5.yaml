@@ -1,0 +1,21 @@
+# L6-N22070 round 5: - side, document start vs the subject. - q99 0.068 q999 0.153 q9999 0.269.
+groups:
+  S_start:
+    - "She felt[[ relaxed]] among the guests."
+    - "She felt[[ calm]] among the guests."
+    - "He felt[[ relaxed]] at the party."
+    - "I felt[[ calm]] at the party."
+    - "She felt[[ tired]] among the guests."
+    - "She felt[[ sad]] among the guests."
+  S_mid:
+    - "The party was busy. She felt[[ relaxed]] among the guests."
+    - "The party was busy. She felt[[ calm]] among the guests."
+    - "The party was busy. He felt[[ relaxed]] at the party."
+    - "The party was busy. I felt[[ calm]] at the party."
+    - "The party was busy. She felt[[ tired]] among the guests."
+    - "The party was busy. She felt[[ sad]] among the guests."
+  S_start_other:
+    - "She was[[ relaxed]] among the guests."
+    - "The house[[ felt]] quiet."
+    - "She bought[[ apples]] at the market."
+    - "He walked[[ home]] after work."

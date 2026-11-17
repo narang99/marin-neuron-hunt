@@ -1,0 +1,28 @@
+# L6-N22403 round 4: + side, second verb of "V and V". + q99 0.080 q999 0.165 q9999 0.292.
+groups:
+  V_and_V:
+    - "At the wedding we sang and[[ danced]] all night."
+    - "She washed and[[ dried]] the dishes."
+    - "The baby laughed and[[ cried]] at the same time."
+    - "He pushed and[[ pulled]] at the stuck door."
+    - "They begged and[[ pleaded]] for another chance."
+    - "The crowd cheered and[[ clapped]] for the band."
+  V_alone:
+    - "At the wedding we[[ danced]] all night."
+    - "She[[ dried]] the dishes."
+    - "The baby[[ cried]] at the same time."
+    - "He[[ pulled]] at the stuck door."
+    - "They[[ pleaded]] for another chance."
+    - "The crowd[[ clapped]] for the band."
+  N_and_N:
+    - "We bought apples and[[ pears]] at the market."
+    - "The room had a table and[[ chairs]]."
+    - "She invited her cousins and[[ friends]]."
+  A_and_A:
+    - "The night was cold and[[ dark]]."
+    - "The soup was hot and[[ spicy]]."
+    - "The road was long and[[ narrow]]."
+  M_repeat:
+    - "Maybe, just[[ maybe]], the train will be on time."
+    - "Perhaps, just[[ perhaps]], she will call."
+    - "Maybe, just[[ possibly]], the train will be on time."
