@@ -50,6 +50,16 @@ class MixSource(Section):
 class DataConfig(Section):
     sources: list[MixSource]
     seq_len: int = Field(1024, gt=1, description="tokens per sequence, BOS included")
+    max_doc_tokens: int = Field(
+        4096,
+        gt=1,
+        description="longer documents are cut, so one paper cannot fill many sequences",
+    )
+    shuffle_buffer: int = Field(
+        1000,
+        gt=0,
+        description="documents buffered per source for shuffling. Larger starts slower",
+    )
     seed: int = Field(20261120, description="fixes the mix draw and document order")
     train_tokens: int = Field(300_000_000, gt=0)
     eval_tokens: int = Field(2_000_000, gt=0)
