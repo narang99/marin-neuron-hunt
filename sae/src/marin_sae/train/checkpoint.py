@@ -88,7 +88,8 @@ def load_checkpoint(
     for variant in variants:
         payload = torch.load(directory / f"{variant.name}.pt", map_location="cpu")
         variant.sae.load_state_dict(payload["sae"])
-        variant.optimiser.load_state_dict(payload["optimiser"])
+        if "optimiser" in payload:  # weights-only tars have none
+            variant.optimiser.load_state_dict(payload["optimiser"])
     saved = torch.load(directory / NORMALISATION_FILE, map_location="cpu")
     state = TrainState(**json.loads((directory / STATE_FILE).read_text()))
     return Normalisation(scale=saved["scale"], mean=saved["mean"]), state
