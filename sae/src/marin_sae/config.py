@@ -91,6 +91,9 @@ class ModelConfig(Section):
     shard_dir: Path = Field(
         Path("/content/marin-32b-shards"), description="local safetensors shards"
     )
+    dtype: Literal["bfloat16", "float32"] = Field(
+        "bfloat16", description="dtype of the frozen prefix"
+    )
 
 
 class SaeConfig(Section):
