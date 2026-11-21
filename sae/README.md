@@ -179,3 +179,10 @@
   - Do not use the results to make claims about the cooldown mix.
 - The run code needs the real model and a GPU.
   - Only the Colab run tests that code.
+
+## Related documents
+
+- `docs/gemma-scope-comparison.md`: the differences between our recipe and the recipe of Gemma Scope.
+  - It lists facts and open points only.
+  - It does not change any code or setting.
+- `experiments/layer8-pilot.md`: the log of the pilot, with the problems that we found.
