@@ -169,6 +169,23 @@ class TrainConfig(Section):
     device: str = Field(default_factory=default_device)
 
 
+class PosthocConfig(Section):
+    weights_tar: Path | None = Field(
+        None, description="a weights or resume tar from a finished run"
+    )
+    n_sequences: int = Field(
+        256, gt=0, description="held-out sequences for the spliced-in loss"
+    )
+    example_tokens: int = Field(
+        2_000_000, gt=0, description="held-out tokens scanned for top examples"
+    )
+    n_example_latents: int = Field(24, gt=0)
+    examples_per_latent: int = Field(8, gt=0)
+    context_tokens: int = Field(
+        24, gt=0, description="tokens of context shown around an example"
+    )
+
+
 class RunConfig(BaseSettings):
     model_config = SettingsConfigDict(extra="forbid", cli_kebab_case=True)
 
@@ -176,6 +193,7 @@ class RunConfig(BaseSettings):
     model: ModelConfig = ModelConfig()
     sae: SaeConfig = SaeConfig()
     train: TrainConfig = TrainConfig()
+    posthoc: PosthocConfig = PosthocConfig()
     variants: list[SaeVariant] = Field(
         ["vanilla", "matryoshka"],
         description="SAEs trained side by side on the same activations",
