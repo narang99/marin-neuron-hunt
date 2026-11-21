@@ -1,0 +1,37 @@
+[project]
+name = "marin-sae"
+version = "0.1.0"
+description = "Vanilla and Matryoshka BatchTopK SAEs on a Marin residual-stream layer"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "datasets>=2.14",
+    "einops>=0.8",
+    "huggingface-hub>=0.20",
+    "jaxtyping>=0.3.11",
+    "numpy>=1.26",
+    "pydantic>=2.7",
+    "pydantic-settings>=2.7",
+    "pyyaml>=6",
+    "safetensors>=0.4",
+    "torch>=2.4",
+    "tqdm>=4.66",
+    "transformers>=4.51",
+]
+
+# Floors are deliberately low.
+# - Colab preinstalls torch, numpy and transformers, built against its own CUDA and ABI.
+# - A floor above those forces uv to reinstall them, which can drop the CUDA build of torch.
+# - transformers >=4.51 is the first release with Qwen3.
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["uv_build>=0.8,<0.12"]
+build-backend = "uv_build"
+
+[tool.ruff.lint]
+extend-select = ["I"]
+# jaxtyping shape strings such as "batch d_model" read as undefined names.
+ignore = ["F821", "F722"]

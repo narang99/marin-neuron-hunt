@@ -1,0 +1,30 @@
+# Pilot: vanilla vs Matryoshka BatchTopK SAE on the residual stream after layer 8 of marin-32b-base.
+# Run: python -m marin_sae.train --config configs/layer8_mix_300m.yaml
+#
+# The mix is frozen here before any activation is computed.
+# - FineWeb is the "normal text" share.
+# - The other sources follow the shape of Marin's cooldown mix, with public stand-ins for the
+#   Marin-specific sets (arxiv_markdownified -> common-pile arxiv, medu_science_qa -> dropped).
+# - Nemotron-CC (the cooldown's web share) is gated, so FineWeb replaces it.
+data:
+  seed: 20261120
+  train_tokens: 300000000
+  eval_tokens: 2000000
+  sources:
+    - {name: fineweb,       weight: 62, repo: HuggingFaceFW/fineweb, config_name: sample-10BT}
+    - {name: pes2o,         weight: 7,  repo: allenai/dolmino-mix-1124, data_files: "data/pes2o/*.json.gz"}
+    - {name: arxiv,         weight: 7,  repo: common-pile/arxiv_papers}
+    - {name: finemath,      weight: 6,  repo: HuggingFaceTB/finemath, config_name: finemath-3plus}
+    - {name: stackexchange, weight: 5,  repo: allenai/dolmino-mix-1124, data_files: "data/stackexchange/*.json.gz"}
+    - {name: flan,          weight: 4,  repo: allenai/dolmino-mix-1124, data_files: "data/flan/*.json.gz"}
+    - {name: code,          weight: 4,  repo: bigcode/starcoderdata, data_dir: python, text_field: content}
+    - {name: wikipedia,     weight: 3,  repo: wikimedia/wikipedia, config_name: 20231101.en}
+    - {name: math,          weight: 2,  repo: allenai/dolmino-mix-1124, data_files: "data/math/mathcoder2-synthmath/ajibawa-2023/*.jsonl"}
+model:
+  layer: 8
+sae:
+  n_latents: 65536
+  k: 64
+train:
+  batch_tokens: 4096
+  lr: 0.0002
