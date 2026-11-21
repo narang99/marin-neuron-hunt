@@ -153,6 +153,19 @@ class TrainConfig(Section):
     log_every: int = Field(50, gt=0)
     checkpoint_every_tokens: int = Field(25_000_000, gt=0)
     eval_every_tokens: int = Field(50_000_000, gt=0)
+    eval_rows: int = Field(
+        500_000, gt=0, description="activation rows cached on the GPU for in-run eval"
+    )
+    keep_every_tokens: int = Field(
+        100_000_000, gt=0, description="weights-only milestones kept on the archive"
+    )
+    archive_dir: Path | None = Field(
+        None,
+        description="e.g. a Drive folder. Checkpoints are tarred, then copied here",
+    )
+    resume_from: Path | None = Field(
+        None, description="a resume tar written by an earlier run"
+    )
     device: str = Field(default_factory=default_device)
 
 
